@@ -2,7 +2,7 @@
 ## 本项目fork CMliu 大佬的epeius项目。
 
 秋名山免费公益Trojan订阅链接：
-https://qmsdh.com.877774.xyz/qmsdh_com
+https://qmsdh.com.877774.xyz/
 
 这是一个基于 CF Worker 平台的脚本，在原版的基础上修改了显示 Trojan 配置信息转换为订阅内容。使用该脚本，你可以方便地将 Trojan 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
