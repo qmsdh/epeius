@@ -1,0 +1,100 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+35.204.231.100,443,443,true,AMS,Europe,NL,Amsterdam,313,7.32
+34.175.202.195,443,443,true,MAD,Europe,ES,Madrid,371,6.64
+35.228.36.82,443,443,true,ARN,Europe,SE,Stockholm,357,6.34
+34.105.140.105,443,443,true,LHR,Europe,GB,London,391,5.37
+34.105.140.105,443,443,true,LHR,Europe,GB,London,230,5.05
+34.147.196.2,443,443,true,LHR,Europe,GB,London,246,4.78
+35.189.99.124,443,443,true,LHR,Europe,GB,London,336,3.79
+35.200.238.235,443,443,true,BOM,Asia Pacific,IN,Mumbai,440,0.51
+35.200.238.235,443,443,true,BOM,Asia Pacific,IN,Mumbai,252,0.40
+35.187.229.127,80,8080,false,SIN,Asia Pacific,SG,Singapore,47,0.00
+34.93.226.165,80,80,false,BOM,Asia Pacific,IN,Mumbai,77,0.00
+104.199.147.138,8080,80,false,TPE,Asia Pacific,TW,Taipei,96,0.00
+34.93.79.152,80,80,false,BOM,Asia Pacific,IN,Mumbai,98,0.00
+34.92.85.233,2052,2052,false,HKG,Asia Pacific,HK,Hong Kong,106,0.00
+34.92.85.233,2052,2052,false,HKG,Asia Pacific,HK,Hong Kong,117,0.00
+34.93.79.152,80,80,false,BOM,Asia Pacific,IN,Mumbai,118,0.00
+34.92.85.233,2052,2052,false,HKG,Asia Pacific,HK,Hong Kong,126,0.00
+34.93.79.152,80,80,false,BOM,Asia Pacific,IN,Mumbai,127,0.00
+34.93.226.165,80,80,false,BOM,Asia Pacific,IN,Mumbai,132,0.00
+34.92.85.233,2052,2052,false,HKG,Asia Pacific,HK,Hong Kong,132,0.00
+34.54.241.45,80,80,false,SIN,Asia Pacific,SG,Singapore,135,0.00
+34.93.79.152,80,80,false,BOM,Asia Pacific,IN,Mumbai,138,0.00
+34.120.230.33,80,80,false,SIN,Asia Pacific,SG,Singapore,141,0.00
+34.93.226.165,80,80,false,BOM,Asia Pacific,IN,Mumbai,141,0.00
+35.201.107.185,80,80,false,SIN,Asia Pacific,SG,Singapore,141,0.00
+34.93.226.165,80,80,false,BOM,Asia Pacific,IN,Mumbai,144,0.00
+34.111.103.7,80,80,false,SIN,Asia Pacific,SG,Singapore,147,0.00
+34.105.49.234,80,80,false,SEA,North America,US,Seattle,156,0.00
+34.105.49.234,80,80,false,SEA,North America,US,Seattle,157,0.00
+34.19.114.86,80,80,false,SEA,North America,US,Seattle,159,0.00
+34.82.76.253,80,80,false,SEA,North America,US,Seattle,160,0.00
+34.19.114.86,443,80,false,SEA,North America,US,Seattle,161,0.00
+34.141.248.249,2086,80,false,AMS,Europe,NL,Amsterdam,162,0.00
+34.147.101.117,2083,80,false,AMS,Europe,NL,Amsterdam,162,0.00
+34.141.221.33,2095,80,false,AMS,Europe,NL,Amsterdam,162,0.00
+34.117.254.68,80,80,false,SIN,Asia Pacific,SG,Singapore,162,0.00
+34.82.76.253,80,80,false,SEA,North America,US,Seattle,163,0.00
+34.160.118.77,80,80,false,SIN,Asia Pacific,SG,Singapore,163,0.00
+34.141.248.249,2083,80,false,AMS,Europe,NL,Amsterdam,163,0.00
+34.141.221.33,2082,80,false,AMS,Europe,NL,Amsterdam,163,0.00
+34.147.82.194,2053,80,false,AMS,Europe,NL,Amsterdam,164,0.00
+34.147.101.117,2082,80,false,AMS,Europe,NL,Amsterdam,164,0.00
+34.147.101.117,2087,80,false,SYD,Oceania,AU,Sydney,165,0.00
+34.141.248.249,2082,80,false,AMS,Europe,NL,Amsterdam,165,0.00
+34.147.101.117,2095,80,false,AMS,Europe,NL,Amsterdam,165,0.00
+34.141.221.33,2087,80,false,AMS,Europe,NL,Amsterdam,165,0.00
+35.197.89.213,80,80,false,SEA,North America,US,Seattle,166,0.00
+34.141.221.33,2052,80,false,AMS,Europe,NL,Amsterdam,166,0.00
+34.147.101.117,2082,80,false,AMS,Europe,NL,Amsterdam,166,0.00
+34.147.101.117,2053,80,false,AMS,Europe,NL,Amsterdam,167,0.00
+34.141.221.33,2086,80,false,AMS,Europe,NL,Amsterdam,167,0.00
+34.147.101.117,2053,80,false,AMS,Europe,NL,Amsterdam,168,0.00
+34.141.221.33,2053,80,false,AMS,Europe,NL,Amsterdam,169,0.00
+34.141.248.249,2087,80,false,AMS,Europe,NL,Amsterdam,170,0.00
+34.147.101.117,2083,80,false,AMS,Europe,NL,Amsterdam,171,0.00
+34.141.248.249,2095,80,false,AMS,Europe,NL,Amsterdam,171,0.00
+34.82.76.253,80,80,false,SEA,North America,US,Seattle,171,0.00
+34.147.101.117,2087,80,false,SYD,Oceania,AU,Sydney,172,0.00
+35.200.202.118,80,80,false,BOM,Asia Pacific,IN,Mumbai,173,0.00
+34.147.101.117,2086,80,false,AMS,Europe,NL,Amsterdam,173,0.00
+35.200.202.118,80,80,false,BOM,Asia Pacific,IN,Mumbai,175,0.00
+34.147.101.117,2095,80,false,AMS,Europe,NL,Amsterdam,178,0.00
+35.187.41.171,2083,80,false,CDG,Europe,FR,Paris,181,0.00
+35.247.124.181,80,80,false,SEA,North America,US,Seattle,182,0.00
+34.141.248.249,2052,80,false,AMS,Europe,NL,Amsterdam,182,0.00
+34.147.101.117,2052,80,false,AMS,Europe,NL,Amsterdam,182,0.00
+34.117.105.161,80,80,false,SIN,Asia Pacific,SG,Singapore,183,0.00
+34.141.248.249,2053,80,false,AMS,Europe,NL,Amsterdam,185,0.00
+34.147.101.117,2096,80,false,AMS,Europe,NL,Amsterdam,185,0.00
+34.160.118.77,80,80,false,SIN,Asia Pacific,SG,Singapore,187,0.00
+34.147.101.117,2052,80,false,AMS,Europe,NL,Amsterdam,190,0.00
+34.147.82.194,2053,80,false,AMS,Europe,NL,Amsterdam,192,0.00
+34.49.1.210,80,80,false,SIN,Asia Pacific,SG,Singapore,193,0.00
+34.141.248.249,2096,80,false,AMS,Europe,NL,Amsterdam,195,0.00
+34.141.221.33,2096,80,false,AMS,Europe,NL,Amsterdam,196,0.00
+34.82.76.253,80,80,false,SEA,North America,US,Seattle,196,0.00
+34.105.49.234,80,80,false,SEA,North America,US,Seattle,199,0.00
+34.56.143.151,80,8080,false,ORD,North America,US,Chicago,207,0.00
+34.141.221.33,2083,80,false,AMS,Europe,NL,Amsterdam,207,0.00
+34.147.101.117,2086,80,false,AMS,Europe,NL,Amsterdam,208,0.00
+34.56.143.151,80,8080,false,ORD,North America,US,Chicago,208,0.00
+34.19.114.86,443,80,false,SEA,North America,US,Seattle,210,0.00
+34.60.74.134,80,80,false,ORD,North America,US,Chicago,210,0.00
+34.19.114.86,80,80,false,SEA,North America,US,Seattle,211,0.00
+34.102.16.161,80,80,false,LAX,North America,US,Los Angeles,219,0.00
+34.147.101.117,2096,80,false,AMS,Europe,NL,Amsterdam,219,0.00
+34.74.105.17,80,8080,false,ATL,North America,US,Atlanta,220,0.00
+35.232.39.116,80,80,false,ORD,North America,US,Chicago,221,0.00
+34.74.105.17,80,8080,false,ATL,North America,US,Atlanta,226,0.00
+34.60.74.134,80,80,false,ORD,North America,US,Chicago,229,0.00
+35.188.87.85,80,8080,false,ORD,North America,US,Chicago,231,0.00
+35.202.49.74,80,80,false,ORD,North America,US,Chicago,245,0.00
+34.74.105.17,80,8080,false,ATL,North America,US,Atlanta,253,0.00
+34.74.105.17,80,8080,false,ATL,North America,US,Atlanta,256,0.00
+35.202.49.74,80,80,false,ORD,North America,US,Chicago,263,0.00
+35.202.49.74,80,80,false,ORD,North America,US,Chicago,277,0.00
+104.196.221.253,80,80,false,IAD,North America,US,Ashburn,280,0.00
+34.49.82.120,80,80,false,SIN,Asia Pacific,SG,Singapore,300,0.00
+34.102.16.161,80,80,false,LAX,North America,US,Los Angeles,349,0.00
