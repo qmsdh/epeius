@@ -1,174 +1,190 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-8.222.170.125,443,443,true,SIN,Asia Pacific,SG,Singapore,239,2.77
-8.219.153.135,443,443,true,SIN,Asia Pacific,SG,Singapore,184,2.77
-8.222.187.79,443,443,true,SIN,Asia Pacific,SG,Singapore,225,2.64
-8.222.159.211,443,443,true,SIN,Asia Pacific,SG,Singapore,254,2.61
-8.219.252.89,443,443,true,SIN,Asia Pacific,SG,Singapore,209,2.60
-47.90.141.204,443,443,true,LAX,North America,US,Los Angeles,309,2.57
-8.219.190.239,443,443,true,SIN,Asia Pacific,SG,Singapore,311,2.56
-8.219.161.54,443,443,true,SIN,Asia Pacific,SG,Singapore,286,2.55
-8.219.252.89,443,443,true,SIN,Asia Pacific,SG,Singapore,233,2.50
-8.222.170.156,443,443,true,SIN,Asia Pacific,SG,Singapore,321,2.48
-8.222.189.18,443,443,true,SIN,Asia Pacific,SG,Singapore,226,2.41
-8.219.71.163,443,443,true,SIN,Asia Pacific,SG,Singapore,196,2.41
-8.222.168.2,443,443,true,SIN,Asia Pacific,SG,Singapore,320,2.40
-8.222.198.109,443,443,true,SIN,Asia Pacific,SG,Singapore,237,2.40
-8.222.244.147,443,443,true,SIN,Asia Pacific,SG,Singapore,224,2.38
-47.236.127.97,443,443,true,SIN,Asia Pacific,SG,Singapore,271,2.38
-8.222.230.135,443,443,true,SIN,Asia Pacific,SG,Singapore,226,2.37
-8.222.145.180,443,443,true,SIN,Asia Pacific,SG,Singapore,223,2.34
-8.222.211.180,443,443,true,SIN,Asia Pacific,SG,Singapore,232,2.33
-8.219.197.150,443,443,true,SIN,Asia Pacific,SG,Singapore,254,2.32
-8.222.194.147,443,443,true,SIN,Asia Pacific,SG,Singapore,291,2.30
-8.219.118.138,443,443,true,SIN,Asia Pacific,SG,Singapore,132,2.24
-8.219.245.245,443,443,true,SIN,Asia Pacific,SG,Singapore,259,2.20
-8.219.212.174,443,443,true,SIN,Asia Pacific,SG,Singapore,264,2.18
-8.219.124.127,443,443,true,SIN,Asia Pacific,SG,Singapore,313,2.18
-8.219.113.81,443,443,true,SIN,Asia Pacific,SG,Singapore,144,2.17
-8.219.197.73,443,443,true,SIN,Asia Pacific,SG,Singapore,301,2.15
-8.219.92.22,443,443,true,SIN,Asia Pacific,SG,Singapore,218,2.15
-8.219.194.95,443,443,true,SIN,Asia Pacific,SG,Singapore,356,2.13
-8.219.162.87,443,443,true,SIN,Asia Pacific,SG,Singapore,291,2.12
-8.222.209.248,443,443,true,SIN,Asia Pacific,SG,Singapore,310,2.11
-8.219.130.134,443,443,true,SIN,Asia Pacific,SG,Singapore,277,2.07
-8.219.244.42,443,443,true,SIN,Asia Pacific,SG,Singapore,237,2.06
-8.222.147.150,443,443,true,SIN,Asia Pacific,SG,Singapore,303,2.04
-8.222.139.195,443,443,true,SIN,Asia Pacific,SG,Singapore,231,2.03
-8.219.125.199,443,443,true,SIN,Asia Pacific,SG,Singapore,250,2.03
-8.222.224.152,443,443,true,SIN,Asia Pacific,SG,Singapore,216,2.02
-8.219.118.138,443,443,true,SIN,Asia Pacific,SG,Singapore,247,2.02
-8.219.130.126,443,443,true,SIN,Asia Pacific,SG,Singapore,215,2.02
-8.219.244.42,443,443,true,SIN,Asia Pacific,SG,Singapore,309,1.96
-8.219.253.2,443,443,true,SIN,Asia Pacific,SG,Singapore,235,1.93
-8.222.147.16,443,443,true,SIN,Asia Pacific,SG,Singapore,271,1.91
-8.219.192.248,443,443,true,SIN,Asia Pacific,SG,Singapore,277,1.90
-8.219.249.211,443,443,true,SIN,Asia Pacific,SG,Singapore,283,1.85
-8.219.1.95,443,443,true,SIN,Asia Pacific,SG,Singapore,204,1.83
-8.222.216.216,443,443,true,SIN,Asia Pacific,SG,Singapore,260,1.83
-8.219.219.149,443,443,true,SIN,Asia Pacific,SG,Singapore,203,1.78
-8.222.206.17,443,443,true,SIN,Asia Pacific,SG,Singapore,306,1.77
-8.219.125.199,443,443,true,SIN,Asia Pacific,SG,Singapore,137,1.76
-8.219.206.237,443,443,true,SIN,Asia Pacific,SG,Singapore,307,1.76
-8.219.201.21,443,443,true,SIN,Asia Pacific,SG,Singapore,332,1.74
-8.219.96.119,443,443,true,SIN,Asia Pacific,SG,Singapore,209,1.73
-8.222.220.85,443,443,true,SIN,Asia Pacific,SG,Singapore,213,1.73
-8.219.175.210,443,443,true,SIN,Asia Pacific,SG,Singapore,197,1.69
-47.76.218.163,443,443,true,HKG,Asia Pacific,HK,Hong Kong,379,1.68
-8.219.130.14,443,443,true,SIN,Asia Pacific,SG,Singapore,303,1.67
-8.219.10.33,443,443,true,SIN,Asia Pacific,SG,Singapore,187,1.63
-8.222.198.109,443,443,true,SIN,Asia Pacific,SG,Singapore,294,1.61
-8.219.54.34,443,443,true,SIN,Asia Pacific,SG,Singapore,260,1.58
-8.219.249.211,443,443,true,SIN,Asia Pacific,SG,Singapore,296,1.58
-8.222.209.248,443,443,true,SIN,Asia Pacific,SG,Singapore,347,1.56
-8.222.230.210,443,443,true,SIN,Asia Pacific,SG,Singapore,272,1.53
-8.219.130.5,443,443,true,SIN,Asia Pacific,SG,Singapore,261,1.51
-8.219.244.134,443,443,true,SIN,Asia Pacific,SG,Singapore,243,1.51
-8.222.147.150,443,443,true,SIN,Asia Pacific,SG,Singapore,312,1.49
-8.219.192.173,443,443,true,SIN,Asia Pacific,SG,Singapore,191,1.48
-8.219.223.81,443,443,true,SIN,Asia Pacific,SG,Singapore,173,1.46
-8.219.132.126,443,443,true,SIN,Asia Pacific,SG,Singapore,258,1.46
-8.219.241.230,443,443,true,SIN,Asia Pacific,SG,Singapore,325,1.46
-8.219.215.161,443,443,true,SIN,Asia Pacific,SG,Singapore,248,1.41
-8.219.124.48,443,443,true,SIN,Asia Pacific,SG,Singapore,252,1.38
-8.222.185.22,443,443,true,SIN,Asia Pacific,SG,Singapore,241,1.34
-8.219.114.115,443,443,true,SIN,Asia Pacific,SG,Singapore,270,1.30
-8.219.114.115,443,443,true,SIN,Asia Pacific,SG,Singapore,282,1.27
-8.222.231.54,443,443,true,SIN,Asia Pacific,SG,Singapore,214,1.26
-8.219.206.237,443,443,true,SIN,Asia Pacific,SG,Singapore,234,1.26
-8.219.0.171,443,443,true,SIN,Asia Pacific,SG,Singapore,240,1.25
-8.222.205.205,443,443,true,SIN,Asia Pacific,SG,Singapore,303,1.22
-8.219.96.119,443,443,true,SIN,Asia Pacific,SG,Singapore,246,1.21
-8.222.238.181,443,443,true,SIN,Asia Pacific,SG,Singapore,251,1.21
-8.219.147.146,443,443,true,SIN,Asia Pacific,SG,Singapore,224,1.20
-8.219.126.61,443,443,true,SIN,Asia Pacific,SG,Singapore,304,1.20
-8.219.197.73,443,443,true,SIN,Asia Pacific,SG,Singapore,263,1.19
-8.219.161.54,443,443,true,SIN,Asia Pacific,SG,Singapore,210,1.18
-8.222.202.72,443,443,true,SIN,Asia Pacific,SG,Singapore,258,1.18
-8.222.220.85,443,443,true,SIN,Asia Pacific,SG,Singapore,316,1.18
-8.222.167.40,443,443,true,SIN,Asia Pacific,SG,Singapore,130,1.18
-8.222.139.102,443,443,true,SIN,Asia Pacific,SG,Singapore,243,1.17
-8.222.206.130,443,443,true,SIN,Asia Pacific,SG,Singapore,205,1.15
-8.219.175.81,443,443,true,SIN,Asia Pacific,SG,Singapore,205,1.13
-8.222.188.165,443,443,true,SIN,Asia Pacific,SG,Singapore,236,1.12
-8.219.151.153,443,443,true,SIN,Asia Pacific,SG,Singapore,308,1.12
-8.219.245.245,443,443,true,SIN,Asia Pacific,SG,Singapore,237,1.10
-8.219.95.27,443,443,true,SIN,Asia Pacific,SG,Singapore,279,1.08
-8.219.138.86,443,443,true,SIN,Asia Pacific,SG,Singapore,225,1.07
-8.219.147.146,443,443,true,SIN,Asia Pacific,SG,Singapore,310,1.07
-8.222.147.16,443,443,true,SIN,Asia Pacific,SG,Singapore,298,1.07
-8.222.157.242,443,443,true,SIN,Asia Pacific,SG,Singapore,287,1.04
-8.222.172.80,443,443,true,SIN,Asia Pacific,SG,Singapore,357,1.03
-8.222.145.180,443,443,true,SIN,Asia Pacific,SG,Singapore,254,1.02
-8.219.76.138,443,443,true,SIN,Asia Pacific,SG,Singapore,222,0.97
-47.90.141.204,443,443,true,LAX,North America,US,Los Angeles,382,0.95
-8.222.247.23,443,443,true,SIN,Asia Pacific,SG,Singapore,232,0.88
-8.222.139.215,443,443,true,SIN,Asia Pacific,SG,Singapore,275,0.87
-8.222.157.242,443,443,true,SIN,Asia Pacific,SG,Singapore,238,0.87
-8.222.139.102,443,443,true,SIN,Asia Pacific,SG,Singapore,269,0.80
-8.222.203.242,443,443,true,SIN,Asia Pacific,SG,Singapore,120,0.80
-8.219.124.48,443,443,true,SIN,Asia Pacific,SG,Singapore,279,0.78
-8.222.192.127,443,443,true,SIN,Asia Pacific,SG,Singapore,258,0.77
-8.219.126.61,443,443,true,SIN,Asia Pacific,SG,Singapore,204,0.71
-8.219.60.174,443,443,true,SIN,Asia Pacific,SG,Singapore,275,0.71
-8.222.216.216,443,443,true,SIN,Asia Pacific,SG,Singapore,195,0.68
-8.222.132.152,443,443,true,SIN,Asia Pacific,SG,Singapore,358,0.62
-8.222.148.153,443,443,true,SIN,Asia Pacific,SG,Singapore,218,0.61
-47.89.244.253,443,443,true,SJC,North America,US,San Jose,224,0.59
-8.219.151.153,443,443,true,SIN,Asia Pacific,SG,Singapore,221,0.59
-47.76.218.163,443,443,true,HKG,Asia Pacific,HK,Hong Kong,76,0.53
-8.219.106.79,443,443,true,SIN,Asia Pacific,SG,Singapore,343,0.52
-8.222.231.54,443,443,true,SIN,Asia Pacific,SG,Singapore,218,0.51
-47.83.234.54,443,443,true,HKG,Asia Pacific,HK,Hong Kong,394,0.47
-149.129.8.215,443,443,true,SJC,North America,US,San Jose,306,0.46
-8.222.252.83,443,443,true,SIN,Asia Pacific,SG,Singapore,228,0.44
-8.222.238.181,443,443,true,SIN,Asia Pacific,SG,Singapore,214,0.43
-8.210.65.243,8443,443,true,HKG,Asia Pacific,HK,Hong Kong,220,0.41
-8.222.167.40,443,443,true,SIN,Asia Pacific,SG,Singapore,222,0.41
-47.83.234.54,443,443,true,HKG,Asia Pacific,HK,Hong Kong,299,0.41
-8.219.192.248,443,443,true,SIN,Asia Pacific,SG,Singapore,275,0.34
-8.222.213.144,443,443,true,SIN,Asia Pacific,SG,Singapore,305,0.25
-47.239.198.1,443,443,true,HKG,Asia Pacific,HK,Hong Kong,334,0.20
-8.219.3.115,443,443,true,SIN,Asia Pacific,SG,Singapore,206,0.19
-47.239.198.1,443,443,true,HKG,Asia Pacific,HK,Hong Kong,359,0.18
-8.219.59.1,443,443,true,SIN,Asia Pacific,SG,Singapore,265,0.18
-8.222.242.213,443,443,true,SIN,Asia Pacific,SG,Singapore,275,0.15
-47.238.1.109,443,443,true,HKG,Asia Pacific,HK,Hong Kong,287,0.14
-47.238.1.109,443,443,true,HKG,Asia Pacific,HK,Hong Kong,287,0.14
-47.254.65.110,443,443,true,SJC,North America,US,San Jose,336,0.14
-47.254.65.110,443,443,true,SJC,North America,US,San Jose,222,0.13
-8.219.197.239,443,443,true,SIN,Asia Pacific,SG,Singapore,276,0.13
-8.222.202.13,443,443,true,SIN,Asia Pacific,SG,Singapore,285,0.12
-8.219.121.84,443,443,true,SIN,Asia Pacific,SG,Singapore,331,0.07
-8.218.26.21,443,443,true,HKG,Asia Pacific,HK,Hong Kong,330,0.07
-47.57.233.126,443,443,true,SJC,North America,US,San Jose,215,0.04
-47.80.3.26,443,443,true,ICN,Asia Pacific,KR,Seoul,169,0.04
-47.91.18.127,443,443,true,NRT,Asia Pacific,JP,Tokyo,320,0.02
-8.219.244.134,443,443,true,SIN,Asia Pacific,SG,Singapore,240,0.02
-47.243.236.86,443,443,true,HKG,Asia Pacific,HK,Hong Kong,296,0.02
-8.222.165.104,443,443,true,SIN,Asia Pacific,SG,Singapore,197,0.02
-8.222.165.104,443,443,true,SIN,Asia Pacific,SG,Singapore,247,0.01
-47.91.18.127,443,443,true,NRT,Asia Pacific,JP,Tokyo,218,0.01
-8.218.120.79,443,443,true,HKG,Asia Pacific,HK,Hong Kong,328,0.00
-8.212.12.98,80,80,false,HKG,Asia Pacific,HK,Hong Kong,98,0.00
-8.212.41.98,8080,8080,false,SJC,North America,US,San Jose,109,0.00
-47.239.28.220,80,80,false,SJC,North America,US,San Jose,111,0.00
-8.210.166.116,80,80,false,HKG,Asia Pacific,HK,Hong Kong,128,0.00
-47.57.13.107,80,80,false,HKG,Asia Pacific,HK,Hong Kong,133,0.00
-47.74.155.26,80,80,false,SIN,Asia Pacific,SG,Singapore,134,0.00
-47.238.163.16,80,443,false,HKG,Asia Pacific,HK,Hong Kong,144,0.00
-47.57.245.232,80,80,false,SJC,North America,US,San Jose,148,0.00
-8.210.166.116,80,80,false,HKG,Asia Pacific,HK,Hong Kong,160,0.00
-47.57.233.126,80,80,false,SJC,North America,US,San Jose,168,0.00
-149.129.8.215,80,80,false,SJC,North America,US,San Jose,171,0.00
-8.210.173.151,80,80,false,HKG,Asia Pacific,HK,Hong Kong,176,0.00
-8.219.77.141,80,80,false,SJC,North America,US,San Jose,176,0.00
-47.57.245.232,80,80,false,SJC,North America,US,San Jose,181,0.00
-149.129.8.215,80,80,false,SJC,North America,US,San Jose,183,0.00
-47.243.237.160,8080,8080,false,HKG,Asia Pacific,HK,Hong Kong,184,0.00
-47.57.14.118,80,80,false,SJC,North America,US,San Jose,194,0.00
-47.243.236.86,443,443,true,HKG,Asia Pacific,HK,Hong Kong,236,0.00
-47.90.141.204,80,80,false,LAX,North America,US,Los Angeles,237,0.00
-47.253.171.149,80,80,false,SJC,North America,US,San Jose,246,0.00
-47.90.141.204,80,80,false,LAX,North America,US,Los Angeles,250,0.00
-47.253.171.149,80,80,false,SJC,North America,US,San Jose,265,0.00
-8.219.117.232,443,443,true,SIN,Asia Pacific,SG,Singapore,280,0.00
+47.245.112.28,443,443,true,SIN,Asia Pacific,SG,Singapore,226,3.94
+8.222.131.111,443,443,true,SIN,Asia Pacific,SG,Singapore,286,3.93
+8.222.185.220,443,443,true,SIN,Asia Pacific,SG,Singapore,327,3.93
+8.222.196.0,443,443,true,SIN,Asia Pacific,SG,Singapore,211,3.90
+8.222.196.0,443,443,true,SIN,Asia Pacific,SG,Singapore,300,3.89
+8.222.223.75,443,443,true,SIN,Asia Pacific,SG,Singapore,146,3.81
+47.236.1.5,443,443,true,SIN,Asia Pacific,SG,Singapore,236,3.79
+47.245.91.168,443,443,true,SIN,Asia Pacific,SG,Singapore,212,3.75
+8.219.207.181,443,443,true,SIN,Asia Pacific,SG,Singapore,267,3.72
+8.219.182.42,443,443,true,SIN,Asia Pacific,SG,Singapore,179,3.70
+8.219.205.255,443,443,true,SIN,Asia Pacific,SG,Singapore,202,3.61
+8.219.221.129,443,443,true,SIN,Asia Pacific,SG,Singapore,249,3.55
+8.222.238.52,443,443,true,SIN,Asia Pacific,SG,Singapore,293,3.52
+8.222.245.115,443,443,true,SIN,Asia Pacific,SG,Singapore,236,3.48
+8.219.252.138,443,443,true,SIN,Asia Pacific,SG,Singapore,303,3.43
+8.222.130.84,443,443,true,SIN,Asia Pacific,SG,Singapore,298,3.39
+8.219.236.150,443,443,true,SIN,Asia Pacific,SG,Singapore,298,3.37
+8.222.159.245,443,443,true,SIN,Asia Pacific,SG,Singapore,245,3.35
+8.219.164.207,443,443,true,SIN,Asia Pacific,SG,Singapore,192,3.34
+8.219.212.243,443,443,true,SIN,Asia Pacific,SG,Singapore,231,3.32
+8.222.152.240,443,443,true,SIN,Asia Pacific,SG,Singapore,261,3.30
+47.245.82.6,443,443,true,NRT,Asia Pacific,JP,Tokyo,255,3.29
+8.219.130.5,443,443,true,SIN,Asia Pacific,SG,Singapore,234,3.27
+8.222.218.170,443,443,true,SIN,Asia Pacific,SG,Singapore,252,3.21
+8.222.227.78,443,443,true,SIN,Asia Pacific,SG,Singapore,85,3.18
+8.222.216.124,443,443,true,NRT,Asia Pacific,JP,Tokyo,260,3.15
+8.222.180.229,443,443,true,SIN,Asia Pacific,SG,Singapore,227,3.15
+8.222.185.220,443,443,true,SIN,Asia Pacific,SG,Singapore,206,3.13
+8.219.237.17,443,443,true,SIN,Asia Pacific,SG,Singapore,269,3.12
+8.219.180.193,443,443,true,SIN,Asia Pacific,SG,Singapore,275,3.11
+8.219.180.193,443,443,true,SIN,Asia Pacific,SG,Singapore,231,3.08
+8.219.245.43,443,443,true,SIN,Asia Pacific,SG,Singapore,319,3.08
+8.219.197.105,443,443,true,SIN,Asia Pacific,SG,Singapore,254,3.06
+8.222.150.234,443,443,true,SIN,Asia Pacific,SG,Singapore,274,3.05
+8.222.156.127,443,443,true,SIN,Asia Pacific,SG,Singapore,279,3.04
+8.219.8.7,443,443,true,SIN,Asia Pacific,SG,Singapore,255,2.98
+8.219.63.80,443,443,true,SIN,Asia Pacific,SG,Singapore,229,2.98
+8.219.232.80,443,443,true,SIN,Asia Pacific,SG,Singapore,218,2.96
+8.219.115.199,443,443,true,SIN,Asia Pacific,SG,Singapore,257,2.94
+8.219.121.4,443,443,true,SIN,Asia Pacific,SG,Singapore,324,2.93
+8.222.222.149,443,443,true,SIN,Asia Pacific,SG,Singapore,209,2.92
+47.236.12.201,443,443,true,SIN,Asia Pacific,SG,Singapore,244,2.91
+8.222.215.203,443,443,true,SIN,Asia Pacific,SG,Singapore,264,2.89
+8.219.198.85,443,443,true,SIN,Asia Pacific,SG,Singapore,146,2.87
+8.219.96.119,443,443,true,SIN,Asia Pacific,SG,Singapore,209,2.87
+8.222.245.115,443,443,true,SIN,Asia Pacific,SG,Singapore,278,2.86
+8.222.218.170,443,443,true,SIN,Asia Pacific,SG,Singapore,99,2.85
+8.219.199.191,443,443,true,SIN,Asia Pacific,SG,Singapore,215,2.83
+8.222.229.75,443,443,true,SIN,Asia Pacific,SG,Singapore,366,2.80
+8.222.130.172,443,443,true,SIN,Asia Pacific,SG,Singapore,254,2.79
+8.222.184.191,443,443,true,SIN,Asia Pacific,SG,Singapore,277,2.76
+8.219.61.135,443,443,true,SIN,Asia Pacific,SG,Singapore,267,2.75
+8.222.207.63,443,443,true,SIN,Asia Pacific,SG,Singapore,262,2.72
+8.222.231.28,443,443,true,SIN,Asia Pacific,SG,Singapore,247,2.67
+8.222.229.253,443,443,true,SIN,Asia Pacific,SG,Singapore,263,2.65
+47.90.141.204,443,443,true,LAX,North America,US,Los Angeles,313,2.64
+8.219.176.148,443,443,true,SIN,Asia Pacific,SG,Singapore,205,2.61
+8.222.218.2,443,443,true,SIN,Asia Pacific,SG,Singapore,324,2.60
+8.219.55.117,443,443,true,SIN,Asia Pacific,SG,Singapore,94,2.58
+8.219.115.82,443,443,true,SIN,Asia Pacific,SG,Singapore,214,2.49
+8.219.176.222,443,443,true,SIN,Asia Pacific,SG,Singapore,269,2.38
+8.219.242.65,443,443,true,SIN,Asia Pacific,SG,Singapore,211,2.35
+47.83.234.54,443,443,true,HKG,Asia Pacific,HK,Hong Kong,238,2.27
+8.222.243.172,443,443,true,SIN,Asia Pacific,SG,Singapore,279,2.24
+8.222.222.235,443,443,true,SIN,Asia Pacific,SG,Singapore,256,2.17
+8.219.199.25,443,443,true,SIN,Asia Pacific,SG,Singapore,235,2.17
+47.254.17.234,443,443,true,SJC,North America,US,San Jose,220,2.15
+8.219.83.208,443,443,true,SIN,Asia Pacific,SG,Singapore,210,2.11
+8.222.131.111,443,443,true,SIN,Asia Pacific,SG,Singapore,420,2.09
+8.222.172.80,443,443,true,SIN,Asia Pacific,SG,Singapore,280,2.08
+8.222.243.43,443,443,true,SIN,Asia Pacific,SG,Singapore,98,2.07
+47.83.234.54,443,443,true,HKG,Asia Pacific,HK,Hong Kong,201,2.07
+8.222.202.255,443,443,true,SIN,Asia Pacific,SG,Singapore,318,2.03
+8.219.5.172,443,443,true,SIN,Asia Pacific,SG,Singapore,256,2.03
+8.222.147.171,443,443,true,SIN,Asia Pacific,SG,Singapore,230,2.01
+8.219.184.96,443,443,true,SIN,Asia Pacific,SG,Singapore,229,1.97
+8.222.133.167,443,443,true,SIN,Asia Pacific,SG,Singapore,42,1.96
+8.222.134.9,443,443,true,SIN,Asia Pacific,SG,Singapore,257,1.93
+47.254.17.234,443,443,true,SJC,North America,US,San Jose,176,1.91
+8.222.130.172,443,443,true,SIN,Asia Pacific,SG,Singapore,250,1.90
+47.76.218.163,443,443,true,HKG,Asia Pacific,HK,Hong Kong,197,1.90
+8.219.244.211,443,443,true,SIN,Asia Pacific,SG,Singapore,255,1.89
+8.222.130.84,443,443,true,SIN,Asia Pacific,SG,Singapore,265,1.84
+8.222.240.85,443,443,true,SIN,Asia Pacific,SG,Singapore,218,1.81
+8.222.243.172,443,443,true,SIN,Asia Pacific,SG,Singapore,62,1.77
+8.222.133.167,443,443,true,SIN,Asia Pacific,SG,Singapore,284,1.73
+8.222.215.67,443,443,true,SIN,Asia Pacific,SG,Singapore,265,1.70
+8.222.148.90,443,443,true,SIN,Asia Pacific,SG,Singapore,237,1.70
+8.222.222.149,443,443,true,SIN,Asia Pacific,SG,Singapore,325,1.69
+8.222.222.235,443,443,true,SIN,Asia Pacific,SG,Singapore,320,1.65
+8.222.232.84,443,443,true,SIN,Asia Pacific,SG,Singapore,265,1.60
+8.222.184.191,443,443,true,SIN,Asia Pacific,SG,Singapore,294,1.56
+8.219.223.7,443,443,true,SIN,Asia Pacific,SG,Singapore,291,1.52
+8.222.215.171,443,443,true,SIN,Asia Pacific,SG,Singapore,268,1.50
+8.222.182.230,443,443,true,SIN,Asia Pacific,SG,Singapore,201,1.48
+8.222.215.171,443,443,true,SIN,Asia Pacific,SG,Singapore,228,1.43
+8.222.150.234,443,443,true,SIN,Asia Pacific,SG,Singapore,300,1.40
+8.222.133.159,443,443,true,SIN,Asia Pacific,SG,Singapore,283,1.37
+8.222.218.2,443,443,true,SIN,Asia Pacific,SG,Singapore,261,1.36
+8.222.208.133,443,443,true,SIN,Asia Pacific,SG,Singapore,258,1.33
+8.222.222.149,443,443,true,SIN,Asia Pacific,SG,Singapore,251,1.32
+8.219.134.94,443,443,true,SIN,Asia Pacific,SG,Singapore,273,1.31
+8.222.133.159,443,443,true,SIN,Asia Pacific,SG,Singapore,305,1.30
+8.222.150.234,443,443,true,SIN,Asia Pacific,SG,Singapore,206,1.29
+8.222.147.171,443,443,true,SIN,Asia Pacific,SG,Singapore,170,1.27
+8.222.243.43,443,443,true,SIN,Asia Pacific,SG,Singapore,267,1.23
+8.222.243.43,443,443,true,SIN,Asia Pacific,SG,Singapore,308,1.21
+8.222.215.171,443,443,true,SIN,Asia Pacific,SG,Singapore,26,1.21
+8.222.208.133,443,443,true,SIN,Asia Pacific,SG,Singapore,281,1.20
+8.222.134.9,443,443,true,SIN,Asia Pacific,SG,Singapore,231,1.15
+8.222.185.220,443,443,true,SIN,Asia Pacific,SG,Singapore,103,1.14
+8.222.152.240,443,443,true,SIN,Asia Pacific,SG,Singapore,249,1.07
+8.222.133.167,443,443,true,SIN,Asia Pacific,SG,Singapore,211,1.06
+8.219.130.5,443,443,true,SIN,Asia Pacific,SG,Singapore,202,1.04
+8.219.74.136,443,443,true,SIN,Asia Pacific,SG,Singapore,230,1.02
+8.222.227.78,443,443,true,SIN,Asia Pacific,SG,Singapore,294,0.98
+8.222.147.194,443,443,true,SIN,Asia Pacific,SG,Singapore,229,0.95
+8.222.152.240,443,443,true,SIN,Asia Pacific,SG,Singapore,30,0.90
+8.222.215.67,443,443,true,SIN,Asia Pacific,SG,Singapore,306,0.88
+8.222.240.85,443,443,true,SIN,Asia Pacific,SG,Singapore,386,0.87
+8.222.227.78,443,443,true,SIN,Asia Pacific,SG,Singapore,255,0.86
+8.222.134.9,443,443,true,SIN,Asia Pacific,SG,Singapore,343,0.85
+8.222.231.28,443,443,true,SIN,Asia Pacific,SG,Singapore,259,0.83
+8.222.182.230,443,443,true,SIN,Asia Pacific,SG,Singapore,226,0.82
+8.222.229.253,443,443,true,SIN,Asia Pacific,SG,Singapore,300,0.82
+8.222.166.252,443,443,true,SIN,Asia Pacific,SG,Singapore,269,0.80
+47.90.141.204,443,443,true,LAX,North America,US,Los Angeles,362,0.79
+8.222.215.67,443,443,true,SIN,Asia Pacific,SG,Singapore,302,0.76
+8.222.166.252,443,443,true,SIN,Asia Pacific,SG,Singapore,266,0.76
+8.219.132.249,443,443,true,SIN,Asia Pacific,SG,Singapore,313,0.72
+47.89.244.253,443,443,true,SJC,North America,US,San Jose,334,0.64
+8.222.207.63,443,443,true,SIN,Asia Pacific,SG,Singapore,72,0.62
+47.243.171.8,443,443,true,HKG,Asia Pacific,HK,Hong Kong,334,0.55
+8.222.222.235,443,443,true,SIN,Asia Pacific,SG,Singapore,126,0.54
+8.222.243.172,443,443,true,SIN,Asia Pacific,SG,Singapore,278,0.54
+8.222.133.159,443,443,true,SIN,Asia Pacific,SG,Singapore,343,0.53
+8.222.207.63,443,443,true,SIN,Asia Pacific,SG,Singapore,309,0.53
+8.222.218.2,443,443,true,SIN,Asia Pacific,SG,Singapore,260,0.48
+149.129.8.215,443,443,true,SJC,North America,US,San Jose,402,0.47
+149.129.8.215,443,443,true,SJC,North America,US,San Jose,309,0.46
+149.129.8.215,443,443,true,SJC,North America,US,San Jose,342,0.45
+47.57.13.107,443,443,true,HKG,Asia Pacific,HK,Hong Kong,87,0.42
+8.222.232.84,443,443,true,SIN,Asia Pacific,SG,Singapore,281,0.36
+47.57.13.107,443,443,true,HKG,Asia Pacific,HK,Hong Kong,281,0.36
+8.222.229.253,443,443,true,SIN,Asia Pacific,SG,Singapore,258,0.36
+47.57.233.126,443,443,true,SJC,North America,US,San Jose,227,0.33
+47.57.245.232,443,443,true,SJC,North America,US,San Jose,245,0.32
+47.57.245.232,443,443,true,SJC,North America,US,San Jose,238,0.31
+8.222.147.194,443,443,true,SIN,Asia Pacific,SG,Singapore,242,0.30
+47.236.181.185,8443,443,true,SIN,Asia Pacific,SG,Singapore,257,0.25
+47.57.233.126,443,443,true,SJC,North America,US,San Jose,229,0.24
+47.238.1.109,443,443,true,HKG,Asia Pacific,HK,Hong Kong,257,0.15
+47.254.65.110,443,443,true,SJC,North America,US,San Jose,238,0.14
+47.238.1.109,443,443,true,HKG,Asia Pacific,HK,Hong Kong,251,0.14
+8.210.19.23,8443,443,true,SJC,North America,US,San Jose,192,0.14
+47.254.65.110,443,443,true,SJC,North America,US,San Jose,407,0.13
+47.91.18.127,443,443,true,NRT,Asia Pacific,JP,Tokyo,135,0.12
+47.91.18.127,443,443,true,NRT,Asia Pacific,JP,Tokyo,224,0.10
+47.239.198.1,443,443,true,HKG,Asia Pacific,HK,Hong Kong,260,0.10
+47.239.198.1,443,443,true,HKG,Asia Pacific,HK,Hong Kong,288,0.08
+47.80.3.26,443,443,true,ICN,Asia Pacific,KR,Seoul,96,0.07
+8.222.240.85,443,443,true,SIN,Asia Pacific,SG,Singapore,235,0.03
+8.222.165.104,443,443,true,SIN,Asia Pacific,SG,Singapore,264,0.03
+47.57.14.118,443,443,true,SJC,North America,US,San Jose,215,0.02
+8.222.165.104,443,443,true,SIN,Asia Pacific,SG,Singapore,198,0.02
+8.222.165.104,443,443,true,SIN,Asia Pacific,SG,Singapore,279,0.01
+47.243.236.86,443,443,true,HKG,Asia Pacific,HK,Hong Kong,219,0.00
+8.217.147.173,8080,80,false,HKG,Asia Pacific,HK,Hong Kong,40,0.00
+47.57.13.107,80,80,false,HKG,Asia Pacific,HK,Hong Kong,103,0.00
+47.74.155.26,80,80,false,SIN,Asia Pacific,SG,Singapore,105,0.00
+8.212.12.98,80,80,false,HKG,Asia Pacific,HK,Hong Kong,108,0.00
+8.210.173.151,80,80,false,HKG,Asia Pacific,HK,Hong Kong,120,0.00
+8.212.41.98,8080,8080,false,SJC,North America,US,San Jose,122,0.00
+47.57.14.118,80,80,false,SJC,North America,US,San Jose,126,0.00
+47.57.245.232,80,80,false,SJC,North America,US,San Jose,127,0.00
+47.57.245.232,80,80,false,SJC,North America,US,San Jose,138,0.00
+47.57.233.126,80,80,false,SJC,North America,US,San Jose,143,0.00
+47.239.28.220,80,80,false,SJC,North America,US,San Jose,151,0.00
+47.243.237.160,8080,8080,false,HKG,Asia Pacific,HK,Hong Kong,158,0.00
+47.57.14.118,80,80,false,SJC,North America,US,San Jose,178,0.00
+149.129.8.215,80,80,false,SJC,North America,US,San Jose,214,0.00
+47.57.13.107,80,80,false,HKG,Asia Pacific,HK,Hong Kong,223,0.00
+47.253.171.149,80,80,false,SJC,North America,US,San Jose,242,0.00
+47.90.141.204,80,80,false,LAX,North America,US,Los Angeles,243,0.00
+149.129.8.215,80,80,false,SJC,North America,US,San Jose,268,0.00
+47.253.171.149,80,80,false,SJC,North America,US,San Jose,273,0.00
+149.129.8.215,80,80,false,SJC,North America,US,San Jose,292,0.00
+8.218.120.79,443,443,true,HKG,Asia Pacific,HK,Hong Kong,333,0.00
+47.90.141.204,80,80,false,LAX,North America,US,Los Angeles,390,0.00

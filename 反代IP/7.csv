@@ -1,106 +1,2664 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-34.175.202.195,443,443,true,MAD,Europe,ES,Madrid,435,6.62
-35.228.36.82,443,443,true,ARN,Europe,SE,Stockholm,303,6.48
-34.89.30.78,443,443,true,LHR,Europe,GB,London,331,5.57
-34.105.189.25,443,443,true,LHR,Europe,GB,London,435,5.34
-34.105.140.105,443,443,true,LHR,Europe,GB,London,513,5.13
-34.105.130.188,443,443,true,LHR,Europe,GB,London,270,5.03
-34.89.30.78,443,443,true,LHR,Europe,GB,London,294,4.90
-35.200.238.235,443,443,true,BOM,Asia Pacific,IN,Mumbai,276,0.44
-35.187.229.127,80,8080,false,SIN,Asia Pacific,SG,Singapore,33,0.00
-104.199.147.138,8080,80,false,TPE,Asia Pacific,TW,Taipei,50,0.00
-34.93.226.165,80,80,false,BOM,Asia Pacific,IN,Mumbai,79,0.00
-34.93.226.165,80,80,false,BOM,Asia Pacific,IN,Mumbai,82,0.00
-34.93.79.152,80,80,false,BOM,Asia Pacific,IN,Mumbai,83,0.00
-34.92.85.233,2052,2052,false,HKG,Asia Pacific,HK,Hong Kong,83,0.00
-34.93.226.165,80,80,false,BOM,Asia Pacific,IN,Mumbai,87,0.00
-34.92.85.233,2052,2052,false,HKG,Asia Pacific,HK,Hong Kong,103,0.00
-34.92.85.233,2052,2052,false,HKG,Asia Pacific,HK,Hong Kong,112,0.00
-34.160.118.77,80,80,false,SIN,Asia Pacific,SG,Singapore,118,0.00
-34.93.79.152,80,80,false,BOM,Asia Pacific,IN,Mumbai,118,0.00
-34.111.135.19,80,80,false,SIN,Asia Pacific,SG,Singapore,130,0.00
-34.93.79.152,80,80,false,BOM,Asia Pacific,IN,Mumbai,130,0.00
-34.36.237.86,80,80,false,SIN,Asia Pacific,SG,Singapore,138,0.00
-34.120.230.33,80,80,false,SIN,Asia Pacific,SG,Singapore,139,0.00
-34.117.254.68,80,80,false,SIN,Asia Pacific,SG,Singapore,141,0.00
-35.201.107.185,80,80,false,SIN,Asia Pacific,SG,Singapore,143,0.00
-34.49.1.210,80,80,false,SIN,Asia Pacific,SG,Singapore,145,0.00
-34.117.105.161,80,80,false,SIN,Asia Pacific,SG,Singapore,149,0.00
-34.49.82.120,80,80,false,SIN,Asia Pacific,SG,Singapore,158,0.00
-35.200.202.118,80,80,false,BOM,Asia Pacific,IN,Mumbai,158,0.00
-34.93.226.165,80,80,false,BOM,Asia Pacific,IN,Mumbai,158,0.00
-34.82.76.253,80,80,false,SEA,North America,US,Seattle,159,0.00
-35.200.202.118,80,80,false,BOM,Asia Pacific,IN,Mumbai,159,0.00
-34.19.114.86,443,80,false,SEA,North America,US,Seattle,161,0.00
-34.147.101.117,2096,80,false,AMS,Europe,NL,Amsterdam,161,0.00
-34.141.248.249,2095,80,false,AMS,Europe,NL,Amsterdam,161,0.00
-34.105.49.234,80,80,false,SEA,North America,US,Seattle,161,0.00
-34.19.114.86,80,80,false,SEA,North America,US,Seattle,161,0.00
-34.147.101.117,2083,80,false,AMS,Europe,NL,Amsterdam,161,0.00
-34.141.221.33,2053,80,false,AMS,Europe,NL,Amsterdam,162,0.00
-35.200.202.118,80,80,false,BOM,Asia Pacific,IN,Mumbai,162,0.00
-34.147.101.117,2083,80,false,AMS,Europe,NL,Amsterdam,162,0.00
-34.147.82.194,2053,80,false,AMS,Europe,NL,Amsterdam,163,0.00
-34.141.221.33,2086,80,false,AMS,Europe,NL,Amsterdam,163,0.00
-34.147.101.117,2053,80,false,AMS,Europe,NL,Amsterdam,163,0.00
-34.141.248.249,2052,80,false,AMS,Europe,NL,Amsterdam,163,0.00
-34.147.101.117,2082,80,false,AMS,Europe,NL,Amsterdam,163,0.00
-34.105.49.234,80,80,false,SEA,North America,US,Seattle,163,0.00
-34.147.82.194,2053,80,false,AMS,Europe,NL,Amsterdam,163,0.00
-34.147.101.117,2095,80,false,AMS,Europe,NL,Amsterdam,163,0.00
-34.147.101.117,2052,80,false,AMS,Europe,NL,Amsterdam,164,0.00
-34.93.79.152,80,80,false,BOM,Asia Pacific,IN,Mumbai,164,0.00
-34.105.49.234,80,80,false,SEA,North America,US,Seattle,164,0.00
-34.141.248.249,2082,80,false,AMS,Europe,NL,Amsterdam,164,0.00
-34.141.221.33,2082,80,false,AMS,Europe,NL,Amsterdam,164,0.00
-34.141.248.249,2086,80,false,AMS,Europe,NL,Amsterdam,164,0.00
-34.147.101.117,2096,80,false,AMS,Europe,NL,Amsterdam,165,0.00
-34.147.101.117,2052,80,false,AMS,Europe,NL,Amsterdam,165,0.00
-34.111.103.7,80,80,false,SIN,Asia Pacific,SG,Singapore,165,0.00
-34.141.248.249,2096,80,false,AMS,Europe,NL,Amsterdam,165,0.00
-34.141.221.33,2052,80,false,AMS,Europe,NL,Amsterdam,166,0.00
-34.147.101.117,2095,80,false,AMS,Europe,NL,Amsterdam,166,0.00
-34.147.101.117,2087,80,false,SYD,Oceania,AU,Sydney,169,0.00
-34.147.101.117,2086,80,false,AMS,Europe,NL,Amsterdam,169,0.00
-34.83.75.76,80,80,false,SEA,North America,US,Seattle,169,0.00
-34.147.101.117,2087,80,false,SYD,Oceania,AU,Sydney,170,0.00
-34.141.221.33,2087,80,false,AMS,Europe,NL,Amsterdam,173,0.00
-34.83.75.76,80,80,false,SEA,North America,US,Seattle,174,0.00
-34.141.248.249,2053,80,false,AMS,Europe,NL,Amsterdam,174,0.00
-34.83.75.76,80,80,false,SEA,North America,US,Seattle,175,0.00
-34.141.221.33,2083,80,false,AMS,Europe,NL,Amsterdam,176,0.00
-34.19.114.86,80,80,false,SEA,North America,US,Seattle,182,0.00
-34.92.85.233,2052,2052,false,HKG,Asia Pacific,HK,Hong Kong,183,0.00
-34.82.76.253,80,80,false,SEA,North America,US,Seattle,184,0.00
-34.141.248.249,2083,80,false,AMS,Europe,NL,Amsterdam,184,0.00
-34.147.101.117,2086,80,false,AMS,Europe,NL,Amsterdam,185,0.00
-34.147.101.117,2053,80,false,AMS,Europe,NL,Amsterdam,185,0.00
-34.82.76.253,80,80,false,SEA,North America,US,Seattle,186,0.00
-34.147.101.117,2082,80,false,AMS,Europe,NL,Amsterdam,188,0.00
-34.83.75.76,80,80,false,SEA,North America,US,Seattle,190,0.00
-35.197.89.213,80,80,false,SEA,North America,US,Seattle,191,0.00
-34.82.76.253,80,80,false,SEA,North America,US,Seattle,191,0.00
-34.111.135.19,80,80,false,SIN,Asia Pacific,SG,Singapore,201,0.00
-34.60.74.134,80,80,false,ORD,North America,US,Chicago,206,0.00
-34.56.143.151,80,8080,false,ORD,North America,US,Chicago,207,0.00
-34.60.74.134,80,80,false,ORD,North America,US,Chicago,207,0.00
-35.232.39.116,80,80,false,ORD,North America,US,Chicago,207,0.00
-35.188.87.85,80,8080,false,ORD,North America,US,Chicago,209,0.00
-35.247.124.181,80,80,false,SEA,North America,US,Seattle,210,0.00
-34.19.114.86,443,80,false,SEA,North America,US,Seattle,211,0.00
-35.202.49.74,80,80,false,ORD,North America,US,Chicago,214,0.00
-34.74.105.17,80,8080,false,ATL,North America,US,Atlanta,217,0.00
-34.74.105.17,80,8080,false,ATL,North America,US,Atlanta,217,0.00
-34.141.221.33,2095,80,false,AMS,Europe,NL,Amsterdam,217,0.00
-34.74.105.17,80,8080,false,ATL,North America,US,Atlanta,219,0.00
-34.102.16.161,80,80,false,LAX,North America,US,Los Angeles,235,0.00
-35.202.49.74,80,80,false,ORD,North America,US,Chicago,237,0.00
-35.202.49.74,80,80,false,ORD,North America,US,Chicago,238,0.00
-34.141.248.249,2087,80,false,AMS,Europe,NL,Amsterdam,241,0.00
-35.187.41.171,2083,80,false,CDG,Europe,FR,Paris,260,0.00
-34.56.143.151,80,8080,false,ORD,North America,US,Chicago,267,0.00
-104.196.221.253,80,80,false,IAD,North America,US,Ashburn,271,0.00
-34.141.221.33,2096,80,false,AMS,Europe,NL,Amsterdam,276,0.00
-34.74.105.17,80,8080,false,ATL,North America,US,Atlanta,277,0.00
-34.102.16.161,80,80,false,LAX,North America,US,Los Angeles,321,0.00
-34.102.16.161,80,80,false,LAX,North America,US,Los Angeles,352,0.00
+52.89.100.174,443,443,true,PDX,North America,US,Portland,218,8.97
+54.151.40.224,443,443,true,SJC,North America,US,San Jose,393,8.96
+34.212.25.147,443,443,true,SEA,North America,US,Seattle,463,8.96
+204.110.220.220,80,443,true,SJC,North America,US,San Jose,213,8.95
+34.221.20.125,8443,443,true,SEA,North America,US,Seattle,416,8.95
+34.217.87.226,443,443,true,SEA,North America,US,Seattle,324,8.95
+18.221.199.109,443,443,true,IAD,North America,US,Ashburn,375,8.95
+18.175.61.103,443,443,true,LHR,Europe,GB,London,291,8.93
+52.40.65.17,443,443,true,SEA,North America,US,Seattle,251,8.92
+54.176.205.20,80,443,true,SJC,North America,US,San Jose,406,8.92
+3.126.159.12,443,443,true,FRA,Europe,DE,Frankfurt,340,8.91
+3.101.73.167,80,443,true,SJC,North America,US,San Jose,408,8.90
+3.126.159.12,443,443,true,FRA,Europe,DE,Frankfurt,350,8.90
+54.187.240.31,443,443,true,PDX,North America,US,Portland,366,8.89
+51.20.238.138,8080,443,true,ARN,Europe,SE,Stockholm,263,8.89
+35.94.177.141,443,443,true,SEA,North America,US,Seattle,258,8.89
+54.245.158.32,443,443,true,SEA,North America,US,Seattle,334,8.89
+44.227.78.80,443,443,true,SEA,North America,US,Seattle,388,8.88
+34.214.104.193,8443,443,true,SEA,North America,US,Seattle,331,8.88
+34.220.171.252,443,443,true,SEA,North America,US,Seattle,247,8.87
+52.27.119.140,443,443,true,SEA,North America,US,Seattle,266,8.87
+52.42.71.111,443,443,true,PDX,North America,US,Portland,266,8.87
+54.177.196.101,80,443,true,SJC,North America,US,San Jose,374,8.87
+35.86.90.184,8080,443,true,PDX,North America,US,Portland,311,8.86
+34.210.39.190,443,443,true,PDX,North America,US,Portland,314,8.86
+184.169.222.179,80,443,true,SJC,North America,US,San Jose,257,8.85
+35.87.202.138,8443,443,true,SEA,North America,US,Seattle,364,8.85
+54.191.186.166,443,443,true,SEA,North America,US,Seattle,298,8.84
+34.217.174.47,443,443,true,SEA,North America,US,Seattle,286,8.83
+54.202.56.174,443,443,true,SEA,North America,US,Seattle,332,8.82
+54.187.212.113,8443,443,true,PDX,North America,US,Portland,310,8.82
+54.187.212.113,8443,443,true,PDX,North America,US,Portland,307,8.78
+35.89.160.188,8443,443,true,SEA,North America,US,Seattle,318,8.76
+35.92.142.32,443,443,true,PDX,North America,US,Portland,219,8.76
+54.70.201.49,443,443,true,PDX,North America,US,Portland,294,8.74
+3.230.207.59,8443,443,true,IAD,North America,US,Ashburn,301,8.73
+67.226.221.63,80,443,true,SJC,North America,US,San Jose,225,8.71
+3.11.236.175,443,443,true,LHR,Europe,GB,London,248,8.71
+35.88.27.65,8443,443,true,SEA,North America,US,Seattle,381,8.71
+3.82.153.90,443,443,true,IAD,North America,US,Ashburn,301,8.70
+34.220.99.189,443,443,true,SEA,North America,US,Seattle,339,8.70
+54.190.156.147,8443,443,true,SEA,North America,US,Seattle,244,8.69
+51.20.161.26,443,443,true,ARN,Europe,SE,Stockholm,260,8.68
+34.220.171.252,443,443,true,SEA,North America,US,Seattle,375,8.68
+3.67.204.194,443,443,true,FRA,Europe,DE,Frankfurt,350,8.68
+52.10.230.80,443,443,true,SEA,North America,US,Seattle,304,8.67
+34.221.160.52,443,443,true,PDX,North America,US,Portland,329,8.67
+34.221.160.52,443,443,true,PDX,North America,US,Portland,309,8.65
+44.224.24.91,443,443,true,PDX,North America,US,Portland,275,8.64
+54.201.44.170,443,443,true,PDX,North America,US,Portland,368,8.64
+54.193.104.34,80,443,true,SJC,North America,US,San Jose,408,8.64
+3.9.9.137,8443,443,true,LHR,Europe,GB,London,341,8.64
+54.186.64.99,443,443,true,PDX,North America,US,Portland,218,8.63
+54.176.113.170,80,443,true,SJC,North America,US,San Jose,348,8.63
+44.224.24.91,443,443,true,SEA,North America,US,Seattle,257,8.63
+35.159.168.72,443,443,true,FRA,Europe,DE,Frankfurt,393,8.62
+44.212.221.15,443,443,true,IAD,North America,US,Ashburn,251,8.61
+52.40.221.63,443,443,true,SEA,North America,US,Seattle,335,8.59
+3.68.197.87,8080,443,true,FRA,Europe,DE,Frankfurt,375,8.58
+54.191.186.166,443,443,true,SEA,North America,US,Seattle,370,8.58
+35.87.140.109,443,443,true,PDX,North America,US,Portland,407,8.57
+3.123.255.167,443,443,true,FRA,Europe,DE,Frankfurt,350,8.56
+54.67.101.237,443,443,true,SJC,North America,US,San Jose,388,8.56
+3.133.94.102,443,443,true,IAD,North America,US,Ashburn,322,8.56
+52.42.71.111,443,443,true,PDX,North America,US,Portland,285,8.55
+51.20.249.244,8443,443,true,AMS,Europe,NL,Amsterdam,252,8.55
+3.101.133.120,80,443,true,SJC,North America,US,San Jose,318,8.55
+50.18.133.190,80,443,true,SJC,North America,US,San Jose,191,8.55
+67.226.221.209,80,443,true,SJC,North America,US,San Jose,377,8.55
+67.226.221.27,443,443,true,SJC,North America,US,San Jose,426,8.55
+54.193.104.34,80,443,true,SJC,North America,US,San Jose,282,8.55
+52.15.115.215,8443,443,true,IAD,North America,US,Ashburn,349,8.55
+67.226.221.1,443,443,true,SJC,North America,US,San Jose,525,8.55
+67.226.221.76,80,443,true,SJC,North America,US,San Jose,288,8.54
+54.177.196.101,80,443,true,SJC,North America,US,San Jose,280,8.54
+54.183.230.155,443,443,true,SJC,North America,US,San Jose,311,8.54
+67.226.221.102,80,443,true,SJC,North America,US,San Jose,209,8.54
+204.110.220.118,80,443,true,SJC,North America,US,San Jose,217,8.54
+67.226.221.213,80,443,true,SJC,North America,US,San Jose,215,8.53
+16.170.136.116,2083,443,true,CPH,Europe,DK,Copenhagen,300,8.52
+54.202.56.174,443,443,true,SEA,North America,US,Seattle,259,8.52
+51.20.207.0,443,443,true,ARN,Europe,SE,Stockholm,235,8.52
+204.110.220.253,80,443,true,SJC,North America,US,San Jose,216,8.50
+18.236.152.142,443,443,true,SEA,North America,US,Seattle,298,8.50
+204.110.220.216,80,443,true,SJC,North America,US,San Jose,216,8.50
+54.241.79.250,80,443,true,SJC,North America,US,San Jose,290,8.49
+67.226.221.191,80,443,true,SJC,North America,US,San Jose,394,8.49
+51.20.161.26,443,443,true,ARN,Europe,SE,Stockholm,240,8.49
+54.245.155.49,443,443,true,SEA,North America,US,Seattle,247,8.49
+67.226.221.145,80,443,true,SJC,North America,US,San Jose,368,8.48
+34.208.221.169,443,443,true,SEA,North America,US,Seattle,424,8.47
+3.131.119.131,443,443,true,IAD,North America,US,Ashburn,252,8.47
+35.88.25.17,443,443,true,PDX,North America,US,Portland,333,8.45
+67.226.221.171,80,443,true,SJC,North America,US,San Jose,461,8.45
+54.219.128.169,80,443,true,SJC,North America,US,San Jose,312,8.44
+67.226.221.249,443,443,true,SJC,North America,US,San Jose,215,8.43
+204.110.220.18,80,443,true,SJC,North America,US,San Jose,222,8.43
+3.7.108.69,443,443,true,BOM,Asia Pacific,IN,Mumbai,324,8.42
+67.226.221.182,80,443,true,SJC,North America,US,San Jose,359,8.41
+54.176.113.170,80,443,true,SJC,North America,US,San Jose,277,8.41
+52.13.58.60,443,443,true,PDX,North America,US,Portland,246,8.37
+52.15.128.159,443,443,true,IAD,North America,US,Ashburn,263,8.37
+34.210.39.190,443,443,true,PDX,North America,US,Portland,243,8.37
+3.141.35.216,8443,443,true,IAD,North America,US,Ashburn,446,8.36
+3.230.120.218,443,443,true,IAD,North America,US,Ashburn,341,8.35
+3.9.9.137,2053,443,true,LHR,Europe,GB,London,256,8.34
+67.226.221.65,80,443,true,SJC,North America,US,San Jose,347,8.34
+54.176.205.20,80,443,true,SJC,North America,US,San Jose,303,8.33
+67.226.223.13,80,443,true,LHR,Europe,GB,London,326,8.32
+35.164.159.45,443,443,true,SEA,North America,US,Seattle,275,8.30
+67.226.221.151,443,443,true,SJC,North America,US,San Jose,385,8.29
+3.16.47.47,443,443,true,IAD,North America,US,Ashburn,268,8.29
+54.148.167.46,443,443,true,PDX,North America,US,Portland,343,8.29
+34.220.99.189,443,443,true,SEA,North America,US,Seattle,329,8.28
+54.67.51.212,80,443,true,SJC,North America,US,San Jose,356,8.28
+44.223.90.76,443,443,true,IAD,North America,US,Ashburn,287,8.27
+54.201.44.170,443,443,true,PDX,North America,US,Portland,217,8.25
+44.201.24.3,443,443,true,IAD,North America,US,Ashburn,551,8.25
+18.225.36.27,443,443,true,IAD,North America,US,Ashburn,331,8.25
+67.226.221.68,443,443,true,SJC,North America,US,San Jose,367,8.25
+67.226.221.104,443,443,true,SJC,North America,US,San Jose,292,8.24
+44.214.1.28,443,443,true,IAD,North America,US,Ashburn,362,8.23
+3.235.184.162,443,443,true,IAD,North America,US,Ashburn,389,8.21
+35.153.49.143,443,443,true,IAD,North America,US,Ashburn,461,8.21
+35.164.159.45,443,443,true,SEA,North America,US,Seattle,382,8.21
+3.15.209.190,443,443,true,IAD,North America,US,Ashburn,243,8.21
+204.110.220.12,80,443,true,SJC,North America,US,San Jose,223,8.20
+54.219.128.169,80,443,true,SJC,North America,US,San Jose,237,8.19
+3.101.102.25,80,443,true,SJC,North America,US,San Jose,389,8.19
+51.20.207.0,443,443,true,ARN,Europe,SE,Stockholm,326,8.16
+3.137.172.232,8443,443,true,IAD,North America,US,Ashburn,313,8.15
+3.19.70.26,443,443,true,IAD,North America,US,Ashburn,345,8.15
+67.226.221.59,443,443,true,SJC,North America,US,San Jose,248,8.14
+67.226.221.9,80,443,true,SJC,North America,US,San Jose,394,8.13
+44.220.243.179,443,443,true,IAD,North America,US,Ashburn,333,8.12
+3.143.231.175,443,443,true,IAD,North America,US,Ashburn,480,8.12
+44.205.0.194,443,443,true,IAD,North America,US,Ashburn,280,8.11
+67.226.221.213,443,443,true,SJC,North America,US,San Jose,367,8.09
+67.226.221.3,80,443,true,SJC,North America,US,San Jose,200,8.07
+54.200.244.93,443,443,true,PDX,North America,US,Portland,330,8.07
+3.15.16.140,443,443,true,IAD,North America,US,Ashburn,405,8.06
+204.110.220.71,80,443,true,SJC,North America,US,San Jose,211,8.06
+204.110.220.212,80,443,true,SJC,North America,US,San Jose,201,8.04
+18.175.164.68,443,443,true,LHR,Europe,GB,London,347,8.04
+204.110.220.157,80,443,true,SJC,North America,US,San Jose,214,8.04
+44.192.128.89,443,443,true,IAD,North America,US,Ashburn,261,8.04
+3.68.197.87,8080,443,true,FRA,Europe,DE,Frankfurt,282,8.03
+44.221.83.151,443,443,true,IAD,North America,US,Ashburn,250,8.03
+52.41.218.4,443,443,true,SEA,North America,US,Seattle,297,8.02
+54.149.11.131,80,443,true,PDX,North America,US,Portland,233,8.02
+18.217.229.62,443,443,true,IAD,North America,US,Ashburn,357,8.01
+54.67.101.237,443,443,true,SJC,North America,US,San Jose,270,8.00
+50.17.156.116,443,443,true,IAD,North America,US,Ashburn,329,8.00
+44.217.235.114,8443,443,true,IAD,North America,US,Ashburn,323,8.00
+54.190.156.147,8443,443,true,PDX,North America,US,Portland,363,8.00
+18.191.199.233,443,443,true,IAD,North America,US,Ashburn,404,7.97
+67.226.223.72,80,443,true,LHR,Europe,GB,London,370,7.97
+52.12.162.159,443,443,true,PDX,North America,US,Portland,293,7.96
+3.148.113.141,8443,443,true,IAD,North America,US,Ashburn,350,7.95
+67.226.221.68,80,443,true,SJC,North America,US,San Jose,216,7.94
+3.15.13.189,443,443,true,IAD,North America,US,Ashburn,327,7.92
+3.239.105.79,443,443,true,IAD,North America,US,Ashburn,315,7.92
+67.226.221.109,80,443,true,SJC,North America,US,San Jose,203,7.92
+67.226.221.73,443,443,true,SJC,North America,US,San Jose,216,7.92
+98.80.146.170,443,443,true,IAD,North America,US,Ashburn,305,7.91
+3.235.94.82,443,443,true,IAD,North America,US,Ashburn,275,7.91
+3.123.255.167,443,443,true,FRA,Europe,DE,Frankfurt,296,7.90
+44.195.86.77,443,443,true,IAD,North America,US,Ashburn,318,7.89
+63.176.206.217,2053,443,true,FRA,Europe,DE,Frankfurt,272,7.88
+44.205.6.3,443,443,true,IAD,North America,US,Ashburn,376,7.87
+44.193.28.196,443,443,true,IAD,North America,US,Ashburn,337,7.86
+67.226.221.3,443,443,true,SJC,North America,US,San Jose,207,7.86
+35.167.93.200,443,443,true,PDX,North America,US,Portland,240,7.85
+34.201.18.112,443,443,true,IAD,North America,US,Ashburn,391,7.84
+204.110.220.143,80,443,true,SJC,North America,US,San Jose,220,7.83
+44.213.125.222,443,443,true,IAD,North America,US,Ashburn,295,7.83
+3.129.183.128,443,443,true,CMH,North America,US,Columbus,382,7.83
+52.15.115.215,8443,443,true,ORD,North America,US,Chicago,386,7.82
+3.239.238.233,443,443,true,IAD,North America,US,Ashburn,253,7.82
+54.200.244.93,443,443,true,SEA,North America,US,Seattle,340,7.82
+35.182.188.214,443,443,true,YUL,North America,CA,Montréal,264,7.81
+204.110.220.155,80,443,true,SJC,North America,US,San Jose,204,7.81
+3.228.217.47,443,443,true,IAD,North America,US,Ashburn,297,7.81
+3.144.211.128,443,443,true,IAD,North America,US,Ashburn,257,7.80
+3.144.221.97,443,443,true,IAD,North America,US,Ashburn,262,7.79
+54.169.228.90,443,443,true,SIN,Asia Pacific,SG,Singapore,140,7.78
+67.226.223.216,80,443,true,LHR,Europe,GB,London,332,7.78
+204.110.220.238,80,443,true,SJC,North America,US,San Jose,209,7.78
+18.191.201.139,443,443,true,IAD,North America,US,Ashburn,344,7.76
+44.201.50.48,443,443,true,IAD,North America,US,Ashburn,309,7.76
+3.239.149.126,443,443,true,IAD,North America,US,Ashburn,404,7.76
+18.118.30.188,8443,443,true,IAD,North America,US,Ashburn,242,7.74
+44.197.215.108,443,443,true,IAD,North America,US,Ashburn,250,7.74
+63.176.206.217,443,443,true,FRA,Europe,DE,Frankfurt,300,7.74
+67.226.221.104,80,443,true,SJC,North America,US,San Jose,204,7.73
+3.88.110.210,2053,443,true,IAD,North America,US,Ashburn,264,7.72
+34.201.48.78,443,443,true,IAD,North America,US,Ashburn,391,7.72
+54.203.85.46,80,443,true,PDX,North America,US,Portland,230,7.72
+3.239.71.184,443,443,true,IAD,North America,US,Ashburn,301,7.71
+52.41.218.4,443,443,true,SEA,North America,US,Seattle,387,7.71
+67.226.221.254,80,443,true,SJC,North America,US,San Jose,416,7.70
+63.176.206.217,2053,443,true,FRA,Europe,DE,Frankfurt,396,7.70
+204.110.220.227,80,443,true,SJC,North America,US,San Jose,201,7.69
+67.226.221.27,80,443,true,SJC,North America,US,San Jose,366,7.69
+3.139.56.247,443,443,true,IAD,North America,US,Ashburn,347,7.68
+44.228.63.60,443,443,true,SEA,North America,US,Seattle,303,7.68
+98.84.109.147,443,443,true,IAD,North America,US,Ashburn,285,7.67
+63.176.206.217,443,443,true,FRA,Europe,DE,Frankfurt,271,7.67
+3.21.134.164,443,443,true,IAD,North America,US,Ashburn,403,7.67
+18.220.89.219,443,443,true,IAD,North America,US,Ashburn,339,7.66
+67.226.221.79,80,443,true,SJC,North America,US,San Jose,219,7.66
+3.86.85.68,443,443,true,IAD,North America,US,Ashburn,375,7.65
+67.226.221.1,80,443,true,SJC,North America,US,San Jose,219,7.64
+44.200.37.36,443,443,true,IAD,North America,US,Ashburn,293,7.63
+3.218.234.33,443,443,true,IAD,North America,US,Ashburn,248,7.63
+52.35.114.64,443,443,true,PDX,North America,US,Portland,272,7.63
+67.226.221.100,80,443,true,SJC,North America,US,San Jose,206,7.63
+3.140.194.68,443,443,true,IAD,North America,US,Ashburn,299,7.62
+3.99.192.219,443,443,true,YUL,North America,CA,Montréal,296,7.62
+34.217.193.173,443,443,true,PDX,North America,US,Portland,295,7.62
+35.167.93.200,443,443,true,SEA,North America,US,Seattle,333,7.60
+3.236.152.116,443,443,true,IAD,North America,US,Ashburn,277,7.60
+3.239.238.110,443,443,true,IAD,North America,US,Ashburn,249,7.59
+3.16.188.13,443,443,true,IAD,North America,US,Ashburn,405,7.59
+44.244.2.77,80,443,true,SEA,North America,US,Seattle,327,7.59
+3.144.211.128,443,443,true,IAD,North America,US,Ashburn,279,7.59
+35.172.195.33,443,443,true,IAD,North America,US,Ashburn,246,7.58
+44.200.162.12,443,443,true,IAD,North America,US,Ashburn,331,7.58
+44.222.219.40,443,443,true,IAD,North America,US,Ashburn,437,7.58
+67.226.221.111,80,443,true,SJC,North America,US,San Jose,199,7.58
+67.226.221.249,80,443,true,SJC,North America,US,San Jose,218,7.57
+35.170.62.214,443,443,true,IAD,North America,US,Ashburn,240,7.57
+3.235.16.33,443,443,true,IAD,North America,US,Ashburn,303,7.56
+44.223.14.206,443,443,true,IAD,North America,US,Ashburn,305,7.56
+3.15.191.146,443,443,true,IAD,North America,US,Ashburn,361,7.55
+3.223.6.165,443,443,true,IAD,North America,US,Ashburn,304,7.55
+34.219.63.12,80,443,true,SEA,North America,US,Seattle,274,7.55
+52.14.147.64,443,443,true,IAD,North America,US,Ashburn,451,7.54
+3.222.113.30,443,443,true,IAD,North America,US,Ashburn,341,7.54
+204.110.220.5,80,443,true,SJC,North America,US,San Jose,205,7.54
+204.110.220.184,80,443,true,SJC,North America,US,San Jose,203,7.53
+3.237.92.138,443,443,true,IAD,North America,US,Ashburn,331,7.53
+3.239.241.211,443,443,true,IAD,North America,US,Ashburn,265,7.52
+3.231.223.209,443,443,true,IAD,North America,US,Ashburn,275,7.52
+3.237.8.58,443,443,true,IAD,North America,US,Ashburn,379,7.50
+67.226.221.85,80,443,true,SJC,North America,US,San Jose,430,7.50
+54.191.65.60,443,443,true,PDX,North America,US,Portland,405,7.50
+3.145.130.92,443,443,true,IAD,North America,US,Ashburn,359,7.49
+54.202.115.66,80,443,true,PDX,North America,US,Portland,293,7.49
+34.216.124.126,443,443,true,PDX,North America,US,Portland,256,7.49
+18.192.62.218,443,443,true,FRA,Europe,DE,Frankfurt,303,7.49
+52.10.78.7,80,443,true,PDX,North America,US,Portland,503,7.49
+67.226.221.151,80,443,true,SJC,North America,US,San Jose,379,7.48
+3.141.223.191,8443,443,true,ORD,North America,US,Chicago,320,7.48
+3.18.162.191,2096,443,true,ORD,North America,US,Chicago,348,7.47
+44.204.251.249,443,443,true,IAD,North America,US,Ashburn,318,7.47
+52.32.90.142,80,443,true,SEA,North America,US,Seattle,449,7.47
+3.16.47.47,443,443,true,IAD,North America,US,Ashburn,280,7.47
+3.128.253.42,2053,443,true,ORD,North America,US,Chicago,272,7.46
+44.222.248.171,443,443,true,IAD,North America,US,Ashburn,375,7.45
+35.167.93.200,80,443,true,SEA,North America,US,Seattle,257,7.45
+54.191.65.60,443,443,true,PDX,North America,US,Portland,380,7.44
+44.213.90.142,443,443,true,IAD,North America,US,Ashburn,348,7.44
+3.230.2.220,443,443,true,IAD,North America,US,Ashburn,483,7.43
+44.201.49.87,443,443,true,IAD,North America,US,Ashburn,348,7.43
+3.142.122.81,443,443,true,IAD,North America,US,Ashburn,359,7.43
+67.226.221.75,80,443,true,SJC,North America,US,San Jose,455,7.43
+34.216.124.126,443,443,true,SEA,North America,US,Seattle,411,7.43
+98.84.164.65,443,443,true,IAD,North America,US,Ashburn,375,7.42
+44.197.229.225,443,443,true,IAD,North America,US,Ashburn,247,7.42
+3.239.253.161,443,443,true,IAD,North America,US,Ashburn,385,7.42
+3.94.95.156,443,443,true,IAD,North America,US,Ashburn,238,7.42
+3.148.113.141,8443,443,true,IAD,North America,US,Ashburn,226,7.42
+44.203.206.125,443,443,true,IAD,North America,US,Ashburn,270,7.42
+35.88.153.95,80,443,true,SEA,North America,US,Seattle,310,7.42
+18.198.168.3,443,443,true,FRA,Europe,DE,Frankfurt,297,7.42
+44.245.205.179,80,443,true,PDX,North America,US,Portland,323,7.41
+3.235.108.69,443,443,true,IAD,North America,US,Ashburn,282,7.41
+204.110.220.15,80,443,true,SJC,North America,US,San Jose,205,7.41
+3.143.211.229,443,443,true,IAD,North America,US,Ashburn,252,7.41
+3.231.27.127,443,443,true,IAD,North America,US,Ashburn,471,7.41
+3.235.143.225,443,443,true,IAD,North America,US,Ashburn,289,7.40
+3.216.78.26,443,443,true,IAD,North America,US,Ashburn,264,7.40
+44.203.6.105,443,443,true,IAD,North America,US,Ashburn,297,7.40
+204.110.220.233,80,443,true,SJC,North America,US,San Jose,205,7.40
+44.213.247.148,443,443,true,IAD,North America,US,Ashburn,298,7.39
+35.167.93.200,80,443,true,PDX,North America,US,Portland,273,7.39
+3.230.128.248,443,443,true,IAD,North America,US,Ashburn,298,7.39
+3.231.146.59,443,443,true,IAD,North America,US,Ashburn,282,7.38
+3.231.95.44,443,443,true,IAD,North America,US,Ashburn,385,7.38
+44.214.182.22,443,443,true,IAD,North America,US,Ashburn,285,7.38
+44.220.174.19,443,443,true,IAD,North America,US,Ashburn,327,7.37
+54.202.115.66,80,443,true,SEA,North America,US,Seattle,254,7.37
+18.217.219.245,443,443,true,IAD,North America,US,Ashburn,344,7.36
+3.235.0.62,443,443,true,IAD,North America,US,Ashburn,347,7.36
+34.200.215.97,443,443,true,IAD,North America,US,Ashburn,336,7.36
+35.165.219.81,443,443,true,SEA,North America,US,Seattle,279,7.35
+52.10.78.7,80,443,true,PDX,North America,US,Portland,283,7.35
+44.200.7.218,443,443,true,IAD,North America,US,Ashburn,291,7.35
+34.205.28.132,443,443,true,IAD,North America,US,Ashburn,280,7.35
+3.226.235.115,443,443,true,IAD,North America,US,Ashburn,254,7.33
+44.222.143.232,443,443,true,IAD,North America,US,Ashburn,293,7.32
+34.209.4.175,80,443,true,SEA,North America,US,Seattle,243,7.32
+52.10.78.7,443,443,true,PDX,North America,US,Portland,249,7.32
+34.193.164.187,443,443,true,IAD,North America,US,Ashburn,311,7.32
+52.3.236.48,443,443,true,IAD,North America,US,Ashburn,305,7.31
+44.223.102.179,443,443,true,IAD,North America,US,Ashburn,242,7.31
+3.89.81.149,443,443,true,IAD,North America,US,Ashburn,331,7.30
+44.203.238.78,443,443,true,IAD,North America,US,Ashburn,255,7.30
+34.209.4.175,80,443,true,PDX,North America,US,Portland,267,7.30
+44.195.34.230,443,443,true,IAD,North America,US,Ashburn,449,7.29
+34.223.206.64,443,443,true,PDX,North America,US,Portland,405,7.29
+3.142.52.69,443,443,true,IAD,North America,US,Ashburn,323,7.29
+3.138.103.232,443,443,true,IAD,North America,US,Ashburn,347,7.29
+3.239.106.44,443,443,true,IAD,North America,US,Ashburn,241,7.28
+3.239.187.193,443,443,true,IAD,North America,US,Ashburn,243,7.28
+34.201.31.203,443,443,true,IAD,North America,US,Ashburn,342,7.28
+35.172.109.19,443,443,true,IAD,North America,US,Ashburn,376,7.27
+3.235.195.163,443,443,true,IAD,North America,US,Ashburn,326,7.27
+34.194.76.43,443,443,true,IAD,North America,US,Ashburn,404,7.26
+52.15.97.71,8443,443,true,ORD,North America,US,Chicago,443,7.25
+18.175.240.177,80,443,true,LHR,Europe,GB,London,294,7.25
+3.136.85.50,443,443,true,IAD,North America,US,Ashburn,388,7.25
+44.199.205.56,443,443,true,IAD,North America,US,Ashburn,339,7.24
+3.139.109.136,443,443,true,IAD,North America,US,Ashburn,332,7.24
+44.245.205.179,80,443,true,PDX,North America,US,Portland,260,7.23
+3.237.87.40,443,443,true,IAD,North America,US,Ashburn,320,7.23
+54.203.85.46,443,443,true,PDX,North America,US,Portland,290,7.23
+44.192.7.123,443,443,true,IAD,North America,US,Ashburn,396,7.23
+3.138.140.28,443,443,true,IAD,North America,US,Ashburn,296,7.23
+3.142.122.81,443,443,true,IAD,North America,US,Ashburn,421,7.22
+3.23.85.118,443,443,true,IAD,North America,US,Ashburn,361,7.22
+50.18.133.190,80,443,true,SJC,North America,US,San Jose,260,7.22
+3.143.231.175,443,443,true,IAD,North America,US,Ashburn,313,7.22
+35.183.94.21,443,443,true,YUL,North America,CA,Montréal,319,7.22
+3.99.140.50,443,443,true,YUL,North America,CA,Montréal,296,7.21
+44.192.49.189,443,443,true,IAD,North America,US,Ashburn,357,7.21
+3.233.237.162,443,443,true,IAD,North America,US,Ashburn,261,7.21
+44.222.239.4,443,443,true,IAD,North America,US,Ashburn,339,7.21
+3.91.147.95,443,443,true,IAD,North America,US,Ashburn,274,7.20
+44.200.62.190,443,443,true,IAD,North America,US,Ashburn,256,7.20
+44.212.26.177,443,443,true,IAD,North America,US,Ashburn,368,7.20
+52.10.78.7,443,443,true,PDX,North America,US,Portland,320,7.19
+3.143.244.172,8443,443,true,IAD,North America,US,Ashburn,285,7.19
+44.204.143.28,443,443,true,IAD,North America,US,Ashburn,321,7.19
+34.201.24.63,443,443,true,IAD,North America,US,Ashburn,308,7.19
+44.193.8.148,443,443,true,IAD,North America,US,Ashburn,399,7.19
+3.239.68.49,443,443,true,IAD,North America,US,Ashburn,259,7.18
+18.216.229.231,443,443,true,IAD,North America,US,Ashburn,366,7.18
+3.233.232.168,443,443,true,IAD,North America,US,Ashburn,298,7.18
+44.199.253.135,443,443,true,IAD,North America,US,Ashburn,259,7.18
+3.17.129.88,443,443,true,IAD,North America,US,Ashburn,282,7.17
+54.149.11.131,80,443,true,SEA,North America,US,Seattle,346,7.17
+67.226.221.210,80,443,true,SJC,North America,US,San Jose,434,7.17
+44.203.13.209,443,443,true,IAD,North America,US,Ashburn,393,7.16
+3.231.216.84,443,443,true,IAD,North America,US,Ashburn,373,7.16
+34.216.124.126,80,443,true,PDX,North America,US,Portland,380,7.16
+18.192.152.35,8443,443,true,FRA,Europe,DE,Frankfurt,251,7.15
+44.228.63.60,80,443,true,SEA,North America,US,Seattle,413,7.15
+54.203.85.46,443,443,true,SEA,North America,US,Seattle,311,7.15
+34.200.252.131,443,443,true,IAD,North America,US,Ashburn,312,7.15
+3.215.181.163,443,443,true,IAD,North America,US,Ashburn,343,7.15
+34.200.242.82,443,443,true,IAD,North America,US,Ashburn,275,7.15
+44.222.241.45,443,443,true,IAD,North America,US,Ashburn,332,7.14
+3.135.223.39,443,443,true,IAD,North America,US,Ashburn,227,7.14
+44.228.63.60,443,443,true,SEA,North America,US,Seattle,278,7.14
+3.229.123.3,443,443,true,IAD,North America,US,Ashburn,342,7.14
+34.200.250.115,443,443,true,IAD,North America,US,Ashburn,303,7.13
+3.236.130.35,443,443,true,IAD,North America,US,Ashburn,297,7.13
+44.215.68.74,443,443,true,IAD,North America,US,Ashburn,259,7.12
+204.110.220.192,80,443,true,SJC,North America,US,San Jose,206,7.12
+54.166.213.213,2053,443,true,IAD,North America,US,Ashburn,268,7.12
+34.205.133.46,443,443,true,IAD,North America,US,Ashburn,352,7.12
+3.237.200.113,443,443,true,IAD,North America,US,Ashburn,375,7.10
+34.219.63.12,443,443,true,SEA,North America,US,Seattle,278,7.10
+3.22.241.99,443,443,true,CMH,North America,US,Columbus,314,7.10
+44.203.31.162,443,443,true,IAD,North America,US,Ashburn,400,7.09
+67.226.221.221,80,443,true,SJC,North America,US,San Jose,198,7.09
+3.17.147.140,443,443,true,IAD,North America,US,Ashburn,251,7.09
+34.219.63.12,443,443,true,SEA,North America,US,Seattle,317,7.08
+44.214.92.174,443,443,true,IAD,North America,US,Ashburn,255,7.08
+3.133.96.243,443,443,true,IAD,North America,US,Ashburn,240,7.08
+35.183.142.4,443,443,true,YUL,North America,CA,Montréal,299,7.08
+51.20.50.91,8880,443,true,ARN,Europe,SE,Stockholm,248,7.08
+3.235.57.135,443,443,true,IAD,North America,US,Ashburn,234,7.07
+34.223.206.64,443,443,true,PDX,North America,US,Portland,263,7.07
+52.32.90.142,80,443,true,PDX,North America,US,Portland,356,7.07
+34.205.4.139,443,443,true,IAD,North America,US,Ashburn,323,7.07
+44.203.211.58,443,443,true,IAD,North America,US,Ashburn,265,7.07
+44.198.190.253,443,443,true,IAD,North America,US,Ashburn,458,7.06
+3.235.46.2,443,443,true,IAD,North America,US,Ashburn,396,7.06
+44.211.120.228,443,443,true,IAD,North America,US,Ashburn,403,7.05
+3.215.175.134,443,443,true,IAD,North America,US,Ashburn,287,7.04
+34.219.63.12,80,443,true,PDX,North America,US,Portland,266,7.04
+44.215.104.135,443,443,true,IAD,North America,US,Ashburn,292,7.04
+44.197.199.79,443,443,true,IAD,North America,US,Ashburn,291,7.04
+34.201.3.177,443,443,true,IAD,North America,US,Ashburn,241,7.04
+3.139.54.72,443,443,true,IAD,North America,US,Ashburn,328,7.03
+44.211.183.157,443,443,true,IAD,North America,US,Ashburn,261,7.02
+3.138.195.149,443,443,true,IAD,North America,US,Ashburn,376,7.02
+3.236.19.178,443,443,true,IAD,North America,US,Ashburn,421,7.02
+34.205.174.17,443,443,true,IAD,North America,US,Ashburn,293,7.01
+18.236.13.188,80,443,true,PDX,North America,US,Portland,288,7.01
+52.41.218.4,80,443,true,PDX,North America,US,Portland,300,7.01
+44.195.1.66,443,443,true,IAD,North America,US,Ashburn,383,7.00
+54.203.85.46,80,443,true,SEA,North America,US,Seattle,354,7.00
+18.118.17.95,443,443,true,IAD,North America,US,Ashburn,320,7.00
+3.236.166.87,443,443,true,IAD,North America,US,Ashburn,295,7.00
+3.88.110.210,8443,443,true,IAD,North America,US,Ashburn,233,7.00
+35.155.38.149,443,443,true,PDX,North America,US,Portland,367,6.99
+3.231.205.250,443,443,true,IAD,North America,US,Ashburn,693,6.99
+3.142.148.246,443,443,true,IAD,North America,US,Ashburn,256,6.99
+44.222.185.233,443,443,true,IAD,North America,US,Ashburn,389,6.99
+3.230.128.246,443,443,true,IAD,North America,US,Ashburn,339,6.99
+44.222.239.36,443,443,true,IAD,North America,US,Ashburn,368,6.99
+3.85.211.138,443,443,true,IAD,North America,US,Ashburn,258,6.98
+3.239.217.249,443,443,true,IAD,North America,US,Ashburn,256,6.98
+44.199.197.13,443,443,true,IAD,North America,US,Ashburn,260,6.98
+52.55.146.127,443,443,true,IAD,North America,US,Ashburn,315,6.97
+44.211.56.236,443,443,true,IAD,North America,US,Ashburn,248,6.97
+44.193.1.121,443,443,true,IAD,North America,US,Ashburn,311,6.97
+34.205.87.105,443,443,true,IAD,North America,US,Ashburn,351,6.97
+67.226.222.16,80,443,true,ORD,North America,US,Chicago,279,6.97
+3.99.192.219,443,443,true,YUL,North America,CA,Montréal,258,6.96
+3.76.206.85,443,443,true,FRA,Europe,DE,Frankfurt,363,6.96
+44.203.11.102,443,443,true,IAD,North America,US,Ashburn,256,6.95
+67.226.221.140,443,443,true,SJC,North America,US,San Jose,356,6.95
+3.230.207.59,2087,443,true,IAD,North America,US,Ashburn,302,6.95
+18.225.72.152,8443,443,true,IAD,North America,US,Ashburn,353,6.95
+204.110.220.100,80,443,true,SJC,North America,US,San Jose,221,6.95
+3.216.90.248,443,443,true,IAD,North America,US,Ashburn,254,6.95
+18.175.169.150,443,443,true,LHR,Europe,GB,London,422,6.95
+3.236.227.198,443,443,true,IAD,North America,US,Ashburn,297,6.94
+44.192.79.84,443,443,true,IAD,North America,US,Ashburn,252,6.93
+52.41.218.4,80,443,true,PDX,North America,US,Portland,286,6.93
+44.221.77.203,443,443,true,IAD,North America,US,Ashburn,247,6.92
+3.123.242.99,443,443,true,FRA,Europe,DE,Frankfurt,275,6.92
+44.195.38.190,443,443,true,IAD,North America,US,Ashburn,297,6.90
+44.192.60.104,443,443,true,IAD,North America,US,Ashburn,415,6.90
+44.244.2.77,80,443,true,PDX,North America,US,Portland,298,6.89
+35.155.38.149,443,443,true,PDX,North America,US,Portland,464,6.89
+3.23.98.216,443,443,true,IAD,North America,US,Ashburn,295,6.89
+44.204.200.158,443,443,true,IAD,North America,US,Ashburn,328,6.88
+3.210.198.250,443,443,true,IAD,North America,US,Ashburn,256,6.87
+35.171.140.167,443,443,true,IAD,North America,US,Ashburn,324,6.86
+3.18.169.201,443,443,true,CMH,North America,US,Columbus,280,6.86
+51.20.50.91,8880,443,true,ARN,Europe,SE,Stockholm,239,6.86
+44.192.88.154,443,443,true,IAD,North America,US,Ashburn,401,6.86
+44.192.113.147,443,443,true,IAD,North America,US,Ashburn,335,6.86
+44.223.97.46,443,443,true,IAD,North America,US,Ashburn,289,6.85
+35.86.111.214,443,443,true,SEA,North America,US,Seattle,243,6.84
+44.205.3.83,443,443,true,IAD,North America,US,Ashburn,254,6.84
+18.216.55.100,443,443,true,ORD,North America,US,Chicago,485,6.84
+52.3.221.1,443,443,true,IAD,North America,US,Ashburn,356,6.83
+3.237.80.31,443,443,true,IAD,North America,US,Ashburn,244,6.83
+3.239.216.37,443,443,true,IAD,North America,US,Ashburn,295,6.83
+44.204.99.237,443,443,true,IAD,North America,US,Ashburn,255,6.83
+3.139.54.72,443,443,true,IAD,North America,US,Ashburn,455,6.82
+44.220.176.87,443,443,true,IAD,North America,US,Ashburn,416,6.82
+3.76.206.85,443,443,true,FRA,Europe,DE,Frankfurt,366,6.82
+35.183.22.71,443,443,true,YUL,North America,CA,Montréal,413,6.82
+44.204.221.141,443,443,true,IAD,North America,US,Ashburn,262,6.81
+44.200.167.152,443,443,true,IAD,North America,US,Ashburn,262,6.81
+52.15.128.159,443,443,true,IAD,North America,US,Ashburn,404,6.81
+44.201.52.145,443,443,true,IAD,North America,US,Ashburn,352,6.80
+44.202.203.190,443,443,true,IAD,North America,US,Ashburn,316,6.80
+3.80.10.38,443,443,true,IAD,North America,US,Ashburn,279,6.80
+44.222.179.167,443,443,true,IAD,North America,US,Ashburn,396,6.80
+3.236.204.15,443,443,true,IAD,North America,US,Ashburn,272,6.80
+34.200.218.33,443,443,true,IAD,North America,US,Ashburn,408,6.79
+44.203.231.103,443,443,true,IAD,North America,US,Ashburn,394,6.79
+3.86.231.180,443,443,true,IAD,North America,US,Ashburn,403,6.79
+34.200.231.43,443,443,true,IAD,North America,US,Ashburn,331,6.79
+34.201.19.205,443,443,true,IAD,North America,US,Ashburn,360,6.79
+35.175.123.2,443,443,true,IAD,North America,US,Ashburn,244,6.79
+3.235.173.72,443,443,true,IAD,North America,US,Ashburn,339,6.78
+44.193.213.89,443,443,true,IAD,North America,US,Ashburn,284,6.78
+44.199.242.226,443,443,true,IAD,North America,US,Ashburn,334,6.78
+18.236.13.188,443,443,true,PDX,North America,US,Portland,272,6.77
+204.110.223.148,80,443,true,ORD,North America,US,Chicago,322,6.77
+3.123.242.99,443,443,true,FRA,Europe,DE,Frankfurt,262,6.77
+18.222.145.58,443,443,true,ORD,North America,US,Chicago,354,6.77
+44.193.7.170,443,443,true,IAD,North America,US,Ashburn,369,6.76
+67.226.222.230,80,443,true,CMH,North America,US,Columbus,544,6.75
+3.239.226.201,443,443,true,IAD,North America,US,Ashburn,337,6.75
+204.110.223.102,80,443,true,CMH,North America,US,Columbus,254,6.75
+3.235.248.251,443,443,true,IAD,North America,US,Ashburn,250,6.75
+35.170.60.114,443,443,true,IAD,North America,US,Ashburn,240,6.74
+34.205.90.176,443,443,true,IAD,North America,US,Ashburn,323,6.74
+50.16.238.82,8443,443,true,IAD,North America,US,Ashburn,341,6.74
+35.183.22.71,443,443,true,YUL,North America,CA,Montréal,291,6.74
+34.201.19.111,443,443,true,IAD,North America,US,Ashburn,344,6.73
+3.237.186.197,443,443,true,IAD,North America,US,Ashburn,406,6.73
+3.230.159.126,443,443,true,IAD,North America,US,Ashburn,313,6.72
+3.235.231.152,443,443,true,IAD,North America,US,Ashburn,247,6.72
+3.18.169.201,443,443,true,ORD,North America,US,Chicago,235,6.72
+98.80.137.213,443,443,true,IAD,North America,US,Ashburn,375,6.71
+34.201.21.48,443,443,true,IAD,North America,US,Ashburn,324,6.70
+3.235.101.166,443,443,true,IAD,North America,US,Ashburn,314,6.69
+44.199.227.175,443,443,true,IAD,North America,US,Ashburn,263,6.69
+44.202.77.91,443,443,true,IAD,North America,US,Ashburn,331,6.68
+3.235.91.136,443,443,true,IAD,North America,US,Ashburn,270,6.68
+3.239.167.26,443,443,true,IAD,North America,US,Ashburn,295,6.67
+204.110.223.155,80,443,true,CMH,North America,US,Columbus,315,6.67
+3.93.34.57,443,443,true,IAD,North America,US,Ashburn,259,6.67
+3.235.162.191,443,443,true,IAD,North America,US,Ashburn,325,6.67
+44.200.25.51,443,443,true,IAD,North America,US,Ashburn,372,6.66
+3.222.188.142,443,443,true,IAD,North America,US,Ashburn,410,6.66
+35.183.142.4,443,443,true,YUL,North America,CA,Montréal,325,6.66
+204.110.223.70,443,443,true,CMH,North America,US,Columbus,252,6.66
+3.92.74.145,443,443,true,IAD,North America,US,Ashburn,366,6.66
+3.131.119.131,443,443,true,IAD,North America,US,Ashburn,416,6.65
+3.83.36.103,443,443,true,IAD,North America,US,Ashburn,339,6.65
+35.183.94.21,443,443,true,YUL,North America,CA,Montréal,258,6.65
+44.195.49.39,443,443,true,IAD,North America,US,Ashburn,369,6.64
+35.170.62.21,443,443,true,IAD,North America,US,Ashburn,283,6.64
+44.200.56.130,443,443,true,IAD,North America,US,Ashburn,286,6.63
+44.198.55.199,443,443,true,IAD,North America,US,Ashburn,289,6.62
+44.197.113.94,443,443,true,IAD,North America,US,Ashburn,308,6.61
+44.213.250.112,443,443,true,IAD,North America,US,Ashburn,252,6.61
+3.239.189.67,443,443,true,IAD,North America,US,Ashburn,370,6.61
+44.197.213.82,443,443,true,IAD,North America,US,Ashburn,343,6.61
+3.236.174.200,443,443,true,IAD,North America,US,Ashburn,321,6.60
+34.201.31.167,443,443,true,IAD,North America,US,Ashburn,310,6.60
+15.185.192.238,443,443,true,MRS,Europe,FR,Marseille,301,6.59
+54.166.213.213,8443,443,true,IAD,North America,US,Ashburn,291,6.58
+35.153.126.197,443,443,true,IAD,North America,US,Ashburn,345,6.58
+3.17.152.152,443,443,true,IAD,North America,US,Ashburn,298,6.58
+67.226.222.110,80,443,true,CMH,North America,US,Columbus,293,6.57
+204.110.223.105,80,443,true,CMH,North America,US,Columbus,306,6.57
+44.211.50.176,443,443,true,IAD,North America,US,Ashburn,395,6.56
+3.94.29.156,443,443,true,IAD,North America,US,Ashburn,346,6.56
+3.145.192.143,443,443,true,IAD,North America,US,Ashburn,257,6.56
+34.200.249.13,443,443,true,IAD,North America,US,Ashburn,355,6.56
+3.231.24.241,443,443,true,IAD,North America,US,Ashburn,257,6.55
+44.203.23.144,443,443,true,IAD,North America,US,Ashburn,330,6.54
+44.200.20.166,443,443,true,IAD,North America,US,Ashburn,298,6.54
+3.235.62.229,443,443,true,IAD,North America,US,Ashburn,325,6.54
+35.172.240.85,443,443,true,IAD,North America,US,Ashburn,317,6.54
+3.231.206.241,443,443,true,IAD,North America,US,Ashburn,301,6.53
+204.110.220.58,80,443,true,SJC,North America,US,San Jose,199,6.52
+204.110.223.42,80,443,true,CMH,North America,US,Columbus,259,6.52
+44.202.211.222,443,443,true,IAD,North America,US,Ashburn,323,6.52
+204.110.223.177,80,443,true,CMH,North America,US,Columbus,319,6.52
+44.197.214.121,443,443,true,IAD,North America,US,Ashburn,415,6.51
+44.197.177.121,443,443,true,IAD,North America,US,Ashburn,280,6.51
+99.79.50.183,443,443,true,YUL,North America,CA,Montréal,286,6.51
+3.235.132.62,443,443,true,IAD,North America,US,Ashburn,330,6.51
+204.110.223.164,80,443,true,ORD,North America,US,Chicago,244,6.51
+67.226.221.73,80,443,true,SJC,North America,US,San Jose,448,6.50
+204.110.223.79,80,443,true,ORD,North America,US,Chicago,257,6.49
+3.231.152.35,443,443,true,IAD,North America,US,Ashburn,266,6.49
+54.172.226.111,8443,443,true,IAD,North America,US,Ashburn,371,6.49
+18.222.233.179,443,443,true,IAD,North America,US,Ashburn,453,6.48
+15.184.152.100,2087,443,true,FRA,Europe,DE,Frankfurt,393,6.47
+44.202.212.169,443,443,true,IAD,North America,US,Ashburn,402,6.47
+3.239.247.169,443,443,true,IAD,North America,US,Ashburn,264,6.47
+44.211.28.28,443,443,true,IAD,North America,US,Ashburn,315,6.47
+44.199.201.201,443,443,true,IAD,North America,US,Ashburn,271,6.46
+44.193.204.139,443,443,true,IAD,North America,US,Ashburn,308,6.46
+3.231.58.5,443,443,true,IAD,North America,US,Ashburn,391,6.46
+67.226.221.98,80,443,true,SJC,North America,US,San Jose,437,6.46
+34.200.226.237,443,443,true,IAD,North America,US,Ashburn,288,6.44
+3.235.150.239,443,443,true,IAD,North America,US,Ashburn,339,6.44
+3.235.108.216,443,443,true,IAD,North America,US,Ashburn,300,6.44
+204.110.223.240,80,443,true,CMH,North America,US,Columbus,259,6.44
+3.237.60.212,443,443,true,IAD,North America,US,Ashburn,311,6.44
+44.222.242.223,443,443,true,IAD,North America,US,Ashburn,324,6.43
+44.199.236.89,443,443,true,IAD,North America,US,Ashburn,244,6.43
+44.204.123.230,443,443,true,IAD,North America,US,Ashburn,286,6.43
+34.239.173.210,443,443,true,IAD,North America,US,Ashburn,306,6.42
+35.170.71.19,443,443,true,IAD,North America,US,Ashburn,316,6.42
+44.204.250.12,443,443,true,IAD,North America,US,Ashburn,294,6.42
+44.199.188.8,443,443,true,IAD,North America,US,Ashburn,247,6.42
+3.234.220.254,443,443,true,IAD,North America,US,Ashburn,289,6.41
+3.215.176.54,443,443,true,IAD,North America,US,Ashburn,245,6.41
+3.236.14.237,443,443,true,IAD,North America,US,Ashburn,372,6.41
+34.201.24.84,443,443,true,IAD,North America,US,Ashburn,281,6.41
+44.214.138.44,443,443,true,IAD,North America,US,Ashburn,256,6.40
+54.172.226.111,2053,443,true,IAD,North America,US,Ashburn,264,6.40
+3.237.97.145,443,443,true,IAD,North America,US,Ashburn,378,6.40
+67.226.222.95,80,443,true,CMH,North America,US,Columbus,289,6.39
+34.200.216.140,443,443,true,IAD,North America,US,Ashburn,357,6.39
+44.199.216.9,443,443,true,IAD,North America,US,Ashburn,313,6.39
+204.110.223.160,80,443,true,CMH,North America,US,Columbus,333,6.38
+52.40.102.162,443,443,true,SEA,North America,US,Seattle,290,6.38
+3.231.229.173,443,443,true,IAD,North America,US,Ashburn,357,6.37
+3.234.139.148,443,443,true,IAD,North America,US,Ashburn,371,6.36
+3.139.109.136,443,443,true,IAD,North America,US,Ashburn,363,6.36
+3.208.92.225,443,443,true,IAD,North America,US,Ashburn,266,6.36
+204.110.223.194,80,443,true,ORD,North America,US,Chicago,316,6.36
+67.226.221.114,80,443,true,SJC,North America,US,San Jose,409,6.36
+34.227.133.207,443,443,true,IAD,North America,US,Ashburn,323,6.34
+3.237.241.129,443,443,true,IAD,North America,US,Ashburn,299,6.34
+44.199.183.247,443,443,true,IAD,North America,US,Ashburn,274,6.34
+204.110.220.103,80,443,true,SJC,North America,US,San Jose,210,6.33
+3.99.140.50,443,443,true,YUL,North America,CA,Montréal,346,6.31
+3.237.69.254,443,443,true,IAD,North America,US,Ashburn,284,6.31
+3.24.174.233,443,443,true,SYD,Oceania,AU,Sydney,284,6.30
+204.110.223.249,443,443,true,CMH,North America,US,Columbus,325,6.29
+204.110.223.238,80,443,true,CMH,North America,US,Columbus,241,6.29
+44.197.188.7,443,443,true,IAD,North America,US,Ashburn,423,6.27
+3.235.77.207,443,443,true,IAD,North America,US,Ashburn,356,6.27
+3.24.174.233,443,443,true,SYD,Oceania,AU,Sydney,358,6.27
+3.92.74.195,443,443,true,IAD,North America,US,Ashburn,307,6.27
+44.199.192.5,443,443,true,IAD,North America,US,Ashburn,251,6.26
+44.197.218.142,443,443,true,IAD,North America,US,Ashburn,288,6.26
+204.110.223.86,80,443,true,CMH,North America,US,Columbus,251,6.26
+44.195.62.9,443,443,true,IAD,North America,US,Ashburn,335,6.26
+67.226.222.3,80,443,true,CMH,North America,US,Columbus,236,6.26
+3.237.106.252,443,443,true,IAD,North America,US,Ashburn,378,6.25
+44.222.213.89,443,443,true,IAD,North America,US,Ashburn,251,6.25
+204.110.223.186,443,443,true,CMH,North America,US,Columbus,259,6.24
+3.239.255.56,443,443,true,IAD,North America,US,Ashburn,339,6.24
+44.210.23.5,443,443,true,IAD,North America,US,Ashburn,345,6.23
+204.110.223.164,443,443,true,ORD,North America,US,Chicago,255,6.23
+3.231.223.177,443,443,true,IAD,North America,US,Ashburn,358,6.22
+204.110.223.23,80,443,true,ORD,North America,US,Chicago,317,6.22
+204.110.223.136,80,443,true,ORD,North America,US,Chicago,321,6.21
+44.192.116.223,443,443,true,IAD,North America,US,Ashburn,267,6.21
+3.237.64.237,443,443,true,IAD,North America,US,Ashburn,313,6.20
+44.198.59.254,443,443,true,IAD,North America,US,Ashburn,322,6.20
+34.201.42.64,443,443,true,IAD,North America,US,Ashburn,294,6.20
+3.231.55.229,443,443,true,IAD,North America,US,Ashburn,427,6.20
+44.203.235.42,443,443,true,IAD,North America,US,Ashburn,406,6.19
+44.200.157.84,443,443,true,IAD,North America,US,Ashburn,250,6.19
+204.110.223.163,80,443,true,ORD,North America,US,Chicago,244,6.18
+204.110.223.177,443,443,true,ORD,North America,US,Chicago,252,6.15
+44.211.93.255,443,443,true,IAD,North America,US,Ashburn,290,6.15
+44.213.90.37,443,443,true,IAD,North America,US,Ashburn,512,6.15
+44.204.225.235,443,443,true,IAD,North America,US,Ashburn,243,6.14
+3.226.249.41,443,443,true,IAD,North America,US,Ashburn,263,6.14
+204.110.220.215,80,443,true,SJC,North America,US,San Jose,226,6.12
+3.215.180.199,443,443,true,IAD,North America,US,Ashburn,309,6.11
+44.215.121.190,443,443,true,IAD,North America,US,Ashburn,316,6.10
+34.239.153.9,443,443,true,IAD,North America,US,Ashburn,360,6.10
+3.97.173.206,80,443,true,YUL,North America,CA,Montréal,272,6.10
+204.110.223.207,443,443,true,CMH,North America,US,Columbus,243,6.09
+44.200.93.99,443,443,true,IAD,North America,US,Ashburn,349,6.08
+35.182.7.190,443,443,true,YUL,North America,CA,Montréal,321,6.08
+3.239.254.74,443,443,true,IAD,North America,US,Ashburn,265,6.08
+3.239.195.39,443,443,true,IAD,North America,US,Ashburn,275,6.08
+54.236.212.166,8443,443,true,IAD,North America,US,Ashburn,268,6.07
+35.182.188.214,443,443,true,YUL,North America,CA,Montréal,287,6.07
+3.235.92.114,443,443,true,IAD,North America,US,Ashburn,267,6.07
+204.110.223.72,80,443,true,ORD,North America,US,Chicago,254,6.05
+204.110.223.207,80,443,true,CMH,North America,US,Columbus,234,6.04
+44.204.139.209,443,443,true,IAD,North America,US,Ashburn,396,6.04
+44.204.243.56,443,443,true,IAD,North America,US,Ashburn,337,6.03
+204.110.221.116,80,443,true,YUL,North America,CA,Montréal,261,6.02
+44.222.236.175,443,443,true,IAD,North America,US,Ashburn,252,6.02
+18.192.152.35,2053,443,true,FRA,Europe,DE,Frankfurt,276,6.02
+3.234.177.1,443,443,true,IAD,North America,US,Ashburn,342,6.00
+44.222.242.83,443,443,true,IAD,North America,US,Ashburn,306,6.00
+34.219.53.148,443,443,true,PDX,North America,US,Portland,288,6.00
+204.110.223.199,80,443,true,ORD,North America,US,Chicago,246,5.99
+54.89.91.89,443,443,true,IAD,North America,US,Ashburn,244,5.99
+107.20.102.129,443,443,true,IAD,North America,US,Ashburn,267,5.99
+3.146.65.122,2083,443,true,IAD,North America,US,Ashburn,238,5.99
+44.204.220.51,443,443,true,IAD,North America,US,Ashburn,295,5.97
+44.200.115.87,443,443,true,IAD,North America,US,Ashburn,376,5.96
+3.237.186.235,443,443,true,IAD,North America,US,Ashburn,242,5.96
+3.97.173.206,80,443,true,YUL,North America,CA,Montréal,291,5.96
+3.147.73.220,443,443,true,ORD,North America,US,Chicago,363,5.94
+204.110.220.173,80,443,true,SJC,North America,US,San Jose,213,5.94
+3.239.65.166,443,443,true,IAD,North America,US,Ashburn,240,5.94
+3.17.144.162,443,443,true,IAD,North America,US,Ashburn,283,5.93
+34.214.172.22,443,443,true,SEA,North America,US,Seattle,272,5.93
+35.183.163.195,443,443,true,YUL,North America,CA,Montréal,260,5.92
+204.110.221.231,443,443,true,YUL,North America,CA,Montréal,261,5.92
+204.110.223.105,443,443,true,CMH,North America,US,Columbus,261,5.92
+35.182.7.190,80,443,true,YUL,North America,CA,Montréal,346,5.92
+204.110.221.179,80,443,true,YUL,North America,CA,Montréal,259,5.92
+204.110.221.237,80,443,true,YUL,North America,CA,Montréal,252,5.92
+204.110.223.129,443,443,true,CMH,North America,US,Columbus,325,5.92
+204.110.221.220,443,443,true,YUL,North America,CA,Montréal,267,5.91
+35.182.135.245,80,443,true,YUL,North America,CA,Montréal,306,5.91
+67.226.221.36,80,443,true,SJC,North America,US,San Jose,322,5.91
+35.182.7.190,80,443,true,YUL,North America,CA,Montréal,398,5.91
+3.231.155.164,443,443,true,IAD,North America,US,Ashburn,334,5.90
+204.110.221.20,80,443,true,YUL,North America,CA,Montréal,260,5.89
+35.183.163.195,80,443,true,YUL,North America,CA,Montréal,293,5.89
+204.110.221.68,80,443,true,YUL,North America,CA,Montréal,265,5.88
+204.110.221.237,443,443,true,YUL,North America,CA,Montréal,261,5.88
+204.110.221.43,80,443,true,YUL,North America,CA,Montréal,277,5.87
+204.110.221.37,80,443,true,YUL,North America,CA,Montréal,258,5.87
+3.235.100.200,443,443,true,IAD,North America,US,Ashburn,273,5.86
+44.200.7.237,443,443,true,IAD,North America,US,Ashburn,337,5.86
+54.210.245.85,443,443,true,IAD,North America,US,Ashburn,319,5.86
+204.110.221.143,80,443,true,YUL,North America,CA,Montréal,264,5.86
+204.110.221.170,80,443,true,YUL,North America,CA,Montréal,264,5.86
+3.129.183.128,443,443,true,CMH,North America,US,Columbus,329,5.86
+3.237.87.22,443,443,true,IAD,North America,US,Ashburn,322,5.85
+204.110.221.14,443,443,true,YUL,North America,CA,Montréal,263,5.84
+34.219.53.148,443,443,true,PDX,North America,US,Portland,312,5.83
+35.183.163.195,80,443,true,YUL,North America,CA,Montréal,317,5.82
+204.110.221.165,80,443,true,YUL,North America,CA,Montréal,272,5.82
+35.92.54.52,443,443,true,SEA,North America,US,Seattle,265,5.82
+3.239.166.31,443,443,true,IAD,North America,US,Ashburn,395,5.82
+204.110.223.160,443,443,true,ORD,North America,US,Chicago,260,5.81
+35.183.163.195,443,443,true,YUL,North America,CA,Montréal,255,5.79
+44.197.133.230,443,443,true,IAD,North America,US,Ashburn,458,5.78
+204.110.221.48,80,443,true,YUL,North America,CA,Montréal,259,5.78
+204.110.221.142,80,443,true,YUL,North America,CA,Montréal,262,5.78
+67.226.221.140,80,443,true,SJC,North America,US,San Jose,210,5.77
+204.110.221.120,443,443,true,YUL,North America,CA,Montréal,265,5.77
+3.235.163.171,443,443,true,IAD,North America,US,Ashburn,370,5.76
+44.212.12.56,443,443,true,IAD,North America,US,Ashburn,430,5.76
+44.223.15.31,443,443,true,IAD,North America,US,Ashburn,285,5.74
+67.226.222.2,443,443,true,CMH,North America,US,Columbus,237,5.73
+3.235.68.37,443,443,true,IAD,North America,US,Ashburn,337,5.73
+204.110.223.78,80,443,true,CMH,North America,US,Columbus,263,5.73
+44.214.178.95,443,443,true,IAD,North America,US,Ashburn,271,5.72
+204.110.221.59,80,443,true,YUL,North America,CA,Montréal,250,5.71
+204.110.221.17,80,443,true,YUL,North America,CA,Montréal,257,5.70
+35.182.7.190,443,443,true,YUL,North America,CA,Montréal,310,5.70
+67.226.221.85,443,443,true,SJC,North America,US,San Jose,414,5.68
+204.110.221.85,443,443,true,YUL,North America,CA,Montréal,261,5.67
+3.28.240.153,8443,443,true,MRS,Europe,FR,Marseille,291,5.67
+44.209.27.139,8443,443,true,IAD,North America,US,Ashburn,339,5.66
+204.110.221.243,80,443,true,YUL,North America,CA,Montréal,266,5.63
+3.237.49.163,443,443,true,IAD,North America,US,Ashburn,439,5.63
+3.77.153.23,443,443,true,FRA,Europe,DE,Frankfurt,404,5.60
+18.192.115.145,443,443,true,AMS,Europe,NL,Amsterdam,272,5.59
+35.86.155.198,2087,2083,true,SEA,North America,US,Seattle,243,5.58
+204.110.223.165,80,443,true,CMH,North America,US,Columbus,247,5.58
+204.110.221.143,443,443,true,YUL,North America,CA,Montréal,255,5.58
+204.110.221.234,80,443,true,YUL,North America,CA,Montréal,264,5.57
+34.200.255.151,80,443,true,IAD,North America,US,Ashburn,308,5.57
+54.167.43.59,443,443,true,IAD,North America,US,Ashburn,263,5.56
+3.28.199.214,443,443,true,MRS,Europe,FR,Marseille,294,5.53
+35.81.207.167,443,443,true,SEA,North America,US,Seattle,236,5.53
+44.197.169.165,443,443,true,IAD,North America,US,Ashburn,272,5.50
+204.110.221.134,80,443,true,YUL,North America,CA,Montréal,262,5.49
+54.90.71.182,2096,443,true,IAD,North America,US,Ashburn,338,5.49
+204.110.221.78,80,443,true,YUL,North America,CA,Montréal,270,5.48
+34.232.90.117,80,443,false,IAD,North America,US,Ashburn,237,5.46
+3.231.151.148,443,443,true,IAD,North America,US,Ashburn,249,5.43
+44.213.120.4,443,443,true,IAD,North America,US,Ashburn,446,5.43
+67.226.221.173,80,443,true,SJC,North America,US,San Jose,500,5.42
+44.222.246.6,443,443,true,IAD,North America,US,Ashburn,248,5.40
+204.110.221.231,80,443,true,YUL,North America,CA,Montréal,266,5.40
+35.182.135.245,80,443,true,YUL,North America,CA,Montréal,316,5.39
+3.28.240.153,2053,443,true,MRS,Europe,FR,Marseille,333,5.39
+204.110.221.14,80,443,true,YUL,North America,CA,Montréal,271,5.39
+204.110.221.198,80,443,true,YUL,North America,CA,Montréal,268,5.37
+18.119.19.109,80,443,true,CMH,North America,US,Columbus,294,5.37
+3.239.49.222,443,443,true,IAD,North America,US,Ashburn,267,5.35
+35.172.165.18,443,443,true,IAD,North America,US,Ashburn,230,5.33
+34.217.174.47,443,443,true,SEA,North America,US,Seattle,405,5.30
+54.148.167.46,443,443,true,SEA,North America,US,Seattle,326,5.26
+204.110.221.220,80,443,true,YUL,North America,CA,Montréal,265,5.26
+52.54.67.239,443,443,true,IAD,North America,US,Ashburn,502,5.26
+204.110.221.89,80,443,true,YUL,North America,CA,Montréal,267,5.26
+67.226.223.167,80,443,true,LHR,Europe,GB,London,387,5.25
+204.110.221.82,80,443,true,YUL,North America,CA,Montréal,261,5.25
+34.225.195.136,443,443,true,IAD,North America,US,Ashburn,440,5.23
+204.110.221.120,80,443,true,YUL,North America,CA,Montréal,259,5.21
+34.200.229.10,443,443,true,IAD,North America,US,Ashburn,250,5.20
+3.239.63.34,443,443,true,IAD,North America,US,Ashburn,265,5.17
+44.195.44.88,443,443,true,IAD,North America,US,Ashburn,397,5.12
+204.110.221.232,80,443,true,YUL,North America,CA,Montréal,260,5.12
+3.28.240.153,2053,443,true,MRS,Europe,FR,Marseille,287,5.11
+34.201.29.212,443,443,true,IAD,North America,US,Ashburn,314,5.11
+3.239.51.93,443,443,true,IAD,North America,US,Ashburn,315,5.07
+44.211.120.133,443,443,true,IAD,North America,US,Ashburn,242,5.02
+204.110.221.78,443,443,true,YUL,North America,CA,Montréal,264,5.00
+3.28.199.214,443,443,true,MRS,Europe,FR,Marseille,335,4.98
+3.144.191.4,443,443,true,CMH,North America,US,Columbus,239,4.98
+3.29.115.162,8443,443,true,MRS,Europe,FR,Marseille,452,4.98
+98.84.34.149,443,443,true,IAD,North America,US,Ashburn,307,4.95
+3.239.107.164,443,443,true,IAD,North America,US,Ashburn,458,4.95
+67.226.222.61,80,443,true,ORD,North America,US,Chicago,236,4.94
+3.140.211.75,443,443,true,IAD,North America,US,Ashburn,349,4.92
+204.110.221.68,443,443,true,YUL,North America,CA,Montréal,262,4.89
+3.15.147.151,2083,443,true,CMH,North America,US,Columbus,262,4.86
+204.110.223.137,80,443,true,CMH,North America,US,Columbus,248,4.85
+3.18.196.26,443,443,true,CMH,North America,US,Columbus,299,4.81
+3.222.185.117,443,443,true,IAD,North America,US,Ashburn,273,4.79
+67.226.222.9,80,443,true,CMH,North America,US,Columbus,476,4.79
+44.223.94.92,443,443,true,IAD,North America,US,Ashburn,273,4.78
+52.35.114.64,443,443,true,PDX,North America,US,Portland,441,4.75
+3.18.196.26,443,443,true,IAD,North America,US,Ashburn,272,4.75
+52.202.68.136,443,443,true,IAD,North America,US,Ashburn,289,4.75
+44.211.91.25,443,443,true,IAD,North America,US,Ashburn,301,4.73
+204.110.223.71,80,443,true,ORD,North America,US,Chicago,249,4.71
+52.89.97.12,443,443,true,SEA,North America,US,Seattle,265,4.70
+3.22.241.99,443,443,true,ORD,North America,US,Chicago,318,4.69
+3.13.196.41,443,443,true,IAD,North America,US,Ashburn,235,4.68
+204.110.221.206,80,443,true,YUL,North America,CA,Montréal,259,4.67
+67.226.222.119,80,443,true,CMH,North America,US,Columbus,575,4.64
+204.110.221.55,80,443,true,YUL,North America,CA,Montréal,270,4.59
+98.84.109.149,443,443,true,IAD,North America,US,Ashburn,339,4.58
+3.146.145.210,443,443,true,ORD,North America,US,Chicago,331,4.56
+44.200.128.111,443,443,true,IAD,North America,US,Ashburn,347,4.53
+204.110.221.153,80,443,true,YUL,North America,CA,Montréal,265,4.52
+3.13.196.41,443,443,true,IAD,North America,US,Ashburn,233,4.51
+18.221.144.122,443,443,true,IAD,North America,US,Ashburn,423,4.50
+98.82.20.25,443,443,true,IAD,North America,US,Ashburn,330,4.49
+3.141.223.191,2053,443,true,ORD,North America,US,Chicago,253,4.48
+3.128.253.42,2053,443,true,ORD,North America,US,Chicago,320,4.46
+54.236.61.156,443,443,true,IAD,North America,US,Ashburn,428,4.44
+18.216.88.44,443,443,true,IAD,North America,US,Ashburn,300,4.44
+204.110.223.215,80,443,true,ORD,North America,US,Chicago,247,4.43
+3.142.148.246,443,443,true,IAD,North America,US,Ashburn,332,4.42
+98.80.197.19,443,443,true,IAD,North America,US,Ashburn,451,4.40
+204.110.221.54,80,443,true,YUL,North America,CA,Montréal,271,4.39
+204.110.221.163,80,443,true,YUL,North America,CA,Montréal,264,4.38
+204.110.223.186,80,443,true,ORD,North America,US,Chicago,254,4.37
+18.191.249.204,443,443,true,IAD,North America,US,Ashburn,444,4.36
+3.145.192.143,443,443,true,IAD,North America,US,Ashburn,351,4.36
+34.200.225.105,443,443,true,IAD,North America,US,Ashburn,269,4.34
+3.140.208.118,443,443,true,IAD,North America,US,Ashburn,273,4.33
+18.220.217.3,8443,443,true,IAD,North America,US,Ashburn,249,4.28
+3.145.130.92,443,443,true,IAD,North America,US,Ashburn,351,4.28
+18.226.93.44,8443,443,true,IAD,North America,US,Ashburn,296,4.28
+3.235.127.63,443,443,true,IAD,North America,US,Ashburn,291,4.28
+204.110.221.206,443,443,true,YUL,North America,CA,Montréal,266,4.26
+204.110.221.48,443,443,true,YUL,North America,CA,Montréal,252,4.26
+3.145.49.119,8443,443,true,IAD,North America,US,Ashburn,265,4.25
+204.110.223.70,80,443,true,CMH,North America,US,Columbus,314,4.24
+44.222.235.63,443,443,true,IAD,North America,US,Ashburn,271,4.23
+3.138.169.71,443,443,true,IAD,North America,US,Ashburn,347,4.21
+3.16.187.207,443,443,true,IAD,North America,US,Ashburn,336,4.19
+3.144.191.4,443,443,true,CMH,North America,US,Columbus,269,4.18
+3.223.140.66,443,443,true,IAD,North America,US,Ashburn,253,4.17
+3.128.206.213,8443,443,true,ORD,North America,US,Chicago,315,4.15
+18.222.105.86,443,443,true,IAD,North America,US,Ashburn,249,4.11
+18.226.163.56,8443,443,true,ORD,North America,US,Chicago,329,4.11
+52.3.236.27,443,443,true,IAD,North America,US,Ashburn,325,4.10
+204.110.221.85,80,443,true,YUL,North America,CA,Montréal,265,4.07
+18.188.58.86,443,443,true,ORD,North America,US,Chicago,398,4.06
+3.138.140.28,443,443,true,IAD,North America,US,Ashburn,304,4.06
+3.15.158.184,443,443,true,IAD,North America,US,Ashburn,319,3.97
+3.144.221.97,443,443,true,IAD,North America,US,Ashburn,291,3.95
+3.19.215.30,443,443,true,IAD,North America,US,Ashburn,296,3.93
+52.15.97.71,8443,443,true,ORD,North America,US,Chicago,301,3.90
+3.138.169.71,443,443,true,IAD,North America,US,Ashburn,222,3.89
+3.143.244.172,8443,443,true,IAD,North America,US,Ashburn,416,3.86
+3.143.211.229,443,443,true,IAD,North America,US,Ashburn,283,3.86
+44.200.15.38,443,443,true,IAD,North America,US,Ashburn,252,3.85
+3.145.49.119,8443,443,true,ORD,North America,US,Chicago,322,3.85
+3.137.172.232,8443,443,true,ORD,North America,US,Chicago,350,3.79
+204.110.223.121,80,443,true,ORD,North America,US,Chicago,260,3.77
+3.142.52.69,443,443,true,IAD,North America,US,Ashburn,249,3.67
+3.18.162.191,2096,443,true,ORD,North America,US,Chicago,331,3.67
+18.118.126.6,443,443,true,IAD,North America,US,Ashburn,314,3.65
+3.17.188.117,443,443,true,IAD,North America,US,Ashburn,358,3.65
+204.110.223.213,80,443,true,CMH,North America,US,Columbus,248,3.59
+3.128.206.213,8443,443,true,ORD,North America,US,Chicago,235,3.57
+98.82.26.152,443,443,true,IAD,North America,US,Ashburn,340,3.54
+18.216.159.122,443,443,true,IAD,North America,US,Ashburn,401,3.49
+204.110.223.3,80,443,true,ORD,North America,US,Chicago,241,3.47
+44.192.12.229,443,443,true,IAD,North America,US,Ashburn,305,3.45
+67.226.222.115,80,443,true,ORD,North America,US,Chicago,241,3.42
+204.110.223.129,80,443,true,ORD,North America,US,Chicago,242,3.37
+3.235.0.23,443,443,true,IAD,North America,US,Ashburn,290,3.32
+204.110.223.187,80,443,true,CMH,North America,US,Columbus,255,3.30
+204.110.223.238,443,443,true,CMH,North America,US,Columbus,250,3.29
+3.239.161.234,443,443,true,IAD,North America,US,Ashburn,265,3.19
+204.110.223.190,80,443,true,CMH,North America,US,Columbus,310,3.16
+3.239.77.150,443,443,true,IAD,North America,US,Ashburn,304,3.13
+204.110.223.231,80,443,true,CMH,North America,US,Columbus,301,3.12
+3.99.147.170,443,443,false,YUL,North America,CA,Montréal,266,3.12
+3.99.147.170,443,443,false,YUL,North America,CA,Montréal,249,3.12
+3.96.221.73,443,443,false,YUL,North America,CA,Montréal,259,3.12
+3.96.221.73,443,443,false,YUL,North America,CA,Montréal,253,3.12
+3.122.86.99,443,443,true,FRA,Europe,DE,Frankfurt,298,3.09
+35.179.187.249,443,443,true,LHR,Europe,GB,London,340,3.04
+204.110.223.219,443,443,true,CMH,North America,US,Columbus,328,3.02
+67.226.222.15,80,443,true,ORD,North America,US,Chicago,263,3.01
+35.179.187.249,443,443,true,LHR,Europe,GB,London,304,2.96
+204.110.223.2,80,443,true,ORD,North America,US,Chicago,261,2.94
+3.15.147.151,2083,443,true,IAD,North America,US,Ashburn,269,2.94
+204.110.223.110,80,443,true,ORD,North America,US,Chicago,325,2.93
+3.235.108.62,443,443,true,IAD,North America,US,Ashburn,315,2.93
+44.220.90.126,443,443,true,IAD,North America,US,Ashburn,405,2.91
+52.14.147.64,443,443,true,IAD,North America,US,Ashburn,241,2.86
+44.195.2.250,443,443,true,IAD,North America,US,Ashburn,488,2.85
+43.199.145.138,443,443,true,HKG,Asia Pacific,HK,Hong Kong,237,2.82
+44.204.217.103,443,443,true,IAD,North America,US,Ashburn,315,2.74
+44.204.198.107,443,443,true,IAD,North America,US,Ashburn,415,2.74
+18.188.90.219,443,443,true,IAD,North America,US,Ashburn,272,2.73
+204.110.223.182,80,443,true,CMH,North America,US,Columbus,314,2.72
+44.195.88.6,443,443,true,IAD,North America,US,Ashburn,347,2.71
+3.138.103.232,443,443,true,IAD,North America,US,Ashburn,344,2.67
+204.110.223.227,80,443,true,CMH,North America,US,Columbus,253,2.62
+3.235.4.235,443,443,true,IAD,North America,US,Ashburn,335,2.58
+3.235.8.61,443,443,true,IAD,North America,US,Ashburn,260,2.57
+44.220.52.26,443,443,true,IAD,North America,US,Ashburn,338,2.43
+44.193.3.155,443,443,true,IAD,North America,US,Ashburn,311,2.28
+3.7.108.69,443,443,true,BOM,Asia Pacific,IN,Mumbai,303,2.28
+52.89.97.12,443,443,true,PDX,North America,US,Portland,303,2.25
+44.193.212.16,443,443,true,IAD,North America,US,Ashburn,412,2.19
+3.111.155.29,443,443,true,BOM,Asia Pacific,IN,Mumbai,311,2.14
+44.198.181.210,443,443,true,IAD,North America,US,Ashburn,243,2.13
+3.111.155.29,443,443,true,BOM,Asia Pacific,IN,Mumbai,286,2.06
+44.192.97.205,443,443,true,IAD,North America,US,Ashburn,251,2.05
+52.197.230.94,443,443,true,NRT,Asia Pacific,JP,Tokyo,211,1.99
+52.197.230.94,443,443,true,NRT,Asia Pacific,JP,Tokyo,316,1.99
+44.199.206.132,443,443,true,IAD,North America,US,Ashburn,247,1.95
+44.203.6.46,443,443,true,IAD,North America,US,Ashburn,303,1.94
+44.204.123.97,443,443,true,IAD,North America,US,Ashburn,331,1.92
+98.82.25.66,443,443,true,IAD,North America,US,Ashburn,421,1.88
+44.220.167.7,443,443,true,IAD,North America,US,Ashburn,273,1.87
+44.203.244.20,443,443,true,IAD,North America,US,Ashburn,320,1.85
+3.235.156.223,443,443,true,IAD,North America,US,Ashburn,304,1.83
+3.235.51.178,443,443,true,IAD,North America,US,Ashburn,252,1.80
+44.192.3.232,443,443,true,IAD,North America,US,Ashburn,314,1.77
+43.206.192.211,443,443,true,NRT,Asia Pacific,JP,Tokyo,266,1.73
+50.18.25.238,443,443,true,SJC,North America,US,San Jose,274,1.70
+44.202.201.9,443,443,true,IAD,North America,US,Ashburn,363,1.65
+3.237.238.72,443,443,true,IAD,North America,US,Ashburn,294,1.63
+44.203.208.92,443,443,true,IAD,North America,US,Ashburn,303,1.62
+44.204.114.252,443,443,true,IAD,North America,US,Ashburn,333,1.59
+44.203.244.147,443,443,true,IAD,North America,US,Ashburn,316,1.57
+44.204.190.126,443,443,true,IAD,North America,US,Ashburn,311,1.55
+44.205.9.32,443,443,true,IAD,North America,US,Ashburn,286,1.52
+44.204.214.65,443,443,true,IAD,North America,US,Ashburn,288,1.51
+44.205.15.67,443,443,true,IAD,North America,US,Ashburn,338,1.50
+54.199.222.232,443,443,true,NRT,Asia Pacific,JP,Tokyo,344,1.46
+44.204.109.63,443,443,true,IAD,North America,US,Ashburn,288,1.44
+54.248.121.219,443,443,true,NRT,Asia Pacific,JP,Tokyo,326,1.44
+54.199.222.232,443,443,true,NRT,Asia Pacific,JP,Tokyo,96,1.39
+98.82.25.251,443,443,true,IAD,North America,US,Ashburn,351,1.38
+50.112.33.254,443,443,true,SEA,North America,US,Seattle,317,1.37
+3.235.59.79,443,443,true,IAD,North America,US,Ashburn,361,1.36
+35.180.229.1,443,443,true,CDG,Europe,FR,Paris,259,1.28
+3.234.227.11,443,443,true,IAD,North America,US,Ashburn,265,1.25
+175.41.148.129,443,443,true,SIN,Asia Pacific,SG,Singapore,222,1.24
+54.236.242.181,443,443,true,IAD,North America,US,Ashburn,375,1.23
+44.200.39.74,443,443,true,IAD,North America,US,Ashburn,360,1.22
+52.3.227.230,443,443,true,IAD,North America,US,Ashburn,290,1.20
+44.214.120.247,443,443,true,IAD,North America,US,Ashburn,299,1.18
+3.91.53.245,443,443,true,IAD,North America,US,Ashburn,409,1.17
+52.4.8.214,443,443,true,IAD,North America,US,Ashburn,254,1.17
+44.196.58.37,443,443,true,IAD,North America,US,Ashburn,322,1.14
+44.213.132.215,443,443,true,IAD,North America,US,Ashburn,358,1.13
+44.199.242.123,443,443,true,IAD,North America,US,Ashburn,363,1.13
+44.196.48.4,443,443,true,IAD,North America,US,Ashburn,347,1.12
+98.81.70.197,443,443,true,IAD,North America,US,Ashburn,379,1.11
+3.91.209.227,443,443,true,IAD,North America,US,Ashburn,255,1.11
+3.239.224.12,443,443,true,IAD,North America,US,Ashburn,279,1.10
+44.223.86.49,443,443,true,IAD,North America,US,Ashburn,330,1.09
+54.169.169.155,443,443,true,SIN,Asia Pacific,SG,Singapore,98,1.09
+44.220.71.6,443,443,true,IAD,North America,US,Ashburn,315,1.08
+44.200.210.42,443,443,true,IAD,North America,US,Ashburn,599,1.06
+44.199.226.87,443,443,true,IAD,North America,US,Ashburn,287,0.99
+44.213.129.20,443,443,true,IAD,North America,US,Ashburn,294,0.95
+44.222.238.88,443,443,true,IAD,North America,US,Ashburn,348,0.93
+98.81.104.127,443,443,true,IAD,North America,US,Ashburn,334,0.92
+44.202.3.237,443,443,true,IAD,North America,US,Ashburn,338,0.91
+44.201.2.41,443,443,true,IAD,North America,US,Ashburn,260,0.90
+3.237.85.41,443,443,true,IAD,North America,US,Ashburn,254,0.90
+44.195.78.102,443,443,true,IAD,North America,US,Ashburn,461,0.90
+3.216.234.194,443,443,true,IAD,North America,US,Ashburn,261,0.88
+3.85.211.152,443,443,true,IAD,North America,US,Ashburn,365,0.88
+3.235.234.239,443,443,true,IAD,North America,US,Ashburn,394,0.88
+34.239.175.210,443,443,true,IAD,North America,US,Ashburn,414,0.86
+3.230.127.69,443,443,true,IAD,North America,US,Ashburn,342,0.82
+44.201.8.207,443,443,true,IAD,North America,US,Ashburn,409,0.81
+18.135.67.188,443,443,true,LHR,Europe,GB,London,339,0.80
+44.210.148.43,443,443,true,IAD,North America,US,Ashburn,262,0.78
+44.203.103.219,443,443,true,IAD,North America,US,Ashburn,297,0.74
+3.236.178.238,443,443,true,IAD,North America,US,Ashburn,258,0.74
+44.204.141.82,443,443,true,IAD,North America,US,Ashburn,352,0.74
+44.203.16.253,443,443,true,IAD,North America,US,Ashburn,239,0.74
+54.83.246.168,443,443,true,IAD,North America,US,Ashburn,370,0.73
+44.201.43.250,443,443,true,IAD,North America,US,Ashburn,330,0.73
+44.222.251.17,443,443,true,IAD,North America,US,Ashburn,320,0.71
+52.89.138.13,443,443,true,SEA,North America,US,Seattle,330,0.70
+3.235.100.110,443,443,true,IAD,North America,US,Ashburn,340,0.68
+44.212.11.140,443,443,true,IAD,North America,US,Ashburn,433,0.68
+52.89.138.13,443,443,true,PDX,North America,US,Portland,338,0.67
+3.92.74.183,443,443,true,IAD,North America,US,Ashburn,444,0.66
+3.235.165.13,443,443,true,IAD,North America,US,Ashburn,377,0.66
+3.215.178.62,443,443,true,IAD,North America,US,Ashburn,327,0.64
+204.110.223.215,443,443,true,CMH,North America,US,Columbus,321,0.63
+98.82.22.68,443,443,true,IAD,North America,US,Ashburn,409,0.62
+34.200.242.247,443,443,true,IAD,North America,US,Ashburn,285,0.62
+204.110.223.255,80,443,true,CMH,North America,US,Columbus,256,0.62
+204.110.223.145,80,443,true,CMH,North America,US,Columbus,329,0.61
+3.236.181.56,443,443,true,IAD,North America,US,Ashburn,325,0.61
+44.215.127.6,443,443,true,IAD,North America,US,Ashburn,261,0.61
+3.235.165.252,443,443,true,IAD,North America,US,Ashburn,262,0.61
+34.237.76.120,443,443,true,IAD,North America,US,Ashburn,306,0.60
+44.195.62.122,443,443,true,IAD,North America,US,Ashburn,497,0.60
+44.203.13.37,443,443,true,IAD,North America,US,Ashburn,256,0.59
+3.234.223.35,443,443,true,IAD,North America,US,Ashburn,260,0.58
+44.193.24.127,443,443,true,IAD,North America,US,Ashburn,452,0.58
+54.79.133.41,443,443,true,SYD,Oceania,AU,Sydney,263,0.58
+44.197.191.56,443,443,true,IAD,North America,US,Ashburn,390,0.57
+3.218.143.103,443,443,true,IAD,North America,US,Ashburn,308,0.55
+44.193.210.98,443,443,true,IAD,North America,US,Ashburn,233,0.54
+54.160.26.45,443,443,true,IAD,North America,US,Ashburn,352,0.54
+3.235.28.149,443,443,true,IAD,North America,US,Ashburn,314,0.54
+44.198.55.26,443,443,true,IAD,North America,US,Ashburn,316,0.54
+204.110.223.220,80,443,true,ORD,North America,US,Chicago,330,0.53
+44.200.11.233,443,443,true,IAD,North America,US,Ashburn,257,0.52
+54.89.138.9,443,443,true,IAD,North America,US,Ashburn,328,0.49
+44.204.133.207,443,443,true,IAD,North America,US,Ashburn,353,0.49
+44.222.172.88,443,443,true,IAD,North America,US,Ashburn,322,0.48
+44.211.83.175,443,443,true,IAD,North America,US,Ashburn,333,0.48
+44.204.108.106,443,443,true,IAD,North America,US,Ashburn,450,0.48
+204.110.223.68,80,443,true,CMH,North America,US,Columbus,266,0.46
+44.195.49.172,443,443,true,IAD,North America,US,Ashburn,383,0.46
+204.110.223.219,80,443,true,ORD,North America,US,Chicago,260,0.45
+34.200.241.67,443,443,true,IAD,North America,US,Ashburn,315,0.45
+44.204.129.134,443,443,true,IAD,North America,US,Ashburn,372,0.45
+44.195.67.54,443,443,true,IAD,North America,US,Ashburn,400,0.43
+3.79.117.14,443,443,true,FRA,Europe,DE,Frankfurt,264,0.42
+44.211.243.3,443,443,true,IAD,North America,US,Ashburn,411,0.41
+3.239.58.71,443,443,true,IAD,North America,US,Ashburn,237,0.40
+35.178.206.114,443,443,true,LHR,Europe,GB,London,212,0.40
+3.93.34.46,443,443,true,IAD,North America,US,Ashburn,397,0.40
+3.236.68.37,443,443,true,IAD,North America,US,Ashburn,338,0.39
+98.84.36.224,443,443,true,IAD,North America,US,Ashburn,515,0.39
+50.112.33.254,443,443,true,PDX,North America,US,Portland,359,0.39
+3.79.117.14,443,443,true,FRA,Europe,DE,Frankfurt,296,0.39
+52.20.152.104,443,443,true,IAD,North America,US,Ashburn,342,0.39
+44.199.218.57,443,443,true,IAD,North America,US,Ashburn,370,0.38
+44.203.225.220,443,443,true,IAD,North America,US,Ashburn,339,0.38
+3.236.28.30,443,443,true,IAD,North America,US,Ashburn,471,0.37
+44.193.201.215,443,443,true,IAD,North America,US,Ashburn,309,0.36
+34.206.53.189,443,443,true,IAD,North America,US,Ashburn,424,0.35
+44.203.109.134,443,443,true,IAD,North America,US,Ashburn,262,0.35
+98.82.24.24,443,443,true,IAD,North America,US,Ashburn,401,0.35
+35.178.206.114,443,443,true,LHR,Europe,GB,London,407,0.35
+3.236.165.80,443,443,true,IAD,North America,US,Ashburn,246,0.34
+44.195.49.181,443,443,true,IAD,North America,US,Ashburn,386,0.34
+44.204.253.133,443,443,true,IAD,North America,US,Ashburn,234,0.34
+44.200.130.12,443,443,true,IAD,North America,US,Ashburn,355,0.34
+16.163.147.103,8443,443,true,HKG,Asia Pacific,HK,Hong Kong,285,0.34
+44.200.58.108,443,443,true,IAD,North America,US,Ashburn,324,0.33
+44.222.181.189,443,443,true,IAD,North America,US,Ashburn,308,0.33
+3.237.205.173,443,443,true,IAD,North America,US,Ashburn,320,0.33
+3.237.197.19,443,443,true,IAD,North America,US,Ashburn,415,0.32
+3.237.198.58,443,443,true,IAD,North America,US,Ashburn,265,0.32
+44.195.69.255,443,443,true,IAD,North America,US,Ashburn,367,0.32
+44.199.246.136,443,443,true,IAD,North America,US,Ashburn,286,0.32
+44.197.246.183,443,443,true,IAD,North America,US,Ashburn,339,0.32
+44.202.206.16,443,443,true,IAD,North America,US,Ashburn,261,0.31
+44.222.67.129,443,443,true,IAD,North America,US,Ashburn,368,0.31
+3.235.239.43,443,443,true,IAD,North America,US,Ashburn,387,0.31
+44.197.218.127,443,443,true,IAD,North America,US,Ashburn,262,0.31
+3.227.1.247,443,443,true,IAD,North America,US,Ashburn,249,0.31
+44.222.145.240,443,443,true,IAD,North America,US,Ashburn,303,0.30
+52.3.225.147,443,443,true,IAD,North America,US,Ashburn,369,0.30
+3.235.185.103,443,443,true,IAD,North America,US,Ashburn,360,0.30
+44.192.66.163,443,443,true,IAD,North America,US,Ashburn,416,0.29
+44.200.156.208,443,443,true,IAD,North America,US,Ashburn,332,0.28
+44.203.80.130,443,443,true,IAD,North America,US,Ashburn,280,0.28
+44.199.206.76,443,443,true,IAD,North America,US,Ashburn,295,0.27
+44.201.53.140,443,443,true,IAD,North America,US,Ashburn,313,0.27
+35.170.33.156,443,443,true,IAD,North America,US,Ashburn,305,0.26
+3.234.212.185,443,443,true,IAD,North America,US,Ashburn,350,0.26
+54.157.116.48,443,443,true,IAD,North America,US,Ashburn,374,0.25
+44.204.182.173,443,443,true,IAD,North America,US,Ashburn,264,0.25
+98.82.22.56,443,443,true,IAD,North America,US,Ashburn,521,0.25
+98.82.153.6,2096,443,true,IAD,North America,US,Ashburn,249,0.25
+98.84.166.192,443,443,true,IAD,North America,US,Ashburn,344,0.25
+98.84.39.140,443,443,true,IAD,North America,US,Ashburn,316,0.24
+44.203.23.5,443,443,true,IAD,North America,US,Ashburn,314,0.23
+44.203.12.90,443,443,true,IAD,North America,US,Ashburn,241,0.23
+44.213.106.120,443,443,true,IAD,North America,US,Ashburn,322,0.22
+44.202.78.56,443,443,true,IAD,North America,US,Ashburn,249,0.22
+35.172.240.28,443,443,true,IAD,North America,US,Ashburn,293,0.22
+54.236.212.166,2053,443,true,IAD,North America,US,Ashburn,377,0.22
+44.198.187.178,443,443,true,IAD,North America,US,Ashburn,454,0.21
+44.200.25.61,443,443,true,IAD,North America,US,Ashburn,317,0.21
+44.213.249.17,443,443,true,IAD,North America,US,Ashburn,319,0.21
+213.170.157.1,443,443,true,PDX,North America,US,Portland,264,0.21
+44.204.100.42,443,443,true,IAD,North America,US,Ashburn,354,0.20
+44.220.71.163,443,443,true,IAD,North America,US,Ashburn,302,0.20
+44.222.103.252,443,443,true,IAD,North America,US,Ashburn,354,0.20
+44.200.151.180,443,443,true,IAD,North America,US,Ashburn,399,0.20
+44.192.120.155,443,443,true,IAD,North America,US,Ashburn,336,0.20
+3.218.248.6,443,443,true,IAD,North America,US,Ashburn,330,0.20
+3.239.209.122,443,443,true,IAD,North America,US,Ashburn,248,0.20
+3.10.119.97,443,443,true,LHR,Europe,GB,London,192,0.20
+44.212.48.55,443,443,true,IAD,North America,US,Ashburn,282,0.20
+44.193.79.231,443,443,true,IAD,North America,US,Ashburn,462,0.20
+34.201.14.107,443,443,true,IAD,North America,US,Ashburn,253,0.19
+44.203.223.236,443,443,true,IAD,North America,US,Ashburn,249,0.19
+44.197.108.249,443,443,true,IAD,North America,US,Ashburn,326,0.19
+44.211.244.231,443,443,true,IAD,North America,US,Ashburn,272,0.19
+44.213.101.248,443,443,true,IAD,North America,US,Ashburn,254,0.19
+3.236.103.156,443,443,true,IAD,North America,US,Ashburn,353,0.19
+44.203.23.78,443,443,true,IAD,North America,US,Ashburn,260,0.19
+98.80.135.188,443,443,true,IAD,North America,US,Ashburn,371,0.18
+98.84.108.82,443,443,true,IAD,North America,US,Ashburn,436,0.18
+44.214.106.15,443,443,true,IAD,North America,US,Ashburn,318,0.18
+3.239.121.202,443,443,true,IAD,North America,US,Ashburn,253,0.18
+35.174.241.13,443,443,true,IAD,North America,US,Ashburn,305,0.18
+44.202.188.255,443,443,true,IAD,North America,US,Ashburn,350,0.18
+3.8.234.47,443,443,true,LHR,Europe,GB,London,366,0.17
+44.197.171.76,443,443,true,IAD,North America,US,Ashburn,367,0.17
+3.23.96.127,443,443,true,IAD,North America,US,Ashburn,447,0.17
+16.163.147.103,2053,443,true,HKG,Asia Pacific,HK,Hong Kong,317,0.17
+3.135.223.39,443,443,true,IAD,North America,US,Ashburn,326,0.17
+44.202.201.51,443,443,true,IAD,North America,US,Ashburn,366,0.17
+44.200.58.252,443,443,true,IAD,North America,US,Ashburn,284,0.17
+34.200.234.164,443,443,true,IAD,North America,US,Ashburn,255,0.17
+44.223.74.24,443,443,true,IAD,North America,US,Ashburn,288,0.16
+18.135.188.86,443,443,true,LHR,Europe,GB,London,366,0.16
+44.210.101.134,443,443,true,IAD,North America,US,Ashburn,305,0.16
+44.197.239.60,443,443,true,IAD,North America,US,Ashburn,445,0.16
+54.209.243.95,443,443,true,IAD,North America,US,Ashburn,308,0.16
+44.198.59.53,443,443,true,IAD,North America,US,Ashburn,384,0.15
+44.203.211.60,443,443,true,IAD,North America,US,Ashburn,389,0.15
+44.196.48.179,443,443,true,IAD,North America,US,Ashburn,357,0.15
+3.76.154.119,443,443,true,FRA,Europe,DE,Frankfurt,361,0.15
+44.203.103.0,443,443,true,IAD,North America,US,Ashburn,313,0.15
+98.84.39.177,443,443,true,IAD,North America,US,Ashburn,348,0.15
+3.75.99.85,443,443,true,FRA,Europe,DE,Frankfurt,219,0.15
+18.156.21.22,443,443,true,FRA,Europe,DE,Frankfurt,366,0.15
+3.76.154.119,443,443,true,FRA,Europe,DE,Frankfurt,294,0.15
+3.139.56.247,443,443,true,IAD,North America,US,Ashburn,308,0.15
+18.130.19.198,443,443,true,LHR,Europe,GB,London,292,0.14
+44.197.193.161,443,443,true,IAD,North America,US,Ashburn,343,0.14
+44.203.101.249,443,443,true,IAD,North America,US,Ashburn,343,0.14
+3.70.188.59,443,443,true,FRA,Europe,DE,Frankfurt,481,0.14
+3.120.212.75,443,443,true,FRA,Europe,DE,Frankfurt,293,0.14
+3.221.158.108,443,443,true,IAD,North America,US,Ashburn,420,0.14
+3.120.212.75,443,443,true,FRA,Europe,DE,Frankfurt,335,0.14
+34.201.31.16,443,443,true,IAD,North America,US,Ashburn,249,0.13
+50.19.193.95,443,443,true,IAD,North America,US,Ashburn,273,0.13
+44.222.246.63,443,443,true,IAD,North America,US,Ashburn,391,0.13
+3.237.204.73,443,443,true,IAD,North America,US,Ashburn,350,0.13
+34.201.56.36,443,443,true,IAD,North America,US,Ashburn,245,0.13
+44.200.33.231,443,443,true,IAD,North America,US,Ashburn,268,0.12
+44.193.222.160,443,443,true,IAD,North America,US,Ashburn,310,0.12
+44.213.104.239,443,443,true,IAD,North America,US,Ashburn,453,0.12
+44.203.219.68,443,443,true,IAD,North America,US,Ashburn,249,0.12
+47.129.221.162,443,443,true,SIN,Asia Pacific,SG,Singapore,221,0.12
+44.223.109.58,443,443,true,IAD,North America,US,Ashburn,313,0.12
+44.226.147.29,443,443,true,PDX,North America,US,Portland,267,0.11
+52.54.77.118,443,443,true,IAD,North America,US,Ashburn,488,0.11
+44.227.22.10,443,443,true,PDX,North America,US,Portland,372,0.11
+44.226.147.29,443,443,true,SEA,North America,US,Seattle,400,0.11
+54.71.238.195,443,443,true,PDX,North America,US,Portland,328,0.11
+54.82.127.60,443,443,true,IAD,North America,US,Ashburn,365,0.11
+44.230.218.23,443,443,true,PDX,North America,US,Portland,411,0.11
+44.227.22.10,443,443,true,SEA,North America,US,Seattle,371,0.11
+44.192.127.201,443,443,true,IAD,North America,US,Ashburn,272,0.11
+98.81.98.92,443,443,true,IAD,North America,US,Ashburn,391,0.11
+50.112.166.63,443,443,true,PDX,North America,US,Portland,219,0.11
+44.230.218.23,443,443,true,PDX,North America,US,Portland,269,0.11
+44.213.99.104,443,443,true,IAD,North America,US,Ashburn,487,0.11
+44.200.144.9,443,443,true,IAD,North America,US,Ashburn,383,0.11
+44.215.126.141,443,443,true,IAD,North America,US,Ashburn,266,0.10
+54.71.238.195,443,443,true,SEA,North America,US,Seattle,354,0.10
+50.112.166.63,443,443,true,SEA,North America,US,Seattle,306,0.10
+44.213.108.146,443,443,true,IAD,North America,US,Ashburn,402,0.10
+54.236.57.102,443,443,true,IAD,North America,US,Ashburn,402,0.10
+44.222.247.109,443,443,true,IAD,North America,US,Ashburn,270,0.10
+3.239.46.24,443,443,true,IAD,North America,US,Ashburn,317,0.10
+44.222.72.72,443,443,true,IAD,North America,US,Ashburn,324,0.10
+54.160.44.33,443,443,true,IAD,North America,US,Ashburn,533,0.10
+44.223.3.94,443,443,true,IAD,North America,US,Ashburn,354,0.10
+34.234.8.26,443,443,true,IAD,North America,US,Ashburn,401,0.10
+44.198.162.127,443,443,true,IAD,North America,US,Ashburn,258,0.09
+3.138.59.154,443,443,true,CMH,North America,US,Columbus,245,0.09
+44.211.49.197,443,443,true,IAD,North America,US,Ashburn,395,0.09
+44.202.77.216,443,443,true,IAD,North America,US,Ashburn,372,0.09
+98.84.38.181,443,443,true,IAD,North America,US,Ashburn,267,0.09
+44.200.240.46,443,443,true,IAD,North America,US,Ashburn,277,0.09
+3.98.73.243,443,443,true,YUL,North America,CA,Montréal,275,0.09
+3.99.106.179,443,443,true,YUL,North America,CA,Montréal,341,0.09
+44.202.199.119,443,443,true,IAD,North America,US,Ashburn,335,0.09
+3.234.146.37,443,443,true,IAD,North America,US,Ashburn,283,0.09
+3.98.73.243,443,443,true,YUL,North America,CA,Montréal,331,0.09
+44.212.92.67,443,443,true,IAD,North America,US,Ashburn,319,0.09
+98.80.193.23,443,443,true,IAD,North America,US,Ashburn,377,0.08
+3.218.145.163,443,443,true,IAD,North America,US,Ashburn,300,0.08
+44.211.185.37,443,443,true,IAD,North America,US,Ashburn,312,0.08
+34.230.210.239,443,443,true,IAD,North America,US,Ashburn,303,0.08
+3.237.23.28,443,443,true,IAD,North America,US,Ashburn,451,0.08
+3.99.106.179,443,443,true,YUL,North America,CA,Montréal,254,0.08
+3.8.193.87,443,443,true,LHR,Europe,GB,London,282,0.08
+98.81.72.36,443,443,true,IAD,North America,US,Ashburn,426,0.08
+54.204.39.251,443,443,true,IAD,North America,US,Ashburn,368,0.08
+44.193.18.44,443,443,true,IAD,North America,US,Ashburn,357,0.08
+44.211.187.118,443,443,true,IAD,North America,US,Ashburn,281,0.08
+3.237.195.227,443,443,true,IAD,North America,US,Ashburn,405,0.07
+44.200.142.138,443,443,true,IAD,North America,US,Ashburn,254,0.07
+3.138.195.149,443,443,true,IAD,North America,US,Ashburn,328,0.07
+18.191.122.211,443,443,true,CMH,North America,US,Columbus,364,0.07
+3.138.59.154,443,443,true,CMH,North America,US,Columbus,259,0.07
+44.203.6.202,443,443,true,IAD,North America,US,Ashburn,327,0.07
+35.171.204.134,443,443,true,IAD,North America,US,Ashburn,320,0.06
+35.158.135.94,443,443,true,FRA,Europe,DE,Frankfurt,346,0.06
+44.192.120.143,443,443,true,IAD,North America,US,Ashburn,287,0.05
+3.222.116.1,443,443,true,IAD,North America,US,Ashburn,255,0.05
+54.208.96.155,443,443,true,IAD,North America,US,Ashburn,328,0.05
+44.213.121.100,443,443,true,IAD,North America,US,Ashburn,373,0.05
+35.158.135.94,443,443,true,FRA,Europe,DE,Frankfurt,316,0.05
+44.211.242.199,443,443,true,IAD,North America,US,Ashburn,405,0.05
+98.82.32.145,443,443,true,IAD,North America,US,Ashburn,424,0.05
+44.212.50.142,443,443,true,IAD,North America,US,Ashburn,386,0.05
+44.209.255.249,443,443,true,IAD,North America,US,Ashburn,374,0.05
+3.236.21.207,443,443,true,IAD,North America,US,Ashburn,315,0.05
+98.80.185.31,443,443,true,IAD,North America,US,Ashburn,267,0.05
+44.202.185.53,443,443,true,IAD,North America,US,Ashburn,463,0.05
+44.223.107.131,443,443,true,IAD,North America,US,Ashburn,326,0.04
+35.177.137.230,443,443,true,LHR,Europe,GB,London,287,0.04
+44.192.121.23,443,443,true,IAD,North America,US,Ashburn,331,0.04
+44.193.9.138,443,443,true,IAD,North America,US,Ashburn,254,0.04
+44.223.49.113,443,443,true,IAD,North America,US,Ashburn,344,0.04
+44.201.62.130,443,443,true,IAD,North America,US,Ashburn,620,0.04
+3.67.44.164,443,443,true,FRA,Europe,DE,Frankfurt,354,0.04
+35.173.250.215,443,443,true,IAD,North America,US,Ashburn,330,0.04
+3.237.106.160,443,443,true,IAD,North America,US,Ashburn,394,0.04
+35.177.137.230,443,443,true,LHR,Europe,GB,London,235,0.04
+35.177.71.235,443,443,true,LHR,Europe,GB,London,264,0.04
+44.195.129.153,443,443,true,IAD,North America,US,Ashburn,391,0.04
+3.237.61.25,443,443,true,IAD,North America,US,Ashburn,327,0.03
+44.195.84.36,443,443,true,IAD,North America,US,Ashburn,372,0.03
+44.200.131.71,443,443,true,IAD,North America,US,Ashburn,275,0.03
+44.193.199.252,443,443,true,IAD,North America,US,Ashburn,301,0.03
+44.201.69.179,443,443,true,IAD,North America,US,Ashburn,622,0.03
+3.237.2.204,443,443,true,IAD,North America,US,Ashburn,323,0.03
+34.206.52.58,443,443,true,IAD,North America,US,Ashburn,307,0.03
+44.211.87.237,443,443,true,IAD,North America,US,Ashburn,295,0.03
+44.193.18.103,443,443,true,IAD,North America,US,Ashburn,296,0.03
+44.195.44.171,443,443,true,IAD,North America,US,Ashburn,341,0.02
+44.220.168.236,443,443,true,IAD,North America,US,Ashburn,318,0.02
+44.202.214.248,443,443,true,IAD,North America,US,Ashburn,314,0.02
+44.192.11.4,443,443,true,IAD,North America,US,Ashburn,268,0.01
+3.111.31.40,8080,80,false,ORD,North America,US,Chicago,181,0.00
+3.111.29.123,80,80,false,ORD,North America,US,Chicago,173,0.00
+43.204.100.218,2052,80,false,ORD,North America,US,Chicago,120,0.00
+43.204.229.69,80,80,false,ORD,North America,US,Chicago,122,0.00
+43.204.229.69,2095,80,false,ORD,North America,US,Chicago,141,0.00
+43.204.229.69,8443,80,false,ORD,North America,US,Chicago,138,0.00
+43.204.100.218,80,80,false,ORD,North America,US,Chicago,144,0.00
+3.108.254.55,2096,80,false,ORD,North America,US,Chicago,157,0.00
+3.111.31.40,2095,80,false,ORD,North America,US,Chicago,224,0.00
+43.204.229.69,2082,80,false,ORD,North America,US,Chicago,134,0.00
+3.111.31.40,2053,80,false,ORD,North America,US,Chicago,229,0.00
+43.204.100.218,2083,80,false,ORD,North America,US,Chicago,160,0.00
+43.204.100.218,2086,80,false,ORD,North America,US,Chicago,175,0.00
+43.204.229.69,8880,80,false,ORD,North America,US,Chicago,157,0.00
+43.204.229.69,2083,80,false,ORD,North America,US,Chicago,215,0.00
+3.108.254.55,8880,80,false,ORD,North America,US,Chicago,127,0.00
+43.204.229.69,2086,80,false,ORD,North America,US,Chicago,167,0.00
+43.204.229.69,2087,80,false,ORD,North America,US,Chicago,146,0.00
+43.204.100.218,2053,80,false,ORD,North America,US,Chicago,147,0.00
+43.204.229.69,2096,80,false,ORD,North America,US,Chicago,155,0.00
+43.204.229.69,2053,80,false,ORD,North America,US,Chicago,250,0.00
+43.204.100.218,8443,80,false,ORD,North America,US,Chicago,139,0.00
+43.204.229.69,443,80,false,ORD,North America,US,Chicago,226,0.00
+3.111.31.40,2083,80,false,ORD,North America,US,Chicago,158,0.00
+13.235.91.173,8443,80,false,ORD,North America,US,Chicago,62,0.00
+3.111.31.40,80,80,false,ORD,North America,US,Chicago,104,0.00
+3.111.31.40,2096,80,false,ORD,North America,US,Chicago,180,0.00
+3.108.254.55,2082,80,false,ORD,North America,US,Chicago,148,0.00
+3.108.254.55,2095,80,false,ORD,North America,US,Chicago,172,0.00
+3.108.254.55,443,80,false,ORD,North America,US,Chicago,127,0.00
+3.108.254.55,2087,80,false,ORD,North America,US,Chicago,194,0.00
+3.108.254.55,2052,80,false,ORD,North America,US,Chicago,140,0.00
+3.108.254.55,2086,80,false,ORD,North America,US,Chicago,173,0.00
+3.108.254.55,80,80,false,ORD,North America,US,Chicago,176,0.00
+43.204.100.218,443,80,false,ORD,North America,US,Chicago,222,0.00
+3.108.254.55,8080,80,false,ORD,North America,US,Chicago,89,0.00
+3.108.254.55,8443,80,false,ORD,North America,US,Chicago,148,0.00
+3.111.31.40,2082,80,false,ORD,North America,US,Chicago,171,0.00
+3.111.31.40,2087,80,false,ORD,North America,US,Chicago,112,0.00
+3.111.31.40,8443,80,false,ORD,North America,US,Chicago,125,0.00
+43.204.100.218,8080,80,false,ORD,North America,US,Chicago,158,0.00
+43.204.100.218,2087,80,false,ORD,North America,US,Chicago,219,0.00
+13.235.91.173,2086,80,false,ORD,North America,US,Chicago,58,0.00
+3.111.29.123,2052,80,false,ORD,North America,US,Chicago,177,0.00
+3.111.29.123,2087,80,false,ORD,North America,US,Chicago,102,0.00
+3.111.29.123,8080,80,false,ORD,North America,US,Chicago,139,0.00
+3.111.29.123,8443,80,false,ORD,North America,US,Chicago,132,0.00
+3.111.29.123,2082,80,false,ORD,North America,US,Chicago,121,0.00
+3.111.29.123,8880,80,false,ORD,North America,US,Chicago,102,0.00
+3.111.29.123,2086,80,false,ORD,North America,US,Chicago,140,0.00
+3.111.29.123,2095,80,false,ORD,North America,US,Chicago,125,0.00
+3.111.29.123,443,80,false,ORD,North America,US,Chicago,150,0.00
+3.111.29.123,2096,80,false,ORD,North America,US,Chicago,127,0.00
+65.0.73.189,2086,80,false,ORD,North America,US,Chicago,192,0.00
+65.0.73.189,2096,80,false,ORD,North America,US,Chicago,183,0.00
+65.0.73.189,8880,80,false,ORD,North America,US,Chicago,150,0.00
+65.0.73.189,80,80,false,ORD,North America,US,Chicago,143,0.00
+65.0.73.189,2052,80,false,ORD,North America,US,Chicago,195,0.00
+65.0.73.189,2083,80,false,ORD,North America,US,Chicago,80,0.00
+65.0.73.189,8080,80,false,ORD,North America,US,Chicago,183,0.00
+65.0.73.189,443,80,false,ORD,North America,US,Chicago,151,0.00
+35.178.149.175,2082,80,false,ORD,North America,US,Chicago,171,0.00
+35.177.177.182,8080,80,false,ORD,North America,US,Chicago,169,0.00
+18.175.218.165,2086,80,false,ORD,North America,US,Chicago,235,0.00
+18.175.179.72,8080,80,false,ORD,North America,US,Chicago,219,0.00
+35.178.149.175,2086,80,false,ORD,North America,US,Chicago,211,0.00
+35.176.55.12,443,80,false,ORD,North America,US,Chicago,169,0.00
+18.175.179.72,80,80,false,ORD,North America,US,Chicago,296,0.00
+18.175.218.165,2087,80,false,ORD,North America,US,Chicago,185,0.00
+35.176.55.12,443,80,false,ORD,North America,US,Chicago,175,0.00
+35.177.178.11,2082,80,false,ORD,North America,US,Chicago,185,0.00
+18.175.218.165,2083,80,false,ORD,North America,US,Chicago,299,0.00
+35.177.178.11,8880,80,false,ORD,North America,US,Chicago,207,0.00
+35.176.55.12,8443,80,false,ORD,North America,US,Chicago,235,0.00
+35.177.178.11,443,80,false,ORD,North America,US,Chicago,176,0.00
+18.175.218.165,8880,80,false,ORD,North America,US,Chicago,273,0.00
+18.175.218.165,2082,80,false,ORD,North America,US,Chicago,217,0.00
+18.175.218.165,8080,80,false,ORD,North America,US,Chicago,215,0.00
+3.11.8.231,2096,80,false,ORD,North America,US,Chicago,184,0.00
+18.175.218.165,2095,80,false,ORD,North America,US,Chicago,199,0.00
+35.177.178.11,8080,80,false,ORD,North America,US,Chicago,168,0.00
+35.176.55.12,2096,80,false,ORD,North America,US,Chicago,171,0.00
+35.178.149.175,443,80,false,ORD,North America,US,Chicago,184,0.00
+35.177.177.182,8880,80,false,ORD,North America,US,Chicago,169,0.00
+35.177.177.182,80,80,false,ORD,North America,US,Chicago,171,0.00
+35.176.55.12,2095,80,false,ORD,North America,US,Chicago,172,0.00
+35.176.55.12,80,80,false,ORD,North America,US,Chicago,191,0.00
+18.135.133.116,80,80,false,ORD,North America,US,Chicago,183,0.00
+35.176.148.8,80,80,false,ORD,North America,US,Chicago,171,0.00
+18.175.179.72,8880,80,false,ORD,North America,US,Chicago,186,0.00
+35.178.149.175,2053,80,false,ORD,North America,US,Chicago,197,0.00
+18.175.179.72,2082,80,false,ORD,North America,US,Chicago,180,0.00
+35.178.149.175,8443,80,false,ORD,North America,US,Chicago,190,0.00
+18.175.179.72,2095,80,false,ORD,North America,US,Chicago,175,0.00
+35.178.149.175,8080,80,false,ORD,North America,US,Chicago,175,0.00
+35.177.178.11,2096,80,false,ORD,North America,US,Chicago,214,0.00
+35.178.149.175,80,80,false,ORD,North America,US,Chicago,210,0.00
+35.177.178.11,2052,80,false,ORD,North America,US,Chicago,172,0.00
+35.176.55.12,2096,80,false,ORD,North America,US,Chicago,174,0.00
+18.175.179.72,2087,80,false,ORD,North America,US,Chicago,268,0.00
+35.177.177.182,8080,80,false,ORD,North America,US,Chicago,177,0.00
+35.178.149.175,2052,80,false,ORD,North America,US,Chicago,174,0.00
+35.178.149.175,80,80,false,ORD,North America,US,Chicago,169,0.00
+35.178.149.175,8880,80,false,ORD,North America,US,Chicago,177,0.00
+35.177.178.11,8443,80,false,ORD,North America,US,Chicago,171,0.00
+35.178.149.175,2095,80,false,ORD,North America,US,Chicago,171,0.00
+35.178.149.175,2083,80,false,ORD,North America,US,Chicago,170,0.00
+35.178.149.175,2096,80,false,ORD,North America,US,Chicago,176,0.00
+35.178.149.175,2083,80,false,ORD,North America,US,Chicago,170,0.00
+35.177.178.11,2083,80,false,ORD,North America,US,Chicago,181,0.00
+18.175.179.72,2096,80,false,ORD,North America,US,Chicago,267,0.00
+35.178.149.175,2052,80,false,ORD,North America,US,Chicago,257,0.00
+35.177.178.11,2053,80,false,ORD,North America,US,Chicago,172,0.00
+35.176.55.12,8080,80,false,ORD,North America,US,Chicago,172,0.00
+35.176.55.12,2053,80,false,ORD,North America,US,Chicago,170,0.00
+18.175.218.165,2096,80,false,ORD,North America,US,Chicago,173,0.00
+35.176.55.12,8880,80,false,ORD,North America,US,Chicago,287,0.00
+35.176.55.12,2083,80,false,ORD,North America,US,Chicago,167,0.00
+18.175.218.165,80,80,false,ORD,North America,US,Chicago,228,0.00
+35.176.55.12,2086,80,false,ORD,North America,US,Chicago,327,0.00
+18.175.218.165,2053,80,false,ORD,North America,US,Chicago,181,0.00
+18.175.179.72,2052,80,false,ORD,North America,US,Chicago,204,0.00
+35.176.55.12,2086,80,false,ORD,North America,US,Chicago,170,0.00
+35.176.55.12,2082,80,false,ORD,North America,US,Chicago,264,0.00
+18.175.218.165,2052,80,false,ORD,North America,US,Chicago,239,0.00
+35.176.55.12,2052,80,false,ORD,North America,US,Chicago,216,0.00
+35.176.55.12,2087,80,false,ORD,North America,US,Chicago,271,0.00
+35.177.178.11,2087,80,false,ORD,North America,US,Chicago,192,0.00
+35.176.55.12,2053,80,false,ORD,North America,US,Chicago,172,0.00
+35.177.178.11,2086,80,false,ORD,North America,US,Chicago,182,0.00
+3.11.8.231,2087,80,false,ORD,North America,US,Chicago,172,0.00
+3.11.8.231,2086,80,false,ORD,North America,US,Chicago,234,0.00
+35.177.177.182,2095,80,false,ORD,North America,US,Chicago,203,0.00
+35.177.177.182,2087,80,false,ORD,North America,US,Chicago,205,0.00
+35.176.55.12,8880,80,false,ORD,North America,US,Chicago,169,0.00
+3.11.8.231,8880,80,false,ORD,North America,US,Chicago,183,0.00
+35.177.177.182,8880,80,false,ORD,North America,US,Chicago,169,0.00
+35.177.177.182,443,80,false,ORD,North America,US,Chicago,174,0.00
+3.11.8.231,8080,80,false,ORD,North America,US,Chicago,185,0.00
+35.176.55.12,2087,80,false,ORD,North America,US,Chicago,171,0.00
+35.178.149.175,2095,80,false,ORD,North America,US,Chicago,175,0.00
+35.178.149.175,8080,80,false,ORD,North America,US,Chicago,179,0.00
+3.11.8.231,2083,80,false,ORD,North America,US,Chicago,174,0.00
+3.11.8.231,2095,80,false,ORD,North America,US,Chicago,252,0.00
+35.177.177.182,2052,80,false,ORD,North America,US,Chicago,173,0.00
+3.11.8.231,8443,80,false,ORD,North America,US,Chicago,174,0.00
+3.11.8.231,80,80,false,ORD,North America,US,Chicago,179,0.00
+35.177.177.182,8443,80,false,ORD,North America,US,Chicago,215,0.00
+35.178.149.175,2086,80,false,ORD,North America,US,Chicago,168,0.00
+35.177.177.182,2087,80,false,ORD,North America,US,Chicago,187,0.00
+35.176.55.12,2082,80,false,ORD,North America,US,Chicago,171,0.00
+35.177.177.182,2083,80,false,ORD,North America,US,Chicago,175,0.00
+35.176.55.12,80,80,false,ORD,North America,US,Chicago,171,0.00
+35.176.55.12,8080,80,false,ORD,North America,US,Chicago,167,0.00
+3.11.8.231,2082,80,false,ORD,North America,US,Chicago,183,0.00
+35.178.149.175,2087,80,false,ORD,North America,US,Chicago,169,0.00
+35.177.177.182,443,80,false,ORD,North America,US,Chicago,201,0.00
+35.178.149.175,2082,80,false,ORD,North America,US,Chicago,186,0.00
+35.177.177.182,2086,80,false,ORD,North America,US,Chicago,197,0.00
+35.178.149.175,443,80,false,ORD,North America,US,Chicago,170,0.00
+35.177.177.182,2053,80,false,ORD,North America,US,Chicago,178,0.00
+35.178.149.175,2096,80,false,ORD,North America,US,Chicago,206,0.00
+34.217.149.190,8080,80,false,ORD,North America,US,Chicago,225,0.00
+54.189.141.224,8443,80,false,ORD,North America,US,Chicago,216,0.00
+34.217.149.190,2083,80,false,ORD,North America,US,Chicago,255,0.00
+34.217.46.132,2053,80,false,ORD,North America,US,Chicago,231,0.00
+34.217.95.97,8080,80,false,ORD,North America,US,Chicago,218,0.00
+54.200.137.122,2086,80,false,ORD,North America,US,Chicago,225,0.00
+44.243.250.80,2052,80,false,ORD,North America,US,Chicago,216,0.00
+54.200.137.122,8080,80,false,ORD,North America,US,Chicago,231,0.00
+35.165.197.253,2086,80,false,ORD,North America,US,Chicago,240,0.00
+54.189.141.224,2053,80,false,ORD,North America,US,Chicago,231,0.00
+34.219.17.11,8080,80,false,ORD,North America,US,Chicago,229,0.00
+34.217.46.132,8443,80,false,ORD,North America,US,Chicago,215,0.00
+34.217.95.97,80,80,false,ORD,North America,US,Chicago,220,0.00
+54.245.8.82,80,80,false,ORD,North America,US,Chicago,237,0.00
+35.91.84.238,2083,80,false,ORD,North America,US,Chicago,211,0.00
+44.243.250.80,2095,80,false,ORD,North America,US,Chicago,215,0.00
+35.89.211.40,2052,80,false,ORD,North America,US,Chicago,297,0.00
+35.165.197.253,8880,80,false,ORD,North America,US,Chicago,215,0.00
+34.217.149.190,2083,80,false,ORD,North America,US,Chicago,261,0.00
+54.200.137.122,2087,80,false,ORD,North America,US,Chicago,297,0.00
+34.217.149.190,2096,80,false,ORD,North America,US,Chicago,216,0.00
+54.200.137.122,2095,80,false,ORD,North America,US,Chicago,230,0.00
+34.215.49.9,443,80,false,ORD,North America,US,Chicago,218,0.00
+34.215.49.9,2052,80,false,ORD,North America,US,Chicago,265,0.00
+35.91.84.238,2053,80,false,ORD,North America,US,Chicago,219,0.00
+34.210.58.65,443,80,false,ORD,North America,US,Chicago,215,0.00
+34.217.149.190,443,80,false,ORD,North America,US,Chicago,218,0.00
+54.189.141.224,2053,80,false,ORD,North America,US,Chicago,218,0.00
+34.215.49.9,2096,80,false,ORD,North America,US,Chicago,214,0.00
+35.93.196.6,80,80,false,ORD,North America,US,Chicago,224,0.00
+54.189.141.224,2083,80,false,ORD,North America,US,Chicago,231,0.00
+35.93.196.6,8080,80,false,ORD,North America,US,Chicago,217,0.00
+34.219.17.11,2087,80,false,ORD,North America,US,Chicago,217,0.00
+34.217.95.97,2082,80,false,ORD,North America,US,Chicago,210,0.00
+34.217.149.190,80,80,false,ORD,North America,US,Chicago,215,0.00
+34.217.46.132,8080,80,false,ORD,North America,US,Chicago,263,0.00
+34.217.95.97,2052,80,false,ORD,North America,US,Chicago,227,0.00
+35.88.230.186,80,80,false,ORD,North America,US,Chicago,226,0.00
+35.88.230.186,8443,80,false,ORD,North America,US,Chicago,223,0.00
+35.165.197.253,2096,80,false,ORD,North America,US,Chicago,214,0.00
+54.200.137.122,8443,80,false,ORD,North America,US,Chicago,226,0.00
+35.93.196.6,2053,80,false,ORD,North America,US,Chicago,218,0.00
+54.200.137.122,8880,80,false,ORD,North America,US,Chicago,246,0.00
+54.189.141.224,2086,80,false,ORD,North America,US,Chicago,221,0.00
+34.210.58.65,2096,80,false,ORD,North America,US,Chicago,218,0.00
+54.189.141.224,80,80,false,ORD,North America,US,Chicago,225,0.00
+34.210.58.65,2083,80,false,ORD,North America,US,Chicago,300,0.00
+34.217.46.132,2082,80,false,ORD,North America,US,Chicago,217,0.00
+34.215.49.9,8443,80,false,ORD,North America,US,Chicago,363,0.00
+34.210.58.65,2087,80,false,ORD,North America,US,Chicago,210,0.00
+54.245.8.82,2082,80,false,ORD,North America,US,Chicago,228,0.00
+54.245.8.82,8080,80,false,ORD,North America,US,Chicago,218,0.00
+54.245.8.82,2053,80,false,ORD,North America,US,Chicago,215,0.00
+34.217.95.97,443,80,false,ORD,North America,US,Chicago,217,0.00
+34.217.95.97,2083,80,false,ORD,North America,US,Chicago,239,0.00
+54.189.141.224,80,80,false,ORD,North America,US,Chicago,223,0.00
+34.215.49.9,2086,80,false,ORD,North America,US,Chicago,225,0.00
+34.217.149.190,2053,80,false,ORD,North America,US,Chicago,334,0.00
+54.245.8.82,443,80,false,ORD,North America,US,Chicago,227,0.00
+35.91.84.238,443,80,false,ORD,North America,US,Chicago,219,0.00
+54.189.141.224,2086,80,false,ORD,North America,US,Chicago,214,0.00
+34.217.46.132,80,80,false,ORD,North America,US,Chicago,210,0.00
+34.215.49.9,8443,80,false,ORD,North America,US,Chicago,225,0.00
+34.210.58.65,2096,80,false,ORD,North America,US,Chicago,218,0.00
+34.217.149.190,8880,80,false,ORD,North America,US,Chicago,272,0.00
+34.215.49.9,8080,80,false,ORD,North America,US,Chicago,221,0.00
+34.217.149.190,2087,80,false,ORD,North America,US,Chicago,282,0.00
+34.217.149.190,80,80,false,ORD,North America,US,Chicago,221,0.00
+35.88.230.186,2086,80,false,ORD,North America,US,Chicago,303,0.00
+34.217.149.190,2096,80,false,ORD,North America,US,Chicago,257,0.00
+34.215.49.9,2095,80,false,ORD,North America,US,Chicago,223,0.00
+35.88.230.186,8080,80,false,ORD,North America,US,Chicago,235,0.00
+34.210.58.65,2053,80,false,ORD,North America,US,Chicago,216,0.00
+54.200.137.122,2086,80,false,ORD,North America,US,Chicago,219,0.00
+34.215.49.9,2053,80,false,ORD,North America,US,Chicago,215,0.00
+54.200.137.122,80,80,false,ORD,North America,US,Chicago,219,0.00
+34.217.46.132,2053,80,false,ORD,North America,US,Chicago,222,0.00
+35.93.196.6,2082,80,false,ORD,North America,US,Chicago,216,0.00
+35.93.196.6,443,80,false,ORD,North America,US,Chicago,218,0.00
+34.217.95.97,8880,80,false,ORD,North America,US,Chicago,220,0.00
+35.93.196.6,2096,80,false,ORD,North America,US,Chicago,218,0.00
+34.217.95.97,2087,80,false,ORD,North America,US,Chicago,220,0.00
+34.215.49.9,2087,80,false,ORD,North America,US,Chicago,265,0.00
+34.215.49.9,80,80,false,ORD,North America,US,Chicago,251,0.00
+34.217.95.97,2096,80,false,ORD,North America,US,Chicago,256,0.00
+34.217.95.97,2053,80,false,ORD,North America,US,Chicago,215,0.00
+34.217.149.190,2052,80,false,ORD,North America,US,Chicago,248,0.00
+34.215.49.9,8080,80,false,ORD,North America,US,Chicago,224,0.00
+35.165.197.253,443,80,false,ORD,North America,US,Chicago,219,0.00
+34.215.49.9,8880,80,false,ORD,North America,US,Chicago,228,0.00
+34.217.95.97,8443,80,false,ORD,North America,US,Chicago,268,0.00
+34.217.149.190,2082,80,false,ORD,North America,US,Chicago,211,0.00
+34.210.58.65,80,80,false,ORD,North America,US,Chicago,214,0.00
+35.165.197.253,2096,80,false,ORD,North America,US,Chicago,218,0.00
+34.210.58.65,8880,80,false,ORD,North America,US,Chicago,216,0.00
+34.210.58.65,80,80,false,ORD,North America,US,Chicago,226,0.00
+34.210.58.65,2082,80,false,ORD,North America,US,Chicago,262,0.00
+54.245.8.82,2095,80,false,ORD,North America,US,Chicago,216,0.00
+34.217.149.190,443,80,false,ORD,North America,US,Chicago,218,0.00
+54.245.8.82,2083,80,false,ORD,North America,US,Chicago,218,0.00
+35.165.197.253,8080,80,false,ORD,North America,US,Chicago,219,0.00
+34.217.149.190,2095,80,false,ORD,North America,US,Chicago,217,0.00
+35.165.197.253,8880,80,false,ORD,North America,US,Chicago,216,0.00
+54.245.8.82,2087,80,false,ORD,North America,US,Chicago,219,0.00
+54.245.8.82,2096,80,false,ORD,North America,US,Chicago,214,0.00
+35.165.197.253,80,80,false,ORD,North America,US,Chicago,219,0.00
+34.210.58.65,2052,80,false,ORD,North America,US,Chicago,216,0.00
+34.215.49.9,2082,80,false,ORD,North America,US,Chicago,221,0.00
+34.217.149.190,2086,80,false,ORD,North America,US,Chicago,247,0.00
+34.217.149.190,2053,80,false,ORD,North America,US,Chicago,215,0.00
+34.217.149.190,8443,80,false,ORD,North America,US,Chicago,217,0.00
+34.217.149.190,8880,80,false,ORD,North America,US,Chicago,217,0.00
+34.215.49.9,80,80,false,ORD,North America,US,Chicago,269,0.00
+44.243.250.80,8443,80,false,ORD,North America,US,Chicago,216,0.00
+34.217.149.190,2082,80,false,ORD,North America,US,Chicago,252,0.00
+34.215.49.9,2083,80,false,ORD,North America,US,Chicago,216,0.00
+44.243.250.80,2082,80,false,ORD,North America,US,Chicago,215,0.00
+44.243.250.80,2083,80,false,ORD,North America,US,Chicago,269,0.00
+44.243.250.80,2086,80,false,ORD,North America,US,Chicago,239,0.00
+44.243.250.80,2087,80,false,ORD,North America,US,Chicago,217,0.00
+54.245.8.82,8880,80,false,ORD,North America,US,Chicago,271,0.00
+44.243.250.80,8880,80,false,ORD,North America,US,Chicago,238,0.00
+54.245.8.82,2086,80,false,ORD,North America,US,Chicago,257,0.00
+44.243.250.80,80,80,false,ORD,North America,US,Chicago,216,0.00
+34.215.49.9,2082,80,false,ORD,North America,US,Chicago,247,0.00
+35.165.197.253,2095,80,false,ORD,North America,US,Chicago,219,0.00
+34.215.49.9,8880,80,false,ORD,North America,US,Chicago,225,0.00
+44.243.250.80,2096,80,false,ORD,North America,US,Chicago,258,0.00
+44.243.250.80,2053,80,false,ORD,North America,US,Chicago,209,0.00
+44.243.250.80,443,80,false,ORD,North America,US,Chicago,247,0.00
+44.243.250.80,8080,80,false,ORD,North America,US,Chicago,219,0.00
+34.217.46.132,443,80,false,ORD,North America,US,Chicago,219,0.00
+34.219.17.11,80,80,false,ORD,North America,US,Chicago,237,0.00
+34.219.17.11,2052,80,false,ORD,North America,US,Chicago,216,0.00
+34.219.17.11,8880,80,false,ORD,North America,US,Chicago,293,0.00
+34.219.17.11,2082,80,false,ORD,North America,US,Chicago,282,0.00
+34.217.46.132,2052,80,false,ORD,North America,US,Chicago,210,0.00
+54.200.137.122,443,80,false,ORD,North America,US,Chicago,217,0.00
+54.200.137.122,2083,80,false,ORD,North America,US,Chicago,258,0.00
+34.217.46.132,2095,80,false,ORD,North America,US,Chicago,251,0.00
+54.200.137.122,2095,80,false,ORD,North America,US,Chicago,237,0.00
+54.200.137.122,2052,80,false,ORD,North America,US,Chicago,317,0.00
+35.93.196.6,2052,80,false,ORD,North America,US,Chicago,240,0.00
+35.93.196.6,2083,80,false,ORD,North America,US,Chicago,237,0.00
+34.217.46.132,2087,80,false,ORD,North America,US,Chicago,216,0.00
+34.219.17.11,8080,80,false,ORD,North America,US,Chicago,280,0.00
+54.200.137.122,2053,80,false,ORD,North America,US,Chicago,233,0.00
+34.217.46.132,8443,80,false,ORD,North America,US,Chicago,220,0.00
+35.93.196.6,8880,80,false,ORD,North America,US,Chicago,218,0.00
+54.200.137.122,2052,80,false,ORD,North America,US,Chicago,272,0.00
+35.93.196.6,8443,80,false,ORD,North America,US,Chicago,215,0.00
+35.89.211.40,2053,80,false,ORD,North America,US,Chicago,238,0.00
+54.200.137.122,2082,80,false,ORD,North America,US,Chicago,211,0.00
+35.89.211.40,8080,80,false,ORD,North America,US,Chicago,222,0.00
+34.217.46.132,80,80,false,ORD,North America,US,Chicago,219,0.00
+54.200.137.122,2082,80,false,ORD,North America,US,Chicago,234,0.00
+54.200.137.122,2083,80,false,ORD,North America,US,Chicago,215,0.00
+54.200.137.122,8443,80,false,ORD,North America,US,Chicago,240,0.00
+54.200.137.122,443,80,false,ORD,North America,US,Chicago,215,0.00
+35.93.196.6,2086,80,false,ORD,North America,US,Chicago,221,0.00
+35.89.211.40,2086,80,false,ORD,North America,US,Chicago,305,0.00
+54.200.137.122,2087,80,false,ORD,North America,US,Chicago,218,0.00
+54.200.137.122,80,80,false,ORD,North America,US,Chicago,224,0.00
+34.217.46.132,2096,80,false,ORD,North America,US,Chicago,218,0.00
+35.89.211.40,2087,80,false,ORD,North America,US,Chicago,314,0.00
+54.189.141.224,2082,80,false,ORD,North America,US,Chicago,221,0.00
+54.200.137.122,8880,80,false,ORD,North America,US,Chicago,218,0.00
+54.189.141.224,443,80,false,ORD,North America,US,Chicago,221,0.00
+54.189.141.224,2095,80,false,ORD,North America,US,Chicago,210,0.00
+54.189.141.224,8080,80,false,ORD,North America,US,Chicago,219,0.00
+54.189.141.224,2096,80,false,ORD,North America,US,Chicago,265,0.00
+54.189.141.224,2087,80,false,ORD,North America,US,Chicago,216,0.00
+54.189.141.224,443,80,false,ORD,North America,US,Chicago,214,0.00
+35.165.197.253,2053,80,false,ORD,North America,US,Chicago,215,0.00
+54.189.141.224,2096,80,false,ORD,North America,US,Chicago,219,0.00
+54.189.141.224,2052,80,false,ORD,North America,US,Chicago,218,0.00
+54.189.141.224,2082,80,false,ORD,North America,US,Chicago,239,0.00
+35.91.84.238,2096,80,false,ORD,North America,US,Chicago,221,0.00
+54.189.141.224,2095,80,false,ORD,North America,US,Chicago,217,0.00
+35.165.197.253,8443,80,false,ORD,North America,US,Chicago,230,0.00
+35.91.84.238,8880,80,false,ORD,North America,US,Chicago,220,0.00
+54.189.141.224,2087,80,false,ORD,North America,US,Chicago,218,0.00
+35.165.197.253,2095,80,false,ORD,North America,US,Chicago,216,0.00
+54.189.141.224,8080,80,false,ORD,North America,US,Chicago,236,0.00
+35.91.84.238,2086,80,false,ORD,North America,US,Chicago,230,0.00
+35.165.197.253,443,80,false,ORD,North America,US,Chicago,220,0.00
+35.88.230.186,2053,80,false,ORD,North America,US,Chicago,253,0.00
+35.88.230.186,2083,80,false,ORD,North America,US,Chicago,287,0.00
+35.165.197.253,2083,80,false,ORD,North America,US,Chicago,217,0.00
+35.91.84.238,80,80,false,ORD,North America,US,Chicago,222,0.00
+35.165.197.253,2087,80,false,ORD,North America,US,Chicago,212,0.00
+35.91.84.238,2082,80,false,ORD,North America,US,Chicago,315,0.00
+35.88.230.186,8880,80,false,ORD,North America,US,Chicago,301,0.00
+54.189.141.224,8880,80,false,ORD,North America,US,Chicago,219,0.00
+44.243.250.80,8443,80,false,ORD,North America,US,Chicago,319,0.00
+35.165.197.253,2082,80,false,ORD,North America,US,Chicago,216,0.00
+35.91.84.238,2087,80,false,ORD,North America,US,Chicago,226,0.00
+35.165.197.253,8080,80,false,ORD,North America,US,Chicago,218,0.00
+34.217.46.132,2083,80,false,ORD,North America,US,Chicago,270,0.00
+34.217.46.132,2087,80,false,ORD,North America,US,Chicago,218,0.00
+34.217.46.132,8880,80,false,ORD,North America,US,Chicago,215,0.00
+35.88.230.186,443,80,false,ORD,North America,US,Chicago,210,0.00
+35.88.230.186,2096,80,false,ORD,North America,US,Chicago,218,0.00
+34.217.46.132,2086,80,false,ORD,North America,US,Chicago,232,0.00
+35.91.84.238,2052,80,false,ORD,North America,US,Chicago,215,0.00
+35.91.84.238,8443,80,false,ORD,North America,US,Chicago,219,0.00
+34.217.46.132,2096,80,false,ORD,North America,US,Chicago,237,0.00
+34.219.17.11,2083,80,false,ORD,North America,US,Chicago,219,0.00
+34.219.17.11,2052,80,false,ORD,North America,US,Chicago,221,0.00
+34.219.17.11,443,80,false,ORD,North America,US,Chicago,220,0.00
+34.219.17.11,80,80,false,ORD,North America,US,Chicago,210,0.00
+34.219.17.11,2053,80,false,ORD,North America,US,Chicago,221,0.00
+34.217.46.132,2086,80,false,ORD,North America,US,Chicago,339,0.00
+44.243.250.80,8080,80,false,ORD,North America,US,Chicago,319,0.00
+35.88.230.186,2087,80,false,ORD,North America,US,Chicago,231,0.00
+34.219.17.11,2086,80,false,ORD,North America,US,Chicago,219,0.00
+34.219.17.11,2095,80,false,ORD,North America,US,Chicago,213,0.00
+35.88.230.186,2052,80,false,ORD,North America,US,Chicago,217,0.00
+34.210.58.65,2095,80,false,ORD,North America,US,Chicago,249,0.00
+34.219.17.11,2082,80,false,ORD,North America,US,Chicago,218,0.00
+34.219.17.11,8443,80,false,ORD,North America,US,Chicago,218,0.00
+34.217.46.132,443,80,false,ORD,North America,US,Chicago,211,0.00
+34.210.58.65,2086,80,false,ORD,North America,US,Chicago,215,0.00
+34.210.58.65,8080,80,false,ORD,North America,US,Chicago,227,0.00
+34.215.49.9,2083,80,false,ORD,North America,US,Chicago,220,0.00
+34.217.46.132,2052,80,false,ORD,North America,US,Chicago,232,0.00
+34.217.46.132,2082,80,false,ORD,North America,US,Chicago,275,0.00
+35.89.211.40,8443,80,false,ORD,North America,US,Chicago,238,0.00
+34.210.58.65,8880,80,false,ORD,North America,US,Chicago,231,0.00
+35.165.197.253,2082,80,false,ORD,North America,US,Chicago,220,0.00
+34.215.49.9,2052,80,false,ORD,North America,US,Chicago,225,0.00
+34.215.49.9,2087,80,false,ORD,North America,US,Chicago,223,0.00
+18.246.236.58,2096,80,false,ORD,North America,US,Chicago,215,0.00
+35.165.197.253,8443,80,false,ORD,North America,US,Chicago,270,0.00
+34.215.49.9,443,80,false,ORD,North America,US,Chicago,217,0.00
+34.210.58.65,2082,80,false,ORD,North America,US,Chicago,216,0.00
+34.210.58.65,2053,80,false,ORD,North America,US,Chicago,218,0.00
+34.210.58.65,8080,80,false,ORD,North America,US,Chicago,220,0.00
+34.210.58.65,2087,80,false,ORD,North America,US,Chicago,222,0.00
+18.246.236.58,2053,80,false,ORD,North America,US,Chicago,211,0.00
+35.165.197.253,2087,80,false,ORD,North America,US,Chicago,217,0.00
+34.210.58.65,2095,80,false,ORD,North America,US,Chicago,226,0.00
+35.165.197.253,2083,80,false,ORD,North America,US,Chicago,217,0.00
+34.210.58.65,2083,80,false,ORD,North America,US,Chicago,257,0.00
+35.165.197.253,2053,80,false,ORD,North America,US,Chicago,236,0.00
+34.210.58.65,8443,80,false,ORD,North America,US,Chicago,216,0.00
+34.219.17.11,2083,80,false,ORD,North America,US,Chicago,307,0.00
+34.219.17.11,443,80,false,ORD,North America,US,Chicago,219,0.00
+34.219.17.11,8443,80,false,ORD,North America,US,Chicago,314,0.00
+34.219.17.11,2086,80,false,ORD,North America,US,Chicago,217,0.00
+34.219.17.11,2096,80,false,ORD,North America,US,Chicago,217,0.00
+35.168.91.17,80,443,false,IAD,North America,US,Ashburn,288,0.00
+13.235.91.173,443,80,false,ORD,North America,US,Chicago,67,0.00
+3.111.29.123,2082,80,false,ORD,North America,US,Chicago,120,0.00
+13.235.91.173,2096,80,false,ORD,North America,US,Chicago,64,0.00
+3.111.29.123,2086,80,false,ORD,North America,US,Chicago,192,0.00
+13.235.91.173,2082,80,false,ORD,North America,US,Chicago,64,0.00
+3.111.29.123,2083,80,false,ORD,North America,US,Chicago,136,0.00
+13.235.91.173,2086,80,false,ORD,North America,US,Chicago,65,0.00
+3.111.29.123,8443,80,false,ORD,North America,US,Chicago,145,0.00
+13.235.91.173,80,80,false,ORD,North America,US,Chicago,66,0.00
+13.235.91.173,2053,80,false,ORD,North America,US,Chicago,65,0.00
+13.235.91.173,2083,80,false,ORD,North America,US,Chicago,63,0.00
+13.235.91.173,8443,80,false,ORD,North America,US,Chicago,68,0.00
+3.11.8.231,80,80,false,ORD,North America,US,Chicago,209,0.00
+35.177.178.11,443,80,false,ORD,North America,US,Chicago,228,0.00
+3.11.8.231,443,80,false,ORD,North America,US,Chicago,169,0.00
+18.170.44.31,2087,80,false,ORD,North America,US,Chicago,234,0.00
+35.177.178.11,2082,80,false,ORD,North America,US,Chicago,167,0.00
+18.170.44.31,8080,80,false,ORD,North America,US,Chicago,190,0.00
+35.176.210.248,2096,80,false,ORD,North America,US,Chicago,204,0.00
+35.176.210.248,8880,80,false,ORD,North America,US,Chicago,171,0.00
+18.170.44.31,443,80,false,ORD,North America,US,Chicago,175,0.00
+3.11.8.231,2083,80,false,ORD,North America,US,Chicago,174,0.00
+35.177.178.11,2052,80,false,ORD,North America,US,Chicago,176,0.00
+3.11.8.231,8880,80,false,ORD,North America,US,Chicago,214,0.00
+3.11.8.231,2087,80,false,ORD,North America,US,Chicago,171,0.00
+54.185.172.6,80,80,false,ORD,North America,US,Chicago,215,0.00
+34.217.95.97,2083,80,false,ORD,North America,US,Chicago,220,0.00
+54.185.172.6,2083,80,false,ORD,North America,US,Chicago,227,0.00
+18.237.2.104,8880,80,false,ORD,North America,US,Chicago,249,0.00
+54.185.172.6,2052,80,false,ORD,North America,US,Chicago,209,0.00
+54.148.184.60,2095,80,false,ORD,North America,US,Chicago,226,0.00
+18.237.2.104,2095,80,false,ORD,North America,US,Chicago,227,0.00
+18.237.2.104,2082,80,false,ORD,North America,US,Chicago,235,0.00
+54.185.172.6,2087,80,false,ORD,North America,US,Chicago,216,0.00
+54.185.172.6,8443,80,false,ORD,North America,US,Chicago,216,0.00
+34.217.95.97,2095,80,false,ORD,North America,US,Chicago,243,0.00
+34.217.95.97,2053,80,false,ORD,North America,US,Chicago,218,0.00
+34.217.95.97,2082,80,false,ORD,North America,US,Chicago,216,0.00
+54.185.172.6,2086,80,false,ORD,North America,US,Chicago,220,0.00
+54.185.172.6,2082,80,false,ORD,North America,US,Chicago,221,0.00
+54.185.172.6,2095,80,false,ORD,North America,US,Chicago,255,0.00
+54.185.172.6,8080,80,false,ORD,North America,US,Chicago,228,0.00
+54.185.172.6,8880,80,false,ORD,North America,US,Chicago,215,0.00
+18.237.2.104,2087,80,false,ORD,North America,US,Chicago,261,0.00
+18.237.2.104,8080,80,false,ORD,North America,US,Chicago,222,0.00
+18.237.2.104,80,80,false,ORD,North America,US,Chicago,226,0.00
+18.237.2.104,8443,80,false,ORD,North America,US,Chicago,218,0.00
+18.237.2.104,2052,80,false,ORD,North America,US,Chicago,237,0.00
+18.237.2.104,443,80,false,ORD,North America,US,Chicago,215,0.00
+18.237.2.104,2083,80,false,ORD,North America,US,Chicago,240,0.00
+18.237.2.104,2053,80,false,ORD,North America,US,Chicago,240,0.00
+52.91.117.16,80,80,false,IAD,North America,US,Ashburn,324,0.00
+16.162.172.91,2052,80,false,HKG,Asia Pacific,HK,Hong Kong,38,0.00
+16.162.172.91,2087,80,false,HKG,Asia Pacific,HK,Hong Kong,58,0.00
+54.199.11.181,2052,80,false,NRT,Asia Pacific,JP,Tokyo,68,0.00
+18.176.35.171,2096,80,false,NRT,Asia Pacific,JP,Tokyo,70,0.00
+16.162.172.91,2096,80,false,HKG,Asia Pacific,HK,Hong Kong,71,0.00
+18.176.35.171,2095,80,false,NRT,Asia Pacific,JP,Tokyo,71,0.00
+13.124.44.168,80,2096,false,ICN,Asia Pacific,KR,Seoul,72,0.00
+54.150.75.95,2095,80,false,NRT,Asia Pacific,JP,Tokyo,77,0.00
+96.0.147.177,80,80,false,MNL,Asia Pacific,PH,Manila,79,0.00
+96.0.147.177,443,80,false,MNL,Asia Pacific,PH,Manila,81,0.00
+54.150.75.95,2052,80,false,NRT,Asia Pacific,JP,Tokyo,83,0.00
+54.251.118.130,2086,80,false,SIN,Asia Pacific,SG,Singapore,83,0.00
+54.251.118.130,2096,80,false,SIN,Asia Pacific,SG,Singapore,86,0.00
+54.150.75.95,2083,80,false,NRT,Asia Pacific,JP,Tokyo,86,0.00
+16.162.177.179,2052,80,false,HKG,Asia Pacific,HK,Hong Kong,87,0.00
+54.150.160.166,2053,80,false,NRT,Asia Pacific,JP,Tokyo,88,0.00
+16.162.177.179,2083,80,false,HKG,Asia Pacific,HK,Hong Kong,90,0.00
+54.79.129.232,2082,80,false,SYD,Oceania,AU,Sydney,92,0.00
+54.252.91.41,2095,80,false,SYD,Oceania,AU,Sydney,93,0.00
+3.105.185.150,2095,80,false,SYD,Oceania,AU,Sydney,93,0.00
+54.79.129.232,2096,80,false,SYD,Oceania,AU,Sydney,93,0.00
+3.6.136.68,80,8080,false,BOM,Asia Pacific,IN,Mumbai,93,0.00
+54.79.129.232,2095,80,false,SYD,Oceania,AU,Sydney,93,0.00
+54.79.190.249,2087,80,false,SYD,Oceania,AU,Sydney,93,0.00
+54.79.129.232,2052,80,false,SYD,Oceania,AU,Sydney,93,0.00
+16.162.177.179,2053,80,false,HKG,Asia Pacific,HK,Hong Kong,94,0.00
+54.251.118.130,2053,80,false,SIN,Asia Pacific,SG,Singapore,94,0.00
+54.150.160.166,2087,80,false,NRT,Asia Pacific,JP,Tokyo,94,0.00
+3.105.12.136,2083,80,false,SYD,Oceania,AU,Sydney,94,0.00
+54.79.197.209,2052,80,false,SYD,Oceania,AU,Sydney,94,0.00
+18.167.10.179,2053,80,false,HKG,Asia Pacific,HK,Hong Kong,95,0.00
+54.66.80.167,2087,80,false,SYD,Oceania,AU,Sydney,96,0.00
+54.79.190.249,2082,80,false,SYD,Oceania,AU,Sydney,96,0.00
+54.79.129.232,2083,80,false,SYD,Oceania,AU,Sydney,97,0.00
+18.176.35.171,2083,80,false,NRT,Asia Pacific,JP,Tokyo,97,0.00
+3.105.185.150,2053,80,false,SYD,Oceania,AU,Sydney,97,0.00
+52.62.216.87,2087,80,false,SYD,Oceania,AU,Sydney,98,0.00
+18.176.35.171,2052,80,false,NRT,Asia Pacific,JP,Tokyo,99,0.00
+13.211.0.227,2082,80,false,SYD,Oceania,AU,Sydney,100,0.00
+16.162.177.179,2087,80,false,HKG,Asia Pacific,HK,Hong Kong,101,0.00
+54.251.118.130,2052,80,false,SIN,Asia Pacific,SG,Singapore,102,0.00
+16.162.172.91,2053,80,false,HKG,Asia Pacific,HK,Hong Kong,102,0.00
+3.105.12.136,2087,80,false,SYD,Oceania,AU,Sydney,102,0.00
+54.150.75.95,2086,80,false,NRT,Asia Pacific,JP,Tokyo,103,0.00
+54.150.160.166,2096,80,false,NRT,Asia Pacific,JP,Tokyo,103,0.00
+3.105.65.61,2053,80,false,SYD,Oceania,AU,Sydney,103,0.00
+3.105.24.122,2086,80,false,SYD,Oceania,AU,Sydney,103,0.00
+16.162.172.91,2086,80,false,HKG,Asia Pacific,HK,Hong Kong,104,0.00
+16.162.172.91,2095,80,false,HKG,Asia Pacific,HK,Hong Kong,104,0.00
+3.105.65.61,2052,80,false,SYD,Oceania,AU,Sydney,104,0.00
+54.79.197.209,2096,80,false,SYD,Oceania,AU,Sydney,104,0.00
+3.105.24.122,2053,80,false,SYD,Oceania,AU,Sydney,106,0.00
+52.65.99.165,2086,80,false,SYD,Oceania,AU,Sydney,106,0.00
+3.105.12.136,2083,80,false,SYD,Oceania,AU,Sydney,106,0.00
+52.76.182.63,2086,80,false,SIN,Asia Pacific,SG,Singapore,107,0.00
+3.105.65.61,2083,80,false,SYD,Oceania,AU,Sydney,107,0.00
+54.150.160.166,2082,80,false,NRT,Asia Pacific,JP,Tokyo,107,0.00
+3.105.12.136,2052,80,false,SYD,Oceania,AU,Sydney,107,0.00
+54.79.190.249,2096,80,false,SYD,Oceania,AU,Sydney,108,0.00
+16.162.177.179,2086,80,false,HKG,Asia Pacific,HK,Hong Kong,108,0.00
+54.254.190.97,2052,80,false,SIN,Asia Pacific,SG,Singapore,108,0.00
+54.150.75.95,2096,80,false,NRT,Asia Pacific,JP,Tokyo,108,0.00
+35.78.28.183,2053,80,false,NRT,Asia Pacific,JP,Tokyo,109,0.00
+52.64.153.64,2083,80,false,SYD,Oceania,AU,Sydney,109,0.00
+3.105.12.136,2053,80,false,SYD,Oceania,AU,Sydney,109,0.00
+52.62.216.87,2096,80,false,SYD,Oceania,AU,Sydney,109,0.00
+52.64.153.64,2083,80,false,SYD,Oceania,AU,Sydney,109,0.00
+54.79.197.209,2083,80,false,SYD,Oceania,AU,Sydney,109,0.00
+54.79.129.232,2086,80,false,SYD,Oceania,AU,Sydney,109,0.00
+3.105.65.61,2096,80,false,SYD,Oceania,AU,Sydney,110,0.00
+54.79.176.136,2095,80,false,SYD,Oceania,AU,Sydney,110,0.00
+3.105.185.150,2083,80,false,SYD,Oceania,AU,Sydney,110,0.00
+54.79.190.249,2095,80,false,SYD,Oceania,AU,Sydney,112,0.00
+54.251.118.130,2083,80,false,SIN,Asia Pacific,SG,Singapore,112,0.00
+3.105.24.122,2082,80,false,SYD,Oceania,AU,Sydney,112,0.00
+16.162.177.179,2096,80,false,HKG,Asia Pacific,HK,Hong Kong,112,0.00
+3.7.167.177,2095,80,false,BOM,Asia Pacific,IN,Mumbai,112,0.00
+3.105.24.122,2095,80,false,SYD,Oceania,AU,Sydney,113,0.00
+54.150.195.218,80,80,false,NRT,Asia Pacific,JP,Tokyo,113,0.00
+3.105.12.136,2052,80,false,SYD,Oceania,AU,Sydney,113,0.00
+54.254.190.97,2082,80,false,SIN,Asia Pacific,SG,Singapore,114,0.00
+54.79.197.209,2086,80,false,SYD,Oceania,AU,Sydney,115,0.00
+52.65.99.165,2053,80,false,SYD,Oceania,AU,Sydney,115,0.00
+3.105.185.150,2082,80,false,SYD,Oceania,AU,Sydney,115,0.00
+54.251.118.130,2095,80,false,SIN,Asia Pacific,SG,Singapore,115,0.00
+3.105.65.61,2053,80,false,SYD,Oceania,AU,Sydney,115,0.00
+54.252.91.41,2096,80,false,SYD,Oceania,AU,Sydney,115,0.00
+54.79.190.249,2053,80,false,SYD,Oceania,AU,Sydney,116,0.00
+3.105.12.136,2096,80,false,SYD,Oceania,AU,Sydney,116,0.00
+54.79.190.249,2086,80,false,SYD,Oceania,AU,Sydney,116,0.00
+3.111.72.70,2082,80,false,BOM,Asia Pacific,IN,Mumbai,116,0.00
+52.65.99.165,2095,80,false,SYD,Oceania,AU,Sydney,117,0.00
+52.65.52.144,2095,80,false,SYD,Oceania,AU,Sydney,117,0.00
+3.108.0.17,2052,80,false,BOM,Asia Pacific,IN,Mumbai,117,0.00
+54.79.197.209,2086,80,false,SYD,Oceania,AU,Sydney,118,0.00
+52.65.99.165,2087,80,false,SYD,Oceania,AU,Sydney,118,0.00
+13.211.0.227,2095,80,false,SYD,Oceania,AU,Sydney,119,0.00
+3.105.185.150,2086,80,false,SYD,Oceania,AU,Sydney,119,0.00
+54.150.160.166,2086,80,false,NRT,Asia Pacific,JP,Tokyo,119,0.00
+3.105.12.136,2053,80,false,SYD,Oceania,AU,Sydney,119,0.00
+13.211.0.227,2086,80,false,SYD,Oceania,AU,Sydney,119,0.00
+13.211.0.227,2083,80,false,SYD,Oceania,AU,Sydney,119,0.00
+3.105.24.122,2083,80,false,SYD,Oceania,AU,Sydney,119,0.00
+54.150.75.95,2087,80,false,NRT,Asia Pacific,JP,Tokyo,119,0.00
+54.79.176.136,2095,80,false,SYD,Oceania,AU,Sydney,120,0.00
+54.79.197.209,2082,80,false,SYD,Oceania,AU,Sydney,121,0.00
+3.111.72.70,2083,80,false,BOM,Asia Pacific,IN,Mumbai,121,0.00
+54.79.197.209,2083,80,false,SYD,Oceania,AU,Sydney,122,0.00
+3.105.65.61,2087,80,false,SYD,Oceania,AU,Sydney,123,0.00
+3.105.185.150,2096,80,false,SYD,Oceania,AU,Sydney,123,0.00
+3.105.65.61,2096,80,false,SYD,Oceania,AU,Sydney,123,0.00
+52.64.153.64,2053,80,false,SYD,Oceania,AU,Sydney,123,0.00
+54.150.75.95,2053,80,false,NRT,Asia Pacific,JP,Tokyo,123,0.00
+16.162.177.179,2082,80,false,HKG,Asia Pacific,HK,Hong Kong,123,0.00
+3.7.167.177,2053,80,false,BOM,Asia Pacific,IN,Mumbai,123,0.00
+18.166.234.185,2086,80,false,HKG,Asia Pacific,HK,Hong Kong,124,0.00
+54.252.91.41,2082,80,false,SYD,Oceania,AU,Sydney,124,0.00
+52.65.52.144,2087,80,false,SYD,Oceania,AU,Sydney,125,0.00
+3.105.12.136,2086,80,false,SYD,Oceania,AU,Sydney,125,0.00
+54.79.190.249,2083,80,false,SYD,Oceania,AU,Sydney,126,0.00
+52.76.182.63,2083,80,false,SIN,Asia Pacific,SG,Singapore,126,0.00
+54.254.190.97,2053,80,false,SIN,Asia Pacific,SG,Singapore,126,0.00
+52.65.99.165,2096,80,false,SYD,Oceania,AU,Sydney,126,0.00
+54.79.197.209,2082,80,false,SYD,Oceania,AU,Sydney,126,0.00
+16.162.177.179,2095,80,false,HKG,Asia Pacific,HK,Hong Kong,126,0.00
+35.78.28.183,2086,80,false,NRT,Asia Pacific,JP,Tokyo,127,0.00
+54.150.160.166,2083,80,false,NRT,Asia Pacific,JP,Tokyo,127,0.00
+54.150.75.95,2096,80,false,NRT,Asia Pacific,JP,Tokyo,127,0.00
+3.24.11.240,2096,80,false,SYD,Oceania,AU,Sydney,127,0.00
+54.150.160.166,2087,80,false,NRT,Asia Pacific,JP,Tokyo,128,0.00
+54.66.80.167,2052,80,false,SYD,Oceania,AU,Sydney,128,0.00
+54.251.118.130,2083,80,false,SIN,Asia Pacific,SG,Singapore,129,0.00
+35.78.28.183,2082,80,false,NRT,Asia Pacific,JP,Tokyo,129,0.00
+18.166.234.185,2096,80,false,HKG,Asia Pacific,HK,Hong Kong,129,0.00
+54.79.190.249,2052,80,false,SYD,Oceania,AU,Sydney,129,0.00
+16.78.119.130,443,80,false,CGK,Asia Pacific,ID,Jakarta,129,0.00
+54.79.190.249,2053,80,false,SYD,Oceania,AU,Sydney,129,0.00
+54.79.197.209,2095,80,false,SYD,Oceania,AU,Sydney,129,0.00
+52.64.153.64,2052,80,false,SYD,Oceania,AU,Sydney,131,0.00
+3.108.0.17,2053,80,false,BOM,Asia Pacific,IN,Mumbai,131,0.00
+3.105.24.122,2087,80,false,SYD,Oceania,AU,Sydney,131,0.00
+3.105.185.150,2053,80,false,SYD,Oceania,AU,Sydney,131,0.00
+3.105.36.23,2082,80,false,SYD,Oceania,AU,Sydney,132,0.00
+54.150.160.166,2095,80,false,NRT,Asia Pacific,JP,Tokyo,132,0.00
+52.76.182.63,2052,80,false,SIN,Asia Pacific,SG,Singapore,133,0.00
+18.166.234.185,2087,80,false,HKG,Asia Pacific,HK,Hong Kong,133,0.00
+16.162.172.91,2082,80,false,HKG,Asia Pacific,HK,Hong Kong,133,0.00
+3.105.24.122,2053,80,false,SYD,Oceania,AU,Sydney,133,0.00
+54.66.80.167,2086,80,false,SYD,Oceania,AU,Sydney,133,0.00
+54.66.80.167,2082,80,false,SYD,Oceania,AU,Sydney,134,0.00
+54.150.160.166,2052,80,false,NRT,Asia Pacific,JP,Tokyo,134,0.00
+54.79.197.209,2096,80,false,SYD,Oceania,AU,Sydney,135,0.00
+3.24.229.42,2083,80,false,SYD,Oceania,AU,Sydney,135,0.00
+54.252.91.41,2052,80,false,SYD,Oceania,AU,Sydney,135,0.00
+52.65.52.144,2052,80,false,SYD,Oceania,AU,Sydney,136,0.00
+54.66.80.167,2083,80,false,SYD,Oceania,AU,Sydney,136,0.00
+54.79.129.232,2053,80,false,SYD,Oceania,AU,Sydney,136,0.00
+35.78.28.183,2083,80,false,NRT,Asia Pacific,JP,Tokyo,139,0.00
+54.79.197.209,2053,80,false,SYD,Oceania,AU,Sydney,139,0.00
+52.65.52.144,2096,80,false,SYD,Oceania,AU,Sydney,139,0.00
+54.252.91.41,2086,80,false,SYD,Oceania,AU,Sydney,139,0.00
+54.252.91.41,2083,80,false,SYD,Oceania,AU,Sydney,139,0.00
+54.150.160.166,2053,80,false,NRT,Asia Pacific,JP,Tokyo,140,0.00
+54.79.197.209,2052,80,false,SYD,Oceania,AU,Sydney,140,0.00
+52.64.153.64,2053,80,false,SYD,Oceania,AU,Sydney,141,0.00
+52.65.52.144,2095,80,false,SYD,Oceania,AU,Sydney,141,0.00
+54.150.75.95,2083,80,false,NRT,Asia Pacific,JP,Tokyo,141,0.00
+54.79.208.59,2052,80,false,SYD,Oceania,AU,Sydney,142,0.00
+18.166.234.185,2052,80,false,HKG,Asia Pacific,HK,Hong Kong,143,0.00
+54.251.118.130,2087,80,false,SIN,Asia Pacific,SG,Singapore,143,0.00
+52.64.153.64,2052,80,false,SYD,Oceania,AU,Sydney,144,0.00
+54.150.75.95,2087,80,false,NRT,Asia Pacific,JP,Tokyo,145,0.00
+3.105.185.150,2086,80,false,SYD,Oceania,AU,Sydney,145,0.00
+3.24.11.240,2096,80,false,SYD,Oceania,AU,Sydney,145,0.00
+13.211.0.227,2052,80,false,SYD,Oceania,AU,Sydney,145,0.00
+3.111.137.178,80,8080,false,BOM,Asia Pacific,IN,Mumbai,146,0.00
+54.79.208.59,2052,80,false,SYD,Oceania,AU,Sydney,147,0.00
+54.150.160.166,2096,80,false,NRT,Asia Pacific,JP,Tokyo,147,0.00
+54.79.129.232,2087,80,false,SYD,Oceania,AU,Sydney,147,0.00
+52.65.52.144,2082,80,false,SYD,Oceania,AU,Sydney,147,0.00
+52.65.52.144,2053,80,false,SYD,Oceania,AU,Sydney,149,0.00
+54.66.80.167,2053,80,false,SYD,Oceania,AU,Sydney,149,0.00
+54.79.197.209,2087,80,false,SYD,Oceania,AU,Sydney,149,0.00
+52.65.99.165,2052,80,false,SYD,Oceania,AU,Sydney,149,0.00
+54.150.160.166,2082,80,false,NRT,Asia Pacific,JP,Tokyo,150,0.00
+35.78.28.183,2095,80,false,NRT,Asia Pacific,JP,Tokyo,150,0.00
+52.65.52.144,2086,80,false,SYD,Oceania,AU,Sydney,150,0.00
+3.105.65.61,2052,80,false,SYD,Oceania,AU,Sydney,152,0.00
+52.76.182.63,2096,80,false,SIN,Asia Pacific,SG,Singapore,152,0.00
+3.105.65.61,2087,80,false,SYD,Oceania,AU,Sydney,153,0.00
+54.251.118.130,2052,80,false,SIN,Asia Pacific,SG,Singapore,153,0.00
+54.150.160.166,2052,80,false,NRT,Asia Pacific,JP,Tokyo,154,0.00
+65.1.148.157,80,80,false,BOM,Asia Pacific,IN,Mumbai,154,0.00
+3.105.65.61,2095,80,false,SYD,Oceania,AU,Sydney,154,0.00
+3.105.24.122,2086,80,false,SYD,Oceania,AU,Sydney,154,0.00
+52.65.52.144,2083,80,false,SYD,Oceania,AU,Sydney,155,0.00
+3.105.65.61,2082,80,false,SYD,Oceania,AU,Sydney,155,0.00
+52.65.99.165,2083,80,false,SYD,Oceania,AU,Sydney,157,0.00
+3.111.72.70,2083,80,false,BOM,Asia Pacific,IN,Mumbai,158,0.00
+54.253.222.7,2082,80,false,SYD,Oceania,AU,Sydney,158,0.00
+54.150.75.95,2082,80,false,NRT,Asia Pacific,JP,Tokyo,158,0.00
+3.105.12.136,2095,80,false,SYD,Oceania,AU,Sydney,159,0.00
+3.105.12.136,2095,80,false,SYD,Oceania,AU,Sydney,159,0.00
+54.150.160.166,2096,80,false,NRT,Asia Pacific,JP,Tokyo,159,0.00
+35.78.28.183,2096,80,false,NRT,Asia Pacific,JP,Tokyo,160,0.00
+52.76.182.63,2087,80,false,SIN,Asia Pacific,SG,Singapore,160,0.00
+54.79.190.249,2096,80,false,SYD,Oceania,AU,Sydney,161,0.00
+3.111.72.70,2082,80,false,BOM,Asia Pacific,IN,Mumbai,161,0.00
+3.105.24.122,2052,80,false,SYD,Oceania,AU,Sydney,162,0.00
+54.150.160.166,2086,80,false,NRT,Asia Pacific,JP,Tokyo,162,0.00
+3.105.185.150,2083,80,false,SYD,Oceania,AU,Sydney,162,0.00
+52.65.52.144,2086,80,false,SYD,Oceania,AU,Sydney,164,0.00
+54.66.80.167,2095,80,false,SYD,Oceania,AU,Sydney,164,0.00
+3.105.24.122,2083,80,false,SYD,Oceania,AU,Sydney,165,0.00
+54.79.197.209,2053,80,false,SYD,Oceania,AU,Sydney,165,0.00
+54.254.190.97,2096,80,false,SIN,Asia Pacific,SG,Singapore,166,0.00
+52.65.99.165,2052,80,false,SYD,Oceania,AU,Sydney,166,0.00
+54.252.91.41,2053,80,false,SYD,Oceania,AU,Sydney,166,0.00
+3.105.185.150,2096,80,false,SYD,Oceania,AU,Sydney,166,0.00
+3.105.12.136,2096,80,false,SYD,Oceania,AU,Sydney,167,0.00
+18.170.222.0,80,80,false,LHR,Europe,GB,London,167,0.00
+54.253.222.7,2053,80,false,SYD,Oceania,AU,Sydney,167,0.00
+54.251.118.130,2096,80,false,SIN,Asia Pacific,SG,Singapore,168,0.00
+13.114.59.37,2052,80,false,NRT,Asia Pacific,JP,Tokyo,168,0.00
+54.79.197.209,2095,80,false,SYD,Oceania,AU,Sydney,168,0.00
+52.65.99.165,2086,80,false,SYD,Oceania,AU,Sydney,169,0.00
+3.105.185.150,2087,80,false,SYD,Oceania,AU,Sydney,169,0.00
+54.253.222.7,2052,80,false,SYD,Oceania,AU,Sydney,169,0.00
+52.65.99.165,2095,80,false,SYD,Oceania,AU,Sydney,170,0.00
+3.105.65.61,2083,80,false,SYD,Oceania,AU,Sydney,170,0.00
+54.150.75.95,2095,80,false,NRT,Asia Pacific,JP,Tokyo,170,0.00
+176.116.21.36,2083,80,false,LHR,Europe,GB,London,171,0.00
+18.166.234.185,2083,80,false,HKG,Asia Pacific,HK,Hong Kong,171,0.00
+52.62.216.87,2096,80,false,SYD,Oceania,AU,Sydney,172,0.00
+3.105.24.122,2082,80,false,SYD,Oceania,AU,Sydney,172,0.00
+3.105.12.136,2087,80,false,SYD,Oceania,AU,Sydney,172,0.00
+54.253.222.7,2087,80,false,SYD,Oceania,AU,Sydney,172,0.00
+3.105.24.122,2095,80,false,SYD,Oceania,AU,Sydney,172,0.00
+3.105.65.61,2095,80,false,SYD,Oceania,AU,Sydney,173,0.00
+54.251.118.130,2053,80,false,SIN,Asia Pacific,SG,Singapore,173,0.00
+52.78.103.115,8080,80,false,ICN,Asia Pacific,KR,Seoul,173,0.00
+15.236.116.199,2052,80,false,CDG,Europe,FR,Paris,173,0.00
+54.252.91.41,2053,80,false,SYD,Oceania,AU,Sydney,174,0.00
+54.150.160.166,2082,80,false,NRT,Asia Pacific,JP,Tokyo,174,0.00
+52.65.52.144,2082,80,false,SYD,Oceania,AU,Sydney,175,0.00
+52.65.99.165,2082,80,false,SYD,Oceania,AU,Sydney,175,0.00
+52.18.205.36,2096,80,false,DUB,Europe,IE,Dublin,175,0.00
+176.116.21.157,2053,80,false,LHR,Europe,GB,London,175,0.00
+52.76.182.63,2082,80,false,SIN,Asia Pacific,SG,Singapore,175,0.00
+18.196.70.197,80,80,false,FRA,Europe,DE,Frankfurt,175,0.00
+54.150.160.166,2083,80,false,NRT,Asia Pacific,JP,Tokyo,176,0.00
+176.116.21.75,2095,80,false,LHR,Europe,GB,London,177,0.00
+176.116.21.134,2087,80,false,LHR,Europe,GB,London,177,0.00
+3.69.0.8,80,80,false,FRA,Europe,DE,Frankfurt,177,0.00
+176.116.21.180,2053,80,false,LHR,Europe,GB,London,177,0.00
+99.80.238.19,2086,80,false,DUB,Europe,IE,Dublin,177,0.00
+54.216.89.4,2053,80,false,DUB,Europe,IE,Dublin,177,0.00
+176.116.21.32,2082,80,false,LHR,Europe,GB,London,177,0.00
+54.150.75.95,2052,80,false,NRT,Asia Pacific,JP,Tokyo,178,0.00
+15.236.116.199,2087,80,false,CDG,Europe,FR,Paris,178,0.00
+3.120.76.162,2096,80,false,FRA,Europe,DE,Frankfurt,178,0.00
+18.192.93.64,80,80,false,FRA,Europe,DE,Frankfurt,178,0.00
+3.105.185.150,2082,80,false,SYD,Oceania,AU,Sydney,178,0.00
+3.127.55.133,80,80,false,FRA,Europe,DE,Frankfurt,178,0.00
+3.105.65.61,2086,80,false,SYD,Oceania,AU,Sydney,178,0.00
+99.80.238.19,2052,80,false,DUB,Europe,IE,Dublin,178,0.00
+99.80.238.19,2082,80,false,DUB,Europe,IE,Dublin,178,0.00
+3.105.12.136,2086,80,false,SYD,Oceania,AU,Sydney,179,0.00
+99.80.238.19,2083,80,false,DUB,Europe,IE,Dublin,179,0.00
+18.159.137.214,2096,80,false,FRA,Europe,DE,Frankfurt,179,0.00
+54.79.190.249,2095,80,false,SYD,Oceania,AU,Sydney,179,0.00
+52.18.205.36,2096,80,false,DUB,Europe,IE,Dublin,179,0.00
+52.18.205.36,2053,80,false,DUB,Europe,IE,Dublin,180,0.00
+79.125.15.17,2052,80,false,DUB,Europe,IE,Dublin,180,0.00
+3.120.137.26,2053,80,false,FRA,Europe,DE,Frankfurt,180,0.00
+15.236.116.199,2083,80,false,CDG,Europe,FR,Paris,180,0.00
+18.157.78.22,2087,80,false,FRA,Europe,DE,Frankfurt,180,0.00
+18.196.93.254,80,80,false,FRA,Europe,DE,Frankfurt,180,0.00
+52.65.52.144,2083,80,false,SYD,Oceania,AU,Sydney,181,0.00
+18.192.163.223,80,80,false,FRA,Europe,DE,Frankfurt,181,0.00
+3.105.185.150,2087,80,false,SYD,Oceania,AU,Sydney,181,0.00
+16.63.251.69,2082,80,false,ZRH,Europe,CH,Zurich,181,0.00
+18.157.78.22,2095,80,false,FRA,Europe,DE,Frankfurt,181,0.00
+54.252.91.41,2087,80,false,SYD,Oceania,AU,Sydney,181,0.00
+18.195.205.127,80,80,false,FRA,Europe,DE,Frankfurt,181,0.00
+18.157.106.177,2087,80,false,FRA,Europe,DE,Frankfurt,182,0.00
+79.125.15.17,2052,80,false,DUB,Europe,IE,Dublin,182,0.00
+3.120.76.162,2095,80,false,FRA,Europe,DE,Frankfurt,182,0.00
+99.80.238.19,2096,80,false,DUB,Europe,IE,Dublin,182,0.00
+52.47.134.23,80,80,false,CDG,Europe,FR,Paris,182,0.00
+18.157.78.22,2082,80,false,FRA,Europe,DE,Frankfurt,182,0.00
+3.120.137.26,2052,80,false,FRA,Europe,DE,Frankfurt,182,0.00
+52.18.205.36,2095,80,false,DUB,Europe,IE,Dublin,182,0.00
+16.63.33.251,2082,80,false,ZRH,Europe,CH,Zurich,182,0.00
+13.211.0.227,2096,80,false,SYD,Oceania,AU,Sydney,183,0.00
+16.63.33.251,2095,80,false,ZRH,Europe,CH,Zurich,183,0.00
+52.65.52.144,2052,80,false,SYD,Oceania,AU,Sydney,183,0.00
+16.63.251.69,2052,80,false,ZRH,Europe,CH,Zurich,183,0.00
+16.63.55.49,2053,80,false,ZRH,Europe,CH,Zurich,183,0.00
+3.66.115.225,80,80,false,FRA,Europe,DE,Frankfurt,183,0.00
+54.253.222.7,2083,80,false,SYD,Oceania,AU,Sydney,183,0.00
+18.157.78.22,2052,80,false,FRA,Europe,DE,Frankfurt,183,0.00
+15.236.116.199,2096,80,false,CDG,Europe,FR,Paris,183,0.00
+16.63.55.49,2052,80,false,ZRH,Europe,CH,Zurich,183,0.00
+18.176.35.171,2087,80,false,NRT,Asia Pacific,JP,Tokyo,184,0.00
+18.159.105.97,80,80,false,FRA,Europe,DE,Frankfurt,184,0.00
+99.80.238.19,2053,80,false,DUB,Europe,IE,Dublin,184,0.00
+3.120.137.26,2086,80,false,FRA,Europe,DE,Frankfurt,184,0.00
+52.65.99.165,2096,80,false,SYD,Oceania,AU,Sydney,184,0.00
+16.63.251.69,2086,80,false,ZRH,Europe,CH,Zurich,184,0.00
+3.120.76.162,2086,80,false,FRA,Europe,DE,Frankfurt,184,0.00
+3.120.76.162,2082,80,false,FRA,Europe,DE,Frankfurt,184,0.00
+35.157.240.237,80,80,false,FRA,Europe,DE,Frankfurt,185,0.00
+3.120.76.162,2083,80,false,FRA,Europe,DE,Frankfurt,185,0.00
+18.157.78.22,2096,80,false,FRA,Europe,DE,Frankfurt,185,0.00
+52.29.224.33,80,80,false,FRA,Europe,DE,Frankfurt,185,0.00
+18.157.106.177,2083,80,false,FRA,Europe,DE,Frankfurt,185,0.00
+18.157.78.22,2083,80,false,FRA,Europe,DE,Frankfurt,186,0.00
+16.63.55.49,2083,80,false,ZRH,Europe,CH,Zurich,186,0.00
+54.79.197.209,2087,80,false,SYD,Oceania,AU,Sydney,186,0.00
+52.18.205.36,2087,80,false,DUB,Europe,IE,Dublin,187,0.00
+176.116.21.140,2086,80,false,LHR,Europe,GB,London,187,0.00
+52.18.205.36,2082,80,false,DUB,Europe,IE,Dublin,187,0.00
+3.71.124.67,2087,80,false,FRA,Europe,DE,Frankfurt,187,0.00
+3.120.76.162,2087,80,false,FRA,Europe,DE,Frankfurt,187,0.00
+52.18.205.36,2053,80,false,DUB,Europe,IE,Dublin,187,0.00
+16.63.251.69,2083,80,false,ZRH,Europe,CH,Zurich,187,0.00
+16.63.55.49,2082,80,false,ZRH,Europe,CH,Zurich,188,0.00
+99.80.238.19,2095,80,false,DUB,Europe,IE,Dublin,188,0.00
+3.105.24.122,2087,80,false,SYD,Oceania,AU,Sydney,188,0.00
+3.68.31.54,80,80,false,FRA,Europe,DE,Frankfurt,188,0.00
+3.7.167.177,2052,80,false,BOM,Asia Pacific,IN,Mumbai,188,0.00
+16.63.55.49,2096,80,false,ZRH,Europe,CH,Zurich,189,0.00
+18.176.35.171,2053,80,false,NRT,Asia Pacific,JP,Tokyo,189,0.00
+54.252.91.41,2096,80,false,SYD,Oceania,AU,Sydney,189,0.00
+54.150.75.95,2086,80,false,NRT,Asia Pacific,JP,Tokyo,189,0.00
+16.63.251.69,2096,80,false,ZRH,Europe,CH,Zurich,189,0.00
+3.105.36.23,2082,80,false,SYD,Oceania,AU,Sydney,190,0.00
+16.63.33.251,2087,80,false,ZRH,Europe,CH,Zurich,190,0.00
+3.69.0.8,80,80,false,FRA,Europe,DE,Frankfurt,190,0.00
+51.92.103.115,2052,80,false,MAD,Europe,ES,Madrid,190,0.00
+3.120.137.26,2096,80,false,FRA,Europe,DE,Frankfurt,190,0.00
+18.101.87.56,2087,80,false,MAD,Europe,ES,Madrid,190,0.00
+3.105.65.61,2086,80,false,SYD,Oceania,AU,Sydney,191,0.00
+18.101.87.56,2052,80,false,MAD,Europe,ES,Madrid,191,0.00
+52.65.99.165,2083,80,false,SYD,Oceania,AU,Sydney,191,0.00
+52.18.205.36,2086,80,false,DUB,Europe,IE,Dublin,192,0.00
+54.253.222.7,2095,80,false,SYD,Oceania,AU,Sydney,192,0.00
+18.166.234.185,2082,80,false,HKG,Asia Pacific,HK,Hong Kong,192,0.00
+16.63.251.69,2095,80,false,ZRH,Europe,CH,Zurich,192,0.00
+3.111.137.178,80,8080,false,BOM,Asia Pacific,IN,Mumbai,192,0.00
+35.152.82.124,2052,80,false,MXP,Europe,IT,Milan,192,0.00
+51.92.10.146,2053,80,false,MAD,Europe,ES,Madrid,192,0.00
+35.152.82.124,2096,80,false,MXP,Europe,IT,Milan,192,0.00
+54.150.160.166,2086,80,false,NRT,Asia Pacific,JP,Tokyo,193,0.00
+18.102.5.243,2095,80,false,MXP,Europe,IT,Milan,193,0.00
+35.152.82.124,2087,80,false,MXP,Europe,IT,Milan,193,0.00
+51.92.103.115,2096,80,false,MAD,Europe,ES,Madrid,193,0.00
+16.63.251.69,2053,80,false,ZRH,Europe,CH,Zurich,193,0.00
+18.102.5.243,2053,80,false,MXP,Europe,IT,Milan,193,0.00
+54.150.160.166,2052,80,false,NRT,Asia Pacific,JP,Tokyo,193,0.00
+54.153.146.155,2087,80,false,SYD,Oceania,AU,Sydney,194,0.00
+18.101.118.37,2095,80,false,MAD,Europe,ES,Madrid,194,0.00
+18.101.118.37,2096,80,false,MAD,Europe,ES,Madrid,194,0.00
+52.65.99.165,2082,80,false,SYD,Oceania,AU,Sydney,194,0.00
+3.67.232.136,80,80,false,FRA,Europe,DE,Frankfurt,194,0.00
+3.105.65.61,2082,80,false,SYD,Oceania,AU,Sydney,194,0.00
+176.116.21.19,2096,80,false,LHR,Europe,GB,London,194,0.00
+51.92.10.146,2083,80,false,MAD,Europe,ES,Madrid,195,0.00
+51.92.70.133,2095,80,false,MAD,Europe,ES,Madrid,195,0.00
+3.120.76.162,2052,80,false,FRA,Europe,DE,Frankfurt,195,0.00
+51.92.103.115,2053,80,false,MAD,Europe,ES,Madrid,195,0.00
+18.101.87.56,2053,80,false,MAD,Europe,ES,Madrid,196,0.00
+52.76.182.63,2095,80,false,SIN,Asia Pacific,SG,Singapore,196,0.00
+18.102.87.37,2095,80,false,MXP,Europe,IT,Milan,196,0.00
+176.116.21.77,2083,80,false,LHR,Europe,GB,London,196,0.00
+18.159.137.214,2095,80,false,FRA,Europe,DE,Frankfurt,197,0.00
+51.92.70.133,2082,80,false,MAD,Europe,ES,Madrid,197,0.00
+54.79.190.249,2087,80,false,SYD,Oceania,AU,Sydney,198,0.00
+18.102.5.243,2086,80,false,MXP,Europe,IT,Milan,198,0.00
+51.92.10.146,2052,80,false,MAD,Europe,ES,Madrid,198,0.00
+51.92.103.115,2095,80,false,MAD,Europe,ES,Madrid,198,0.00
+52.18.205.36,2052,80,false,DUB,Europe,IE,Dublin,198,0.00
+18.101.242.202,2052,80,false,MAD,Europe,ES,Madrid,198,0.00
+3.66.115.225,80,80,false,FRA,Europe,DE,Frankfurt,198,0.00
+18.102.5.243,2052,80,false,MXP,Europe,IT,Milan,199,0.00
+52.78.103.115,8080,80,false,ICN,Asia Pacific,KR,Seoul,199,0.00
+18.101.242.202,2086,80,false,MAD,Europe,ES,Madrid,200,0.00
+54.177.71.208,80,8080,false,SJC,North America,US,San Jose,200,0.00
+3.105.24.122,2052,80,false,SYD,Oceania,AU,Sydney,201,0.00
+18.101.242.202,2096,80,false,MAD,Europe,ES,Madrid,202,0.00
+176.116.21.137,2087,80,false,LHR,Europe,GB,London,202,0.00
+54.254.190.97,2086,80,false,SIN,Asia Pacific,SG,Singapore,203,0.00
+18.159.137.214,2087,80,false,FRA,Europe,DE,Frankfurt,204,0.00
+176.116.21.32,2053,80,false,LHR,Europe,GB,London,204,0.00
+3.68.62.122,80,80,false,FRA,Europe,DE,Frankfurt,204,0.00
+16.162.172.91,2083,80,false,HKG,Asia Pacific,HK,Hong Kong,205,0.00
+3.105.185.150,2095,80,false,SYD,Oceania,AU,Sydney,206,0.00
+176.116.21.124,2095,80,false,LHR,Europe,GB,London,208,0.00
+176.116.21.41,2086,80,false,LHR,Europe,GB,London,209,0.00
+176.116.21.77,2086,80,false,LHR,Europe,GB,London,209,0.00
+3.68.62.122,80,80,false,FRA,Europe,DE,Frankfurt,209,0.00
+176.116.21.102,2083,80,false,LHR,Europe,GB,London,209,0.00
+176.116.21.137,2053,80,false,LHR,Europe,GB,London,209,0.00
+176.116.21.127,2096,80,false,LHR,Europe,GB,London,210,0.00
+163.123.174.205,2095,80,false,PDX,North America,US,Portland,210,0.00
+3.71.124.67,2087,80,false,FRA,Europe,DE,Frankfurt,210,0.00
+163.123.174.42,2082,80,false,PDX,North America,US,Portland,210,0.00
+163.123.174.42,2083,80,false,PDX,North America,US,Portland,210,0.00
+163.123.174.232,2096,80,false,PDX,North America,US,Portland,210,0.00
+163.123.174.42,2087,80,false,PDX,North America,US,Portland,210,0.00
+163.123.174.36,2052,80,false,SEA,North America,US,Seattle,210,0.00
+163.123.174.51,2086,80,false,SEA,North America,US,Seattle,210,0.00
+163.123.174.217,2053,80,false,SEA,North America,US,Seattle,211,0.00
+163.123.174.249,2053,80,false,PDX,North America,US,Portland,211,0.00
+163.123.174.50,2083,80,false,SEA,North America,US,Seattle,211,0.00
+50.112.212.129,80,8080,false,PDX,North America,US,Portland,211,0.00
+13.211.0.227,2087,80,false,SYD,Oceania,AU,Sydney,211,0.00
+54.150.75.95,2053,80,false,NRT,Asia Pacific,JP,Tokyo,211,0.00
+163.123.174.17,2087,80,false,PDX,North America,US,Portland,211,0.00
+3.120.137.26,2083,80,false,FRA,Europe,DE,Frankfurt,211,0.00
+54.79.190.249,2083,80,false,SYD,Oceania,AU,Sydney,211,0.00
+35.83.57.148,80,80,false,PDX,North America,US,Portland,212,0.00
+176.116.21.137,2096,80,false,LHR,Europe,GB,London,212,0.00
+176.116.21.83,2053,80,false,LHR,Europe,GB,London,212,0.00
+52.62.216.87,2087,80,false,SYD,Oceania,AU,Sydney,212,0.00
+176.116.21.123,2083,80,false,LHR,Europe,GB,London,213,0.00
+176.116.21.83,2095,80,false,LHR,Europe,GB,London,213,0.00
+176.116.21.142,2096,80,false,LHR,Europe,GB,London,213,0.00
+176.116.21.74,2087,80,false,LHR,Europe,GB,London,213,0.00
+176.116.21.91,2096,80,false,LHR,Europe,GB,London,213,0.00
+3.68.31.54,80,80,false,FRA,Europe,DE,Frankfurt,213,0.00
+18.156.209.101,80,80,false,FRA,Europe,DE,Frankfurt,213,0.00
+3.120.137.26,2082,80,false,FRA,Europe,DE,Frankfurt,213,0.00
+18.102.5.243,2087,80,false,MXP,Europe,IT,Milan,214,0.00
+35.160.18.63,80,8080,false,SEA,North America,US,Seattle,214,0.00
+176.116.21.142,2053,80,false,LHR,Europe,GB,London,214,0.00
+18.157.78.22,2086,80,false,FRA,Europe,DE,Frankfurt,214,0.00
+35.78.28.183,2052,80,false,NRT,Asia Pacific,JP,Tokyo,214,0.00
+176.116.21.103,2087,80,false,LHR,Europe,GB,London,214,0.00
+176.116.21.127,2087,80,false,LHR,Europe,GB,London,215,0.00
+163.123.174.225,2053,80,false,PDX,North America,US,Portland,215,0.00
+163.123.174.217,2082,80,false,SEA,North America,US,Seattle,215,0.00
+163.123.174.236,2053,80,false,PDX,North America,US,Portland,215,0.00
+176.116.21.175,2095,80,false,LHR,Europe,GB,London,215,0.00
+163.123.174.219,2086,80,false,PDX,North America,US,Portland,215,0.00
+163.123.174.23,2095,80,false,SEA,North America,US,Seattle,215,0.00
+176.116.21.157,2083,80,false,LHR,Europe,GB,London,215,0.00
+176.116.21.104,2086,80,false,LHR,Europe,GB,London,215,0.00
+176.116.21.185,2083,80,false,LHR,Europe,GB,London,215,0.00
+163.123.174.205,2096,80,false,PDX,North America,US,Portland,215,0.00
+163.123.174.219,2095,80,false,PDX,North America,US,Portland,215,0.00
+176.116.21.76,2052,80,false,LHR,Europe,GB,London,216,0.00
+176.116.21.93,2095,80,false,LHR,Europe,GB,London,216,0.00
+52.18.205.36,2095,80,false,DUB,Europe,IE,Dublin,216,0.00
+163.123.174.217,2096,80,false,SEA,North America,US,Seattle,216,0.00
+52.34.21.143,80,80,false,PDX,North America,US,Portland,216,0.00
+163.123.174.219,2082,80,false,PDX,North America,US,Portland,216,0.00
+163.123.174.36,2096,80,false,SEA,North America,US,Seattle,216,0.00
+163.123.174.16,2095,80,false,PDX,North America,US,Portland,216,0.00
+176.116.21.214,2086,80,false,LHR,Europe,GB,London,216,0.00
+163.123.174.36,2053,80,false,SEA,North America,US,Seattle,216,0.00
+176.116.21.89,2053,80,false,LHR,Europe,GB,London,216,0.00
+163.123.174.16,2096,80,false,PDX,North America,US,Portland,216,0.00
+163.123.174.219,2052,80,false,PDX,North America,US,Portland,216,0.00
+163.123.174.248,2053,80,false,SEA,North America,US,Seattle,216,0.00
+163.123.174.23,2053,80,false,SEA,North America,US,Seattle,216,0.00
+35.157.240.237,80,80,false,FRA,Europe,DE,Frankfurt,216,0.00
+163.123.174.59,2053,80,false,SEA,North America,US,Seattle,216,0.00
+163.123.174.42,2095,80,false,PDX,North America,US,Portland,216,0.00
+176.116.21.152,2096,80,false,LHR,Europe,GB,London,216,0.00
+54.252.91.41,2082,80,false,SYD,Oceania,AU,Sydney,216,0.00
+163.123.174.42,2053,80,false,PDX,North America,US,Portland,216,0.00
+44.224.255.188,80,80,false,SEA,North America,US,Seattle,216,0.00
+34.213.97.127,80,80,false,SEA,North America,US,Seattle,216,0.00
+176.116.21.147,2096,80,false,LHR,Europe,GB,London,216,0.00
+54.212.93.229,80,80,false,PDX,North America,US,Portland,217,0.00
+163.123.174.23,2052,80,false,SEA,North America,US,Seattle,217,0.00
+54.213.92.168,80,8080,false,PDX,North America,US,Portland,217,0.00
+16.63.251.69,2087,80,false,ZRH,Europe,CH,Zurich,217,0.00
+163.123.174.42,2086,80,false,PDX,North America,US,Portland,217,0.00
+163.123.174.205,2053,80,false,PDX,North America,US,Portland,217,0.00
+163.123.174.17,2096,80,false,PDX,North America,US,Portland,217,0.00
+176.116.21.142,2086,80,false,LHR,Europe,GB,London,217,0.00
+176.116.21.89,2083,80,false,LHR,Europe,GB,London,217,0.00
+163.123.174.36,2083,80,false,SEA,North America,US,Seattle,217,0.00
+176.116.21.81,2052,80,false,LHR,Europe,GB,London,217,0.00
+163.123.174.16,2053,80,false,PDX,North America,US,Portland,218,0.00
+35.78.28.183,2087,80,false,NRT,Asia Pacific,JP,Tokyo,218,0.00
+163.123.174.219,2096,80,false,PDX,North America,US,Portland,218,0.00
+35.160.18.63,80,8080,false,SEA,North America,US,Seattle,218,0.00
+176.116.21.84,2096,80,false,LHR,Europe,GB,London,218,0.00
+163.123.174.59,2052,80,false,SEA,North America,US,Seattle,218,0.00
+176.116.21.185,2096,80,false,LHR,Europe,GB,London,218,0.00
+52.34.21.143,80,80,false,SEA,North America,US,Seattle,218,0.00
+163.123.174.225,2096,80,false,PDX,North America,US,Portland,218,0.00
+163.123.174.252,2053,80,false,SEA,North America,US,Seattle,218,0.00
+54.253.222.7,2096,80,false,SYD,Oceania,AU,Sydney,218,0.00
+163.123.174.217,2083,80,false,SEA,North America,US,Seattle,218,0.00
+163.123.174.219,2083,80,false,PDX,North America,US,Portland,218,0.00
+163.123.174.205,2083,80,false,PDX,North America,US,Portland,218,0.00
+163.123.174.50,2087,80,false,SEA,North America,US,Seattle,218,0.00
+163.123.174.24,2087,80,false,PDX,North America,US,Portland,218,0.00
+163.123.174.225,2052,80,false,PDX,North America,US,Portland,218,0.00
+163.123.174.253,2082,80,false,SEA,North America,US,Seattle,218,0.00
+15.236.116.199,2053,80,false,CDG,Europe,FR,Paris,218,0.00
+34.210.14.70,80,80,false,SEA,North America,US,Seattle,218,0.00
+163.123.174.219,2053,80,false,PDX,North America,US,Portland,218,0.00
+163.123.174.36,2082,80,false,SEA,North America,US,Seattle,218,0.00
+35.165.105.196,80,80,false,SEA,North America,US,Seattle,218,0.00
+163.123.174.205,2082,80,false,PDX,North America,US,Portland,219,0.00
+163.123.174.210,2086,80,false,SEA,North America,US,Seattle,219,0.00
+163.123.174.59,2087,80,false,SEA,North America,US,Seattle,219,0.00
+176.116.21.157,2087,80,false,LHR,Europe,GB,London,219,0.00
+163.123.174.214,2096,80,false,PDX,North America,US,Portland,219,0.00
+163.123.174.205,2087,80,false,PDX,North America,US,Portland,219,0.00
+163.123.174.17,2083,80,false,PDX,North America,US,Portland,219,0.00
+163.123.174.232,2087,80,false,PDX,North America,US,Portland,219,0.00
+163.123.174.16,2052,80,false,PDX,North America,US,Portland,219,0.00
+163.123.174.205,2052,80,false,PDX,North America,US,Portland,219,0.00
+163.123.174.205,2086,80,false,PDX,North America,US,Portland,219,0.00
+163.123.174.201,2053,80,false,SEA,North America,US,Seattle,219,0.00
+35.165.105.196,80,80,false,PDX,North America,US,Portland,219,0.00
+163.123.174.23,2082,80,false,SEA,North America,US,Seattle,219,0.00
+163.123.174.16,2087,80,false,PDX,North America,US,Portland,219,0.00
+65.0.144.242,2082,80,false,BOM,Asia Pacific,IN,Mumbai,219,0.00
+163.123.174.23,2096,80,false,SEA,North America,US,Seattle,219,0.00
+163.123.174.17,2082,80,false,PDX,North America,US,Portland,219,0.00
+163.123.174.16,2086,80,false,PDX,North America,US,Portland,219,0.00
+163.123.174.214,2087,80,false,PDX,North America,US,Portland,219,0.00
+176.116.21.93,2082,80,false,LHR,Europe,GB,London,219,0.00
+163.123.174.214,2095,80,false,PDX,North America,US,Portland,219,0.00
+34.210.14.70,80,80,false,SEA,North America,US,Seattle,219,0.00
+163.123.174.42,2096,80,false,PDX,North America,US,Portland,219,0.00
+163.123.174.217,2087,80,false,SEA,North America,US,Seattle,220,0.00
+163.123.174.17,2095,80,false,PDX,North America,US,Portland,220,0.00
+176.116.21.101,2052,80,false,LHR,Europe,GB,London,220,0.00
+44.231.140.156,80,80,false,PDX,North America,US,Portland,220,0.00
+15.236.116.199,2082,80,false,CDG,Europe,FR,Paris,220,0.00
+18.102.5.243,2096,80,false,MXP,Europe,IT,Milan,220,0.00
+163.123.174.59,2095,80,false,SEA,North America,US,Seattle,220,0.00
+176.116.21.137,2082,80,false,LHR,Europe,GB,London,220,0.00
+163.123.174.219,2087,80,false,PDX,North America,US,Portland,220,0.00
+54.213.241.206,80,8080,false,SEA,North America,US,Seattle,221,0.00
+163.123.174.217,2052,80,false,SEA,North America,US,Seattle,221,0.00
+163.123.174.217,2086,80,false,SEA,North America,US,Seattle,221,0.00
+52.65.99.165,2053,80,false,SYD,Oceania,AU,Sydney,221,0.00
+44.231.140.156,80,80,false,SEA,North America,US,Seattle,222,0.00
+176.116.21.85,2096,80,false,LHR,Europe,GB,London,222,0.00
+176.116.21.175,2052,80,false,LHR,Europe,GB,London,222,0.00
+176.116.21.101,2095,80,false,LHR,Europe,GB,London,222,0.00
+176.116.21.146,2096,80,false,LHR,Europe,GB,London,223,0.00
+54.252.91.41,2052,80,false,SYD,Oceania,AU,Sydney,223,0.00
+52.65.52.144,2087,80,false,SYD,Oceania,AU,Sydney,223,0.00
+176.116.21.94,2095,80,false,LHR,Europe,GB,London,223,0.00
+3.127.55.133,80,80,false,FRA,Europe,DE,Frankfurt,223,0.00
+52.33.8.219,80,80,false,SEA,North America,US,Seattle,224,0.00
+52.65.52.144,2096,80,false,SYD,Oceania,AU,Sydney,224,0.00
+176.116.21.140,2083,80,false,LHR,Europe,GB,London,224,0.00
+176.116.21.127,2053,80,false,LHR,Europe,GB,London,224,0.00
+3.120.137.26,2095,80,false,FRA,Europe,DE,Frankfurt,224,0.00
+176.116.21.157,2086,80,false,LHR,Europe,GB,London,224,0.00
+176.116.21.41,2053,80,false,LHR,Europe,GB,London,224,0.00
+176.116.21.36,2053,80,false,LHR,Europe,GB,London,225,0.00
+3.67.232.136,80,80,false,FRA,Europe,DE,Frankfurt,225,0.00
+44.224.255.188,80,80,false,PDX,North America,US,Portland,225,0.00
+176.116.21.180,2082,80,false,LHR,Europe,GB,London,226,0.00
+176.116.21.232,2053,80,false,LHR,Europe,GB,London,226,0.00
+54.213.92.168,80,8080,false,PDX,North America,US,Portland,226,0.00
+176.116.21.91,2052,80,false,LHR,Europe,GB,London,226,0.00
+54.177.71.208,80,8080,false,SJC,North America,US,San Jose,227,0.00
+176.116.21.136,2087,80,false,LHR,Europe,GB,London,227,0.00
+65.0.144.242,2087,80,false,BOM,Asia Pacific,IN,Mumbai,227,0.00
+176.116.21.159,2052,80,false,LHR,Europe,GB,London,227,0.00
+176.116.21.19,2095,80,false,LHR,Europe,GB,London,227,0.00
+176.116.21.19,2086,80,false,LHR,Europe,GB,London,227,0.00
+54.79.190.249,2082,80,false,SYD,Oceania,AU,Sydney,228,0.00
+3.144.191.4,80,80,false,ORD,North America,US,Chicago,228,0.00
+176.116.21.180,2096,80,false,LHR,Europe,GB,London,228,0.00
+54.213.94.219,80,8080,false,SEA,North America,US,Seattle,228,0.00
+176.116.21.80,2083,80,false,LHR,Europe,GB,London,228,0.00
+51.92.53.152,2095,80,false,MAD,Europe,ES,Madrid,228,0.00
+18.157.78.22,2053,80,false,FRA,Europe,DE,Frankfurt,228,0.00
+176.116.21.105,2082,80,false,LHR,Europe,GB,London,229,0.00
+176.116.21.153,2087,80,false,LHR,Europe,GB,London,229,0.00
+176.116.21.153,2053,80,false,LHR,Europe,GB,London,229,0.00
+176.116.21.41,2087,80,false,LHR,Europe,GB,London,229,0.00
+176.116.21.75,2053,80,false,LHR,Europe,GB,London,230,0.00
+52.65.52.144,2053,80,false,SYD,Oceania,AU,Sydney,230,0.00
+54.150.160.166,2087,80,false,NRT,Asia Pacific,JP,Tokyo,230,0.00
+13.114.59.37,2052,80,false,NRT,Asia Pacific,JP,Tokyo,230,0.00
+176.116.21.41,2052,80,false,LHR,Europe,GB,London,230,0.00
+176.116.21.88,2052,80,false,LHR,Europe,GB,London,230,0.00
+176.116.21.100,2082,80,false,LHR,Europe,GB,London,231,0.00
+35.152.82.124,2095,80,false,MXP,Europe,IT,Milan,231,0.00
+176.116.21.100,2052,80,false,LHR,Europe,GB,London,231,0.00
+176.116.21.123,2086,80,false,LHR,Europe,GB,London,231,0.00
+176.116.21.97,2083,80,false,LHR,Europe,GB,London,231,0.00
+18.101.118.37,2052,80,false,MAD,Europe,ES,Madrid,231,0.00
+176.116.21.152,2095,80,false,LHR,Europe,GB,London,231,0.00
+176.116.21.109,2053,80,false,LHR,Europe,GB,London,231,0.00
+176.116.21.152,2053,80,false,LHR,Europe,GB,London,231,0.00
+176.116.21.142,2087,80,false,LHR,Europe,GB,London,231,0.00
+176.116.21.77,2096,80,false,LHR,Europe,GB,London,232,0.00
+176.116.21.157,2052,80,false,LHR,Europe,GB,London,232,0.00
+54.79.190.249,2086,80,false,SYD,Oceania,AU,Sydney,232,0.00
+176.116.21.36,2095,80,false,LHR,Europe,GB,London,232,0.00
+54.253.222.7,2087,80,false,SYD,Oceania,AU,Sydney,232,0.00
+176.116.21.220,2096,80,false,LHR,Europe,GB,London,233,0.00
+176.116.21.152,2082,80,false,LHR,Europe,GB,London,233,0.00
+176.116.21.101,2082,80,false,LHR,Europe,GB,London,233,0.00
+176.116.21.133,2052,80,false,LHR,Europe,GB,London,233,0.00
+176.116.21.136,2096,80,false,LHR,Europe,GB,London,233,0.00
+44.199.232.34,443,443,true,IAD,North America,US,Ashburn,233,0.00
+51.92.10.146,2096,80,false,MAD,Europe,ES,Madrid,233,0.00
+176.116.21.123,2095,80,false,LHR,Europe,GB,London,233,0.00
+50.112.212.129,80,8080,false,PDX,North America,US,Portland,233,0.00
+52.44.71.177,80,8080,false,IAD,North America,US,Ashburn,233,0.00
+176.116.21.104,2082,80,false,LHR,Europe,GB,London,233,0.00
+176.116.21.32,2083,80,false,LHR,Europe,GB,London,234,0.00
+51.92.10.146,2086,80,false,MAD,Europe,ES,Madrid,234,0.00
+176.116.21.175,2082,80,false,LHR,Europe,GB,London,234,0.00
+176.116.21.101,2083,80,false,LHR,Europe,GB,London,234,0.00
+176.116.21.180,2095,80,false,LHR,Europe,GB,London,235,0.00
+176.116.21.102,2052,80,false,LHR,Europe,GB,London,235,0.00
+54.253.222.7,2095,80,false,SYD,Oceania,AU,Sydney,235,0.00
+176.116.21.124,2083,80,false,LHR,Europe,GB,London,235,0.00
+176.116.21.159,2086,80,false,LHR,Europe,GB,London,235,0.00
+54.252.91.41,2083,80,false,SYD,Oceania,AU,Sydney,236,0.00
+3.141.95.66,80,8080,false,ORD,North America,US,Chicago,236,0.00
+176.116.21.104,2052,80,false,LHR,Europe,GB,London,236,0.00
+3.66.115.225,443,443,true,FRA,Europe,DE,Frankfurt,236,0.00
+3.18.172.17,80,80,false,CMH,North America,US,Columbus,237,0.00
+176.116.21.136,2095,80,false,LHR,Europe,GB,London,237,0.00
+176.116.21.101,2096,80,false,LHR,Europe,GB,London,237,0.00
+35.179.160.112,443,443,true,LHR,Europe,GB,London,237,0.00
+176.116.21.93,2083,80,false,LHR,Europe,GB,London,237,0.00
+176.116.21.124,2096,80,false,LHR,Europe,GB,London,237,0.00
+99.80.238.19,2087,80,false,DUB,Europe,IE,Dublin,237,0.00
+54.150.195.218,80,80,false,NRT,Asia Pacific,JP,Tokyo,238,0.00
+176.116.21.75,2086,80,false,LHR,Europe,GB,London,238,0.00
+176.116.21.175,2096,80,false,LHR,Europe,GB,London,238,0.00
+18.101.242.202,2095,80,false,MAD,Europe,ES,Madrid,238,0.00
+176.116.21.116,2083,80,false,LHR,Europe,GB,London,238,0.00
+54.79.190.249,2052,80,false,SYD,Oceania,AU,Sydney,238,0.00
+176.116.21.87,2082,80,false,LHR,Europe,GB,London,238,0.00
+16.63.55.49,2095,80,false,ZRH,Europe,CH,Zurich,238,0.00
+51.92.103.115,2082,80,false,MAD,Europe,ES,Madrid,239,0.00
+54.251.118.130,2087,80,false,SIN,Asia Pacific,SG,Singapore,239,0.00
+176.116.21.75,2082,80,false,LHR,Europe,GB,London,239,0.00
+176.116.21.32,2096,80,false,LHR,Europe,GB,London,239,0.00
+51.92.70.133,2087,80,false,MAD,Europe,ES,Madrid,239,0.00
+51.92.78.246,2087,80,false,MAD,Europe,ES,Madrid,239,0.00
+176.116.21.175,2083,80,false,LHR,Europe,GB,London,240,0.00
+176.116.21.94,2053,80,false,LHR,Europe,GB,London,240,0.00
+176.116.21.83,2082,80,false,LHR,Europe,GB,London,240,0.00
+176.116.21.101,2053,80,false,LHR,Europe,GB,London,240,0.00
+54.212.93.229,80,80,false,PDX,North America,US,Portland,241,0.00
+176.116.21.85,2083,80,false,LHR,Europe,GB,London,241,0.00
+176.116.21.127,2083,80,false,LHR,Europe,GB,London,241,0.00
+176.116.21.89,2095,80,false,LHR,Europe,GB,London,241,0.00
+176.116.21.103,2095,80,false,LHR,Europe,GB,London,241,0.00
+54.213.241.206,80,8080,false,PDX,North America,US,Portland,241,0.00
+18.101.87.56,2082,80,false,MAD,Europe,ES,Madrid,241,0.00
+176.116.21.36,2087,80,false,LHR,Europe,GB,London,242,0.00
+52.76.182.63,2053,80,false,SIN,Asia Pacific,SG,Singapore,242,0.00
+34.226.249.19,80,80,false,IAD,North America,US,Ashburn,242,0.00
+34.213.97.127,80,80,false,PDX,North America,US,Portland,242,0.00
+3.18.172.17,80,80,false,CMH,North America,US,Columbus,242,0.00
+52.60.241.195,2082,80,false,YUL,North America,CA,Montréal,242,0.00
+18.101.118.37,2086,80,false,MAD,Europe,ES,Madrid,243,0.00
+35.179.157.64,443,443,true,LHR,Europe,GB,London,243,0.00
+54.252.91.41,2095,80,false,SYD,Oceania,AU,Sydney,243,0.00
+176.116.21.100,2083,80,false,LHR,Europe,GB,London,243,0.00
+16.63.55.49,2086,80,false,ZRH,Europe,CH,Zurich,244,0.00
+176.116.21.73,2082,80,false,LHR,Europe,GB,London,244,0.00
+3.97.1.47,2096,80,false,YUL,North America,CA,Montréal,244,0.00
+54.252.91.41,2087,80,false,SYD,Oceania,AU,Sydney,244,0.00
+3.120.76.162,2053,80,false,FRA,Europe,DE,Frankfurt,244,0.00
+176.116.21.127,2052,80,false,LHR,Europe,GB,London,245,0.00
+176.116.21.141,2053,80,false,LHR,Europe,GB,London,245,0.00
+176.116.21.77,2082,80,false,LHR,Europe,GB,London,245,0.00
+176.116.21.175,2053,80,false,LHR,Europe,GB,London,245,0.00
+52.0.26.215,80,80,false,IAD,North America,US,Ashburn,245,0.00
+18.216.55.100,80,80,false,ORD,North America,US,Chicago,245,0.00
+3.96.246.140,2052,80,false,YUL,North America,CA,Montréal,245,0.00
+176.116.21.85,2052,80,false,LHR,Europe,GB,London,245,0.00
+176.116.21.96,2087,80,false,LHR,Europe,GB,London,245,0.00
+176.116.21.77,2087,80,false,LHR,Europe,GB,London,246,0.00
+3.222.55.143,80,80,false,IAD,North America,US,Ashburn,246,0.00
+3.96.246.140,2053,80,false,YUL,North America,CA,Montréal,246,0.00
+3.97.1.47,2095,80,false,YUL,North America,CA,Montréal,247,0.00
+3.97.1.47,2086,80,false,YUL,North America,CA,Montréal,247,0.00
+176.116.21.74,2086,80,false,LHR,Europe,GB,London,247,0.00
+3.96.246.140,2096,80,false,YUL,North America,CA,Montréal,247,0.00
+176.116.21.137,2086,80,false,LHR,Europe,GB,London,247,0.00
+54.150.160.166,2083,80,false,NRT,Asia Pacific,JP,Tokyo,248,0.00
+3.97.1.47,2086,80,false,YUL,North America,CA,Montréal,248,0.00
+176.116.21.19,2083,80,false,LHR,Europe,GB,London,248,0.00
+3.97.1.47,2096,80,false,YUL,North America,CA,Montréal,248,0.00
+176.116.21.124,2082,80,false,LHR,Europe,GB,London,248,0.00
+176.116.21.152,2086,80,false,LHR,Europe,GB,London,248,0.00
+34.238.175.79,80,80,false,IAD,North America,US,Ashburn,248,0.00
+176.116.21.73,2096,80,false,LHR,Europe,GB,London,249,0.00
+18.101.242.202,2053,80,false,MAD,Europe,ES,Madrid,249,0.00
+3.97.1.47,2087,80,false,YUL,North America,CA,Montréal,249,0.00
+51.92.103.115,2083,80,false,MAD,Europe,ES,Madrid,249,0.00
+35.182.188.214,80,80,false,YUL,North America,CA,Montréal,250,0.00
+3.96.246.140,2086,80,false,YUL,North America,CA,Montréal,250,0.00
+176.116.21.100,2096,80,false,LHR,Europe,GB,London,250,0.00
+52.60.241.195,2095,80,false,YUL,North America,CA,Montréal,250,0.00
+176.116.21.220,2095,80,false,LHR,Europe,GB,London,250,0.00
+16.63.55.49,2087,80,false,ZRH,Europe,CH,Zurich,250,0.00
+54.242.209.79,80,8080,false,IAD,North America,US,Ashburn,251,0.00
+44.199.219.139,443,443,true,IAD,North America,US,Ashburn,251,0.00
+43.204.208.173,80,80,false,BOM,Asia Pacific,IN,Mumbai,251,0.00
+54.153.146.155,2087,80,false,SYD,Oceania,AU,Sydney,251,0.00
+3.97.1.47,2082,80,false,YUL,North America,CA,Montréal,251,0.00
+176.116.21.104,2053,80,false,LHR,Europe,GB,London,252,0.00
+3.96.246.140,2083,80,false,YUL,North America,CA,Montréal,252,0.00
+3.96.246.140,2095,80,false,YUL,North America,CA,Montréal,253,0.00
+3.97.1.47,2083,80,false,YUL,North America,CA,Montréal,253,0.00
+176.116.21.103,2096,80,false,LHR,Europe,GB,London,253,0.00
+176.116.21.93,2087,80,false,LHR,Europe,GB,London,253,0.00
+176.116.21.103,2086,80,false,LHR,Europe,GB,London,253,0.00
+176.116.21.175,2087,80,false,LHR,Europe,GB,London,253,0.00
+52.65.99.165,2087,80,false,SYD,Oceania,AU,Sydney,254,0.00
+3.97.1.47,2083,80,false,YUL,North America,CA,Montréal,254,0.00
+176.116.21.141,2087,80,false,LHR,Europe,GB,London,254,0.00
+176.116.21.100,2087,80,false,LHR,Europe,GB,London,254,0.00
+176.116.21.75,2087,80,false,LHR,Europe,GB,London,254,0.00
+52.22.22.40,80,80,false,IAD,North America,US,Ashburn,254,0.00
+3.218.127.188,80,8080,false,IAD,North America,US,Ashburn,254,0.00
+176.116.21.136,2083,80,false,LHR,Europe,GB,London,255,0.00
+52.18.205.36,2082,80,false,DUB,Europe,IE,Dublin,255,0.00
+35.170.33.142,80,80,false,IAD,North America,US,Ashburn,255,0.00
+3.96.246.140,2052,80,false,YUL,North America,CA,Montréal,255,0.00
+3.96.246.140,2082,80,false,YUL,North America,CA,Montréal,255,0.00
+176.116.21.124,2052,80,false,LHR,Europe,GB,London,255,0.00
+176.116.21.220,2083,80,false,LHR,Europe,GB,London,256,0.00
+176.116.21.74,2095,80,false,LHR,Europe,GB,London,256,0.00
+3.97.1.47,2095,80,false,YUL,North America,CA,Montréal,256,0.00
+3.97.1.47,2052,80,false,YUL,North America,CA,Montréal,256,0.00
+176.116.21.85,2082,80,false,LHR,Europe,GB,London,256,0.00
+52.18.205.36,2087,80,false,DUB,Europe,IE,Dublin,257,0.00
+176.116.21.141,2086,80,false,LHR,Europe,GB,London,257,0.00
+54.253.222.7,2053,80,false,SYD,Oceania,AU,Sydney,257,0.00
+52.60.241.195,2095,80,false,YUL,North America,CA,Montréal,257,0.00
+44.204.134.235,443,443,true,IAD,North America,US,Ashburn,257,0.00
+176.116.21.127,2082,80,false,LHR,Europe,GB,London,258,0.00
+176.116.21.104,2087,80,false,LHR,Europe,GB,London,258,0.00
+3.96.246.140,2096,80,false,YUL,North America,CA,Montréal,258,0.00
+176.116.21.74,2096,80,false,LHR,Europe,GB,London,259,0.00
+176.116.21.109,2083,80,false,LHR,Europe,GB,London,259,0.00
+176.116.21.40,2052,80,false,LHR,Europe,GB,London,259,0.00
+3.97.1.47,2053,80,false,YUL,North America,CA,Montréal,259,0.00
+176.116.21.180,2083,80,false,LHR,Europe,GB,London,260,0.00
+35.171.10.44,80,8080,false,IAD,North America,US,Ashburn,260,0.00
+44.200.151.15,443,443,true,IAD,North America,US,Ashburn,260,0.00
+16.63.33.251,2083,80,false,ZRH,Europe,CH,Zurich,261,0.00
+52.60.241.195,2083,80,false,YUL,North America,CA,Montréal,262,0.00
+3.96.246.140,2087,80,false,YUL,North America,CA,Montréal,262,0.00
+52.60.241.195,2053,80,false,YUL,North America,CA,Montréal,262,0.00
+3.96.246.140,2053,80,false,YUL,North America,CA,Montréal,262,0.00
+54.251.118.130,2086,80,false,SIN,Asia Pacific,SG,Singapore,263,0.00
+3.96.246.140,2095,80,false,YUL,North America,CA,Montréal,263,0.00
+176.116.21.220,2052,80,false,LHR,Europe,GB,London,263,0.00
+3.96.246.140,2082,80,false,YUL,North America,CA,Montréal,263,0.00
+176.116.21.85,2053,80,false,LHR,Europe,GB,London,263,0.00
+176.116.21.136,2086,80,false,LHR,Europe,GB,London,264,0.00
+52.60.241.195,2052,80,false,YUL,North America,CA,Montréal,264,0.00
+18.176.35.171,2082,80,false,NRT,Asia Pacific,JP,Tokyo,264,0.00
+54.252.91.41,2086,80,false,SYD,Oceania,AU,Sydney,264,0.00
+52.60.241.195,2082,80,false,YUL,North America,CA,Montréal,264,0.00
+176.116.21.127,2095,80,false,LHR,Europe,GB,London,265,0.00
+3.97.1.47,2082,80,false,YUL,North America,CA,Montréal,265,0.00
+176.116.21.73,2053,80,false,LHR,Europe,GB,London,265,0.00
+176.116.21.157,2082,80,false,LHR,Europe,GB,London,265,0.00
+176.116.21.124,2053,80,false,LHR,Europe,GB,London,265,0.00
+52.60.241.195,2087,80,false,YUL,North America,CA,Montréal,265,0.00
+52.60.241.195,2086,80,false,YUL,North America,CA,Montréal,265,0.00
+176.116.21.19,2052,80,false,LHR,Europe,GB,London,265,0.00
+34.201.36.247,80,8080,false,IAD,North America,US,Ashburn,265,0.00
+176.116.21.182,2095,80,false,LHR,Europe,GB,London,265,0.00
+176.116.21.75,2096,80,false,LHR,Europe,GB,London,266,0.00
+176.116.21.186,2087,80,false,LHR,Europe,GB,London,266,0.00
+176.116.21.14,2087,80,false,LHR,Europe,GB,London,266,0.00
+52.18.205.36,2086,80,false,DUB,Europe,IE,Dublin,266,0.00
+176.116.21.100,2095,80,false,LHR,Europe,GB,London,266,0.00
+54.149.238.211,80,80,false,PDX,North America,US,Portland,266,0.00
+176.116.21.109,2096,80,false,LHR,Europe,GB,London,268,0.00
+54.163.182.65,80,80,false,IAD,North America,US,Ashburn,268,0.00
+176.116.21.140,2095,80,false,LHR,Europe,GB,London,268,0.00
+3.97.1.47,2053,80,false,YUL,North America,CA,Montréal,268,0.00
+3.96.246.140,2086,80,false,YUL,North America,CA,Montréal,269,0.00
+52.33.8.219,80,80,false,PDX,North America,US,Portland,269,0.00
+176.116.21.82,2086,80,false,LHR,Europe,GB,London,269,0.00
+18.102.5.243,2082,80,false,MXP,Europe,IT,Milan,269,0.00
+52.91.254.230,80,80,false,IAD,North America,US,Ashburn,270,0.00
+52.60.241.195,2053,80,false,YUL,North America,CA,Montréal,270,0.00
+18.102.5.243,2083,80,false,MXP,Europe,IT,Milan,270,0.00
+52.18.205.36,2052,80,false,DUB,Europe,IE,Dublin,270,0.00
+52.47.134.23,80,80,false,CDG,Europe,FR,Paris,271,0.00
+52.60.241.195,2096,80,false,YUL,North America,CA,Montréal,272,0.00
+176.116.21.86,2096,80,false,LHR,Europe,GB,London,272,0.00
+176.116.21.32,2095,80,false,LHR,Europe,GB,London,273,0.00
+176.116.21.75,2052,80,false,LHR,Europe,GB,London,273,0.00
+3.96.246.140,2083,80,false,YUL,North America,CA,Montréal,274,0.00
+176.116.21.180,2086,80,false,LHR,Europe,GB,London,274,0.00
+176.116.21.103,2083,80,false,LHR,Europe,GB,London,275,0.00
+3.23.238.192,80,80,false,ORD,North America,US,Chicago,275,0.00
+176.116.21.152,2083,80,false,LHR,Europe,GB,London,275,0.00
+176.116.21.100,2086,80,false,LHR,Europe,GB,London,275,0.00
+176.116.21.104,2096,80,false,LHR,Europe,GB,London,275,0.00
+51.44.155.141,443,443,true,AMS,Europe,NL,Amsterdam,276,0.00
+18.176.35.171,2086,80,false,NRT,Asia Pacific,JP,Tokyo,276,0.00
+176.116.21.89,2086,80,false,LHR,Europe,GB,London,277,0.00
+176.116.21.105,2083,80,false,LHR,Europe,GB,London,277,0.00
+52.60.241.195,2087,80,false,YUL,North America,CA,Montréal,278,0.00
+176.116.21.132,2082,80,false,LHR,Europe,GB,London,278,0.00
+176.116.21.93,2053,80,false,LHR,Europe,GB,London,278,0.00
+176.116.21.74,2083,80,false,LHR,Europe,GB,London,278,0.00
+54.253.222.7,2086,80,false,SYD,Oceania,AU,Sydney,278,0.00
+176.116.21.131,2053,80,false,LHR,Europe,GB,London,278,0.00
+176.116.21.77,2052,80,false,LHR,Europe,GB,London,278,0.00
+176.116.21.108,2096,80,false,LHR,Europe,GB,London,279,0.00
+54.213.94.219,80,8080,false,SEA,North America,US,Seattle,279,0.00
+176.116.21.108,2086,80,false,LHR,Europe,GB,London,279,0.00
+176.116.21.88,2053,80,false,LHR,Europe,GB,London,279,0.00
+176.116.21.123,2087,80,false,LHR,Europe,GB,London,279,0.00
+54.253.222.7,2096,80,false,SYD,Oceania,AU,Sydney,280,0.00
+54.208.166.87,80,80,false,IAD,North America,US,Ashburn,281,0.00
+176.116.21.85,2095,80,false,LHR,Europe,GB,London,281,0.00
+52.60.241.195,2096,80,false,YUL,North America,CA,Montréal,282,0.00
+176.116.21.141,2095,80,false,LHR,Europe,GB,London,283,0.00
+176.116.21.132,2053,80,false,LHR,Europe,GB,London,284,0.00
+176.116.21.80,2087,80,false,LHR,Europe,GB,London,284,0.00
+18.185.254.189,80,80,false,FRA,Europe,DE,Frankfurt,284,0.00
+176.116.21.232,2082,80,false,LHR,Europe,GB,London,284,0.00
+176.116.21.180,2052,80,false,LHR,Europe,GB,London,285,0.00
+52.60.241.195,2083,80,false,YUL,North America,CA,Montréal,285,0.00
+54.150.160.166,2095,80,false,NRT,Asia Pacific,JP,Tokyo,287,0.00
+176.116.21.151,2086,80,false,LHR,Europe,GB,London,288,0.00
+176.116.21.142,2052,80,false,LHR,Europe,GB,London,288,0.00
+176.116.21.132,2083,80,false,LHR,Europe,GB,London,288,0.00
+176.116.21.107,2096,80,false,LHR,Europe,GB,London,288,0.00
+52.29.224.33,80,80,false,FRA,Europe,DE,Frankfurt,288,0.00
+176.116.21.98,2086,80,false,LHR,Europe,GB,London,288,0.00
+176.116.21.136,2082,80,false,LHR,Europe,GB,London,289,0.00
+54.253.222.7,2052,80,false,SYD,Oceania,AU,Sydney,289,0.00
+176.116.21.148,2082,80,false,LHR,Europe,GB,London,289,0.00
+54.253.222.7,2086,80,false,SYD,Oceania,AU,Sydney,289,0.00
+176.116.21.123,2082,80,false,LHR,Europe,GB,London,289,0.00
+176.116.21.142,2082,80,false,LHR,Europe,GB,London,290,0.00
+176.116.21.100,2053,80,false,LHR,Europe,GB,London,291,0.00
+54.253.222.7,2083,80,false,SYD,Oceania,AU,Sydney,291,0.00
+176.116.21.90,2052,80,false,LHR,Europe,GB,London,292,0.00
+176.116.21.161,2053,80,false,LHR,Europe,GB,London,292,0.00
+176.116.21.108,2082,80,false,LHR,Europe,GB,London,292,0.00
+176.116.21.105,2086,80,false,LHR,Europe,GB,London,292,0.00
+34.194.41.221,80,80,false,IAD,North America,US,Ashburn,292,0.00
+176.116.21.129,2087,80,false,LHR,Europe,GB,London,293,0.00
+176.116.21.32,2052,80,false,LHR,Europe,GB,London,293,0.00
+3.96.246.140,2087,80,false,YUL,North America,CA,Montréal,293,0.00
+3.231.221.32,443,443,true,IAD,North America,US,Ashburn,293,0.00
+176.116.21.180,2087,80,false,LHR,Europe,GB,London,293,0.00
+176.116.21.108,2095,80,false,LHR,Europe,GB,London,293,0.00
+54.150.160.166,2053,80,false,NRT,Asia Pacific,JP,Tokyo,293,0.00
+176.116.21.159,2082,80,false,LHR,Europe,GB,London,294,0.00
+52.60.241.195,2086,80,false,YUL,North America,CA,Montréal,295,0.00
+98.82.31.212,443,443,true,IAD,North America,US,Ashburn,296,0.00
+176.116.21.92,2082,80,false,LHR,Europe,GB,London,296,0.00
+176.116.21.139,2096,80,false,LHR,Europe,GB,London,297,0.00
+176.116.21.184,2087,80,false,LHR,Europe,GB,London,297,0.00
+54.251.118.130,2095,80,false,SIN,Asia Pacific,SG,Singapore,297,0.00
+35.179.162.88,443,443,true,LHR,Europe,GB,London,297,0.00
+54.150.160.166,2095,80,false,NRT,Asia Pacific,JP,Tokyo,298,0.00
+176.116.21.32,2087,80,false,LHR,Europe,GB,London,298,0.00
+176.116.21.105,2087,80,false,LHR,Europe,GB,London,298,0.00
+176.116.21.116,2053,80,false,LHR,Europe,GB,London,299,0.00
+176.116.21.124,2087,80,false,LHR,Europe,GB,London,299,0.00
+176.116.21.123,2053,80,false,LHR,Europe,GB,London,299,0.00
+176.116.21.85,2086,80,false,LHR,Europe,GB,London,302,0.00
+176.116.21.186,2083,80,false,LHR,Europe,GB,London,302,0.00
+176.116.21.131,2083,80,false,LHR,Europe,GB,London,302,0.00
+176.116.21.220,2087,80,false,LHR,Europe,GB,London,302,0.00
+54.225.117.69,80,8080,false,IAD,North America,US,Ashburn,303,0.00
+35.165.219.81,443,443,true,SEA,North America,US,Seattle,304,0.00
+176.116.21.142,2083,80,false,LHR,Europe,GB,London,305,0.00
+176.116.21.153,2095,80,false,LHR,Europe,GB,London,305,0.00
+176.116.21.81,2087,80,false,LHR,Europe,GB,London,305,0.00
+176.116.21.78,2083,80,false,LHR,Europe,GB,London,306,0.00
+176.116.21.141,2082,80,false,LHR,Europe,GB,London,308,0.00
+176.116.21.105,2096,80,false,LHR,Europe,GB,London,309,0.00
+176.116.21.157,2096,80,false,LHR,Europe,GB,London,311,0.00
+176.116.21.127,2086,80,false,LHR,Europe,GB,London,313,0.00
+176.116.21.36,2052,80,false,LHR,Europe,GB,London,313,0.00
+176.116.21.131,2052,80,false,LHR,Europe,GB,London,313,0.00
+52.60.241.195,2052,80,false,YUL,North America,CA,Montréal,314,0.00
+35.178.225.98,443,443,true,LHR,Europe,GB,London,315,0.00
+176.116.21.136,2052,80,false,LHR,Europe,GB,London,315,0.00
+18.188.138.151,80,80,false,ORD,North America,US,Chicago,315,0.00
+54.209.65.164,80,80,false,IAD,North America,US,Ashburn,317,0.00
+176.116.21.129,2053,80,false,LHR,Europe,GB,London,317,0.00
+44.197.174.172,443,443,true,IAD,North America,US,Ashburn,317,0.00
+176.116.21.141,2083,80,false,LHR,Europe,GB,London,318,0.00
+51.44.121.45,2096,443,true,CDG,Europe,FR,Paris,319,0.00
+176.116.21.98,2052,80,false,LHR,Europe,GB,London,319,0.00
+54.253.222.7,2082,80,false,SYD,Oceania,AU,Sydney,319,0.00
+176.116.21.75,2083,80,false,LHR,Europe,GB,London,320,0.00
+176.116.21.132,2086,80,false,LHR,Europe,GB,London,320,0.00
+44.198.0.228,80,80,false,IAD,North America,US,Ashburn,321,0.00
+176.116.21.146,2095,80,false,LHR,Europe,GB,London,321,0.00
+176.116.21.36,2082,80,false,LHR,Europe,GB,London,321,0.00
+176.116.21.88,2083,80,false,LHR,Europe,GB,London,323,0.00
+176.116.21.87,2052,80,false,LHR,Europe,GB,London,324,0.00
+3.23.238.192,80,80,false,ORD,North America,US,Chicago,325,0.00
+176.116.21.32,2086,80,false,LHR,Europe,GB,London,326,0.00
+35.177.71.235,443,443,true,LHR,Europe,GB,London,327,0.00
+3.97.1.47,2052,80,false,YUL,North America,CA,Montréal,327,0.00
+176.116.21.40,2087,80,false,LHR,Europe,GB,London,327,0.00
+54.150.75.95,2082,80,false,NRT,Asia Pacific,JP,Tokyo,328,0.00
+176.116.21.95,2095,80,false,LHR,Europe,GB,London,328,0.00
+176.116.21.82,2083,80,false,LHR,Europe,GB,London,329,0.00
+176.116.21.102,2082,80,false,LHR,Europe,GB,London,331,0.00
+176.116.21.81,2096,80,false,LHR,Europe,GB,London,331,0.00
+176.116.21.157,2095,80,false,LHR,Europe,GB,London,333,0.00
+44.217.235.114,2053,443,true,IAD,North America,US,Ashburn,333,0.00
+44.215.13.71,80,80,false,IAD,North America,US,Ashburn,334,0.00
+176.116.21.132,2095,80,false,LHR,Europe,GB,London,336,0.00
+176.116.21.226,2086,80,false,LHR,Europe,GB,London,336,0.00
+176.116.21.108,2083,80,false,LHR,Europe,GB,London,336,0.00
+3.97.1.47,2087,80,false,YUL,North America,CA,Montréal,338,0.00
+176.116.21.152,2087,80,false,LHR,Europe,GB,London,338,0.00
+54.224.42.142,8443,443,true,IAD,North America,US,Ashburn,339,0.00
+35.182.188.214,80,80,false,YUL,North America,CA,Montréal,350,0.00
+52.87.80.149,80,80,false,IAD,North America,US,Ashburn,351,0.00
+176.116.21.220,2053,80,false,LHR,Europe,GB,London,352,0.00
+54.233.145.43,80,80,false,GRU,South America,BR,São Paulo,352,0.00
+18.230.13.193,2083,80,false,GRU,South America,BR,São Paulo,354,0.00
+176.116.21.124,2086,80,false,LHR,Europe,GB,London,354,0.00
+18.230.13.193,2087,80,false,GRU,South America,BR,São Paulo,355,0.00
+176.116.21.74,2082,80,false,LHR,Europe,GB,London,357,0.00
+54.207.253.122,2095,80,false,GRU,South America,BR,São Paulo,358,0.00
+18.229.18.106,2096,80,false,GRU,South America,BR,São Paulo,359,0.00
+18.229.18.106,2083,80,false,GRU,South America,BR,São Paulo,360,0.00
+18.230.13.193,2096,80,false,GRU,South America,BR,São Paulo,360,0.00
+52.90.126.159,80,8080,false,IAD,North America,US,Ashburn,360,0.00
+18.229.18.106,2052,80,false,GRU,South America,BR,São Paulo,361,0.00
+18.230.13.193,2052,80,false,GRU,South America,BR,São Paulo,362,0.00
+176.116.21.103,2053,80,false,LHR,Europe,GB,London,362,0.00
+54.94.181.99,2087,80,false,GRU,South America,BR,São Paulo,363,0.00
+18.229.18.106,2095,80,false,GRU,South America,BR,São Paulo,363,0.00
+54.207.253.122,2083,80,false,GRU,South America,BR,São Paulo,364,0.00
+54.233.145.43,80,80,false,GRU,South America,BR,São Paulo,364,0.00
+18.230.13.193,2082,80,false,GRU,South America,BR,São Paulo,366,0.00
+18.230.13.193,2095,80,false,GRU,South America,BR,São Paulo,366,0.00
+18.229.18.106,2053,80,false,GRU,South America,BR,São Paulo,369,0.00
+176.116.21.186,2096,80,false,LHR,Europe,GB,London,370,0.00
+18.230.13.193,2086,80,false,GRU,South America,BR,São Paulo,370,0.00
+18.229.18.106,2087,80,false,GRU,South America,BR,São Paulo,370,0.00
+54.94.181.99,2087,80,false,GRU,South America,BR,São Paulo,374,0.00
+54.207.253.122,2087,80,false,GRU,South America,BR,São Paulo,383,0.00
+18.230.13.193,2053,80,false,GRU,South America,BR,São Paulo,385,0.00
+18.229.18.106,2086,80,false,GRU,South America,BR,São Paulo,395,0.00
+3.144.191.4,80,80,false,ORD,North America,US,Chicago,399,0.00
+54.149.238.211,80,80,false,SEA,North America,US,Seattle,418,0.00
+18.229.18.106,2082,80,false,GRU,South America,BR,São Paulo,421,0.00
