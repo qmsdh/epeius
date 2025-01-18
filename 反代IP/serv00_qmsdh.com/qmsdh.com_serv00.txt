@@ -2,8 +2,8 @@ mail1.serv00.com:47498
 mail1.serv00.com:20951
 mail1.serv00.com:52001
 mail2.serv00.com:52975
-mail2.serv00.com:9100
 mail2.serv00.com:33019
+mail2.serv00.com:9100
 mail2.serv00.com:59455
 mail3.serv00.com:23268
 mail4.serv00.com:60305
@@ -15,7 +15,9 @@ mail5.serv00.com:29288
 mail6.serv00.com:16521
 mail6.serv00.com:37753
 mail6.serv00.com:11512
+mail7.serv00.com:51828
 mail8.serv00.com:8445
+mail8.serv00.com:26875
 mail9.serv00.com:27231
 mail9.serv00.com:58245
 mail9.serv00.com:3784
@@ -25,14 +27,12 @@ mail10.serv00.com:15661
 mail10.serv00.com:51540
 mail11.serv00.com:31444
 mail11.serv00.com:22417
-mail11.serv00.com:12946
+mail11.serv00.com:49975
 mail11.serv00.com:56554
 mail12.serv00.com:30365
 mail12.serv00.com:36596
-mail12.serv00.com:55697
 mail12.serv00.com:39254
 mail13.serv00.com:27231
 mail13.serv00.com:15641
-mail14.serv00.com:12868
-mail14.serv00.com:23823
 mail14.serv00.com:29504
+mail14.serv00.com:23823
