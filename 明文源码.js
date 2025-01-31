@@ -3,17 +3,15 @@ import { connect } from "cloudflare:sockets";
 
 let password = '';
 let proxyIP = '';
-let sub = '';
-let subConverter = 'SUBAPI.fxxk.dedyn.io';// clash订阅转换后端，目前使用CM的订阅转换功能。自带虚假节点信息防泄露
-let subConfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini"; //订阅配置文件
+//let sub = '';
+let subConverter = atob('U1VCQVBJLmZ4eGsuZGVkeW4uaW8=');
+let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvY29uZmlnL0FDTDRTU1JfT25saW5lX01pbmlfTXVsdGlNb2RlLmluaQ==');
 let subProtocol = 'https';
 let subEmoji = 'true';
 let socks5Address = '';
 let parsedSocks5Address = {};
 let enableSocks = false;
 
-let fakeUserID;
-let fakeHostName;
 const expire = 4102329600;//2099-12-31
 let proxyIPs;
 let socks5s;
@@ -62,7 +60,7 @@ export default {
 			currentDate.setHours(0, 0, 0, 0); // 设置时间为当天
 			const timestamp = Math.ceil(currentDate.getTime() / 1000);
 			const fakeUserIDMD5 = await MD5MD5(`${password}${timestamp}`);
-			fakeUserID = [
+			const fakeUserID = [
 				fakeUserIDMD5.slice(0, 8),
 				fakeUserIDMD5.slice(8, 12),
 				fakeUserIDMD5.slice(12, 16),
@@ -70,7 +68,7 @@ export default {
 				fakeUserIDMD5.slice(20)
 			].join('-');
 
-			fakeHostName = `${fakeUserIDMD5.slice(6, 9)}.${fakeUserIDMD5.slice(13, 19)}`;
+			const fakeHostName = `${fakeUserIDMD5.slice(6, 9)}.${fakeUserIDMD5.slice(13, 19)}`;
 
 			proxyIP = env.PROXYIP || env.proxyip || proxyIP;
 			proxyIPs = await ADD(proxyIP);
@@ -82,7 +80,7 @@ export default {
 			socks5Address = socks5Address.split('//')[1] || socks5Address;
 			if (env.GO2SOCKS5) go2Socks5s = await ADD(env.GO2SOCKS5);
 			if (env.CFPORTS) httpsPorts = await ADD(env.CFPORTS);
-			if (env.BAN) banHosts = await 整理(env.BAN);
+			if (env.BAN) banHosts = await ADD(env.BAN);
 			if (socks5Address) {
 				try {
 					parsedSocks5Address = socks5AddressParser(socks5Address);
@@ -113,7 +111,7 @@ export default {
 				subEmoji = env.SUBEMOJI || env.EMOJI || subEmoji;
 				if (subEmoji == '0') subEmoji = 'false';
 				if (env.LINK) link = await ADD(env.LINK);
-				sub = env.SUB || sub;
+				let sub = env.SUB || '';
 				subConverter = env.SUBAPI || subConverter;
 				if (subConverter.includes("http://")) {
 					subConverter = subConverter.split("//")[1];
@@ -145,14 +143,14 @@ export default {
 							},
 						});
 					case `/${fakeUserID}`:
-						const fakeConfig = await get特洛伊Config(password, request.headers.get('Host'), sub, 'CF-Workers-SUB', RproxyIP, url, env);
+						const fakeConfig = await get特洛伊Config(password, request.headers.get('Host'), sub, 'CF-Workers-SUB', RproxyIP, url, fakeUserID, fakeHostName, env);
 						return new Response(`${fakeConfig}`, { status: 200 });
 					case `/${password}/edit`:
 						const html = await KV(request, env);
 						return html;
 					case `/${password}`:
 						await sendMessage(`#获取订阅 ${FileName}`, request.headers.get('CF-Connecting-IP'), `UA: ${UA}</tg-spoiler>\n域名: ${url.hostname}\n<tg-spoiler>入口: ${url.pathname + url.search}</tg-spoiler>`);
-						const 特洛伊Config = await get特洛伊Config(password, request.headers.get('Host'), sub, UA, RproxyIP, url, env);
+						const 特洛伊Config = await get特洛伊Config(password, request.headers.get('Host'), sub, UA, RproxyIP, url, fakeUserID, fakeHostName, env);
 						const now = Date.now();
 						//const timestamp = Math.floor(now / 1000);
 						const today = new Date(now);
@@ -163,7 +161,7 @@ export default {
 						let total = 24 * 1099511627776;
 
 						if (userAgent && (userAgent.includes('mozilla') || userAgent.includes('subconverter'))) {
-							return new Response(`<div style="font-size:13px;">${特洛伊Config}</div>`, {
+							return new Response(特洛伊Config, {
 								status: 200,
 								headers: {
 									"Content-Type": "text/html;charset=utf-8",
@@ -173,11 +171,11 @@ export default {
 								}
 							});
 						} else {
-							return new Response(`${特洛伊Config}`, {
+							return new Response(特洛伊Config, {
 								status: 200,
 								headers: {
 									"Content-Disposition": `attachment; filename=${FileName}; filename*=utf-8''${encodeURIComponent(FileName)}`,
-									"Content-Type": "text/plain;charset=utf-8",
+									//"Content-Type": "text/plain;charset=utf-8",
 									"Profile-Update-Interval": "6",
 									"Subscription-Userinfo": `upload=${pagesSum}; download=${workersSum}; total=${total}; expire=${expire}`,
 								}
@@ -572,7 +570,7 @@ export {
 //# sourceMappingURL=worker.js.map
 */
 
-function revertFakeInfo(content, userID, hostName, isBase64) {
+function revertFakeInfo(content, userID, hostName, fakeUserID, fakeHostName, isBase64) {
 	if (isBase64) content = atob(content);//Base64解码
 	content = content.replace(new RegExp(fakeUserID, 'g'), userID).replace(new RegExp(fakeHostName, 'g'), hostName);
 	//console.log(content);
@@ -667,7 +665,7 @@ function 配置信息(密码, 域名地址) {
 
 let subParams = ['sub', 'base64', 'b64', 'clash', 'singbox', 'sb', 'surge'];
 const cmad = decodeURIComponent(atob(`dGVsZWdyYW0lMjAlRTQlQkElQTQlRTYlQjUlODElRTclQkUlQTQlMjAlRTYlOEElODAlRTYlOUMlQUYlRTUlQTQlQTclRTQlQkQlQUMlN0UlRTUlOUMlQTglRTclQkElQkYlRTUlOEYlOTElRTclODklOEMhJTNDYnIlM0UKJTNDYSUyMGhyZWYlM0QlMjdodHRwcyUzQSUyRiUyRnQubWUlMkZDTUxpdXNzc3MlMjclM0VodHRwcyUzQSUyRiUyRnQubWUlMkZDTUxpdXNzc3MlM0MlMkZhJTNFJTNDYnIlM0UKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJTNDYnIlM0UKZ2l0aHViJTIwJUU5JUExJUI5JUU3JTlCJUFFJUU1JTlDJUIwJUU1JTlEJTgwJTIwU3RhciFTdGFyIVN0YXIhISElM0NiciUzRQolM0NhJTIwaHJlZiUzRCUyN2h0dHBzJTNBJTJGJTJGZ2l0aHViLmNvbSUyRmNtbGl1JTJGZXBlaXVzJTI3JTNFaHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGY21saXUlMkZlcGVpdXMlM0MlMkZhJTNFJTNDYnIlM0UKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJTNDYnIlM0UKJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIzJTIz`));
-async function get特洛伊Config(password, hostName, sub, UA, RproxyIP, _url, env) {
+async function get特洛伊Config(password, hostName, sub, UA, RproxyIP, _url, fakeUserID, fakeHostName, env) {
 	if (sub) {
 		const match = sub.match(/^(?:https?:\/\/)?([^\/]+)/);
 		if (match) {
@@ -822,18 +820,20 @@ async function get特洛伊Config(password, hostName, sub, UA, RproxyIP, _url, e
 			${surge}
 			<strong><a href="javascript:void(0);" id="noticeToggle" onclick="toggleNotice()">实用订阅技巧∨</a></strong><br>
 				<div id="noticeContent" class="notice-content" style="display: none;">
-					<strong>1.</strong> 如您使用的是 PassWall、SSR+ 等路由插件，推荐使用 <strong>Base64订阅地址</strong> 进行订阅；<br>
+					<strong>1.</strong> 如您使用的是 PassWall、PassWall2 路由插件，订阅编辑的 <strong>用户代理(User-Agent)</strong> 设置为 <strong>PassWall</strong> 即可；<br>
 					<br>
-					<strong>2.</strong> 快速切换 <a href='${atob('aHR0cHM6Ly9naXRodWIuY29tL2NtbGl1L1dvcmtlclZsZXNzMnN1Yg==')}'>优选订阅生成器</a> 至：sub.google.com，您可将"?sub=sub.google.com"参数添加到链接末尾，例如：<br>
+					<strong>2.</strong> 如您使用的是 SSR+ 路由插件，推荐使用 <strong>Base64订阅地址</strong> 进行订阅；<br>
+					<br>
+					<strong>3.</strong> 快速切换 <a href='${atob('aHR0cHM6Ly9naXRodWIuY29tL2NtbGl1L1dvcmtlclZsZXNzMnN1Yg==')}'>优选订阅生成器</a> 至：sub.google.com，您可将"?sub=sub.google.com"参数添加到链接末尾，例如：<br>
 					&nbsp;&nbsp;https://${proxyhost}${hostName}/${password}<strong>?sub=sub.google.com</strong><br>
 					<br>
-					<strong>3.</strong> 快速更换 PROXYIP 至：proxyip.fxxk.dedyn.io:443，您可将"?proxyip=proxyip.fxxk.dedyn.io:443"参数添加到链接末尾，例如：<br>
+					<strong>4.</strong> 快速更换 PROXYIP 至：proxyip.fxxk.dedyn.io:443，您可将"?proxyip=proxyip.fxxk.dedyn.io:443"参数添加到链接末尾，例如：<br>
 					&nbsp;&nbsp; https://${proxyhost}${hostName}/${password}<strong>?proxyip=proxyip.fxxk.dedyn.io:443</strong><br>
 					<br>
-					<strong>4.</strong> 快速更换 SOCKS5 至：user:password@127.0.0.1:1080，您可将"?socks5=user:password@127.0.0.1:1080"参数添加到链接末尾，例如：<br>
+					<strong>5.</strong> 快速更换 SOCKS5 至：user:password@127.0.0.1:1080，您可将"?socks5=user:password@127.0.0.1:1080"参数添加到链接末尾，例如：<br>
 					&nbsp;&nbsp;https://${proxyhost}${hostName}/${password}<strong>?socks5=user:password@127.0.0.1:1080</strong><br>
 					<br>
-					<strong>5.</strong> 如需指定多个参数则需要使用'&'做间隔，例如：<br>
+					<strong>6.</strong> 如需指定多个参数则需要使用'&'做间隔，例如：<br>
 					&nbsp;&nbsp;https://${proxyhost}${hostName}/${password}?sub=sub.google.com<strong>&</strong>proxyip=proxyip.fxxk.dedyn.io<br>
 				</div>
 			<script src="https://cdn.jsdelivr.net/npm/@keeex/qrcodejs-kx@1.0.2/qrcode.min.js"></script>
@@ -897,7 +897,7 @@ async function get特洛伊Config(password, hostName, sub, UA, RproxyIP, _url, e
 			################################################################<br>
 			${cmad}
 			`;
-		return 节点配置页;
+		return `<div style="font-size:13px;">${节点配置页}</div>`;
 	} else {
 		if (typeof fetch != 'function') {
 			return 'Error: fetch is not available in this environment.';
@@ -944,7 +944,7 @@ async function get特洛伊Config(password, hostName, sub, UA, RproxyIP, _url, e
 			url = `https://${hostName}/${fakeUserID + _url.search}`;
 		}
 
-		if (!userAgent.includes(('CF-Workers-SUB').toLowerCase())) {
+		if (!userAgent.includes(('CF-Workers-SUB').toLowerCase()) && !_url.searchParams.has('b64') && !_url.searchParams.has('base64')) {
 			if ((userAgent.includes('clash') && !userAgent.includes('nekobox')) || (_url.searchParams.has('clash'))) {
 				url = `${subProtocol}://${subConverter}/sub?target=clash&url=${encodeURIComponent(url)}&insert=false&config=${encodeURIComponent(subConfig)}&emoji=${subEmoji}&list=false&tfo=false&scv=true&fdn=false&sort=false&new_name=true`;
 				isBase64 = false;
@@ -972,7 +972,7 @@ async function get特洛伊Config(password, hostName, sub, UA, RproxyIP, _url, e
 
 			if (_url.pathname == `/${fakeUserID}`) return content;
 
-			content = revertFakeInfo(content, password, hostName, isBase64);
+			content = revertFakeInfo(content, password, hostName, fakeUserID, fakeHostName, isBase64);
 			if (userAgent.includes('surge') || _url.searchParams.has('surge')) content = surge(content, `https://${hostName}/${password}?surge`);
 			return content;
 		} catch (error) {
@@ -1271,7 +1271,7 @@ async function getAddressesapi(api) {
 		controller.abort(); // 取消所有请求
 	}, 2000); // 2秒后触发
 
-	try {   
+	try {
 		// 使用Promise.allSettled等待所有API请求完成，无论成功或失败
 		// 对api数组进行遍历，对每个API地址发起fetch请求
 		const responses = await Promise.allSettled(api.map(apiUrl => fetch(apiUrl, {
